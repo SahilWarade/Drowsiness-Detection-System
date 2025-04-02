@@ -1,0 +1,3117 @@
+Drowsiness detected at 2025-03-05 13:07:16.576238
+Drowsiness detected at 2025-03-05 13:07:16.672131
+Drowsiness detected at 2025-03-05 13:07:16.738429
+Drowsiness detected at 2025-03-05 13:07:16.802568
+Drowsiness detected at 2025-03-05 13:07:19.658141
+Drowsiness detected at 2025-03-05 13:07:19.719480
+Drowsiness detected at 2025-03-05 13:12:08.535734
+Drowsiness detected at 2025-03-05 13:12:08.585669
+Drowsiness detected at 2025-03-05 13:12:08.639787
+Drowsiness detected at 2025-03-05 13:12:08.689651
+Drowsiness detected at 2025-03-05 13:12:08.740101
+Drowsiness detected at 2025-03-05 13:12:08.790548
+Drowsiness detected at 2025-03-05 13:12:08.840972
+Drowsiness detected at 2025-03-05 13:12:08.891854
+Drowsiness detected at 2025-03-05 13:12:08.943127
+Drowsiness detected at 2025-03-05 13:12:08.992341
+Drowsiness detected at 2025-03-05 13:12:09.045338
+Drowsiness detected at 2025-03-05 13:12:09.096085
+Drowsiness detected at 2025-03-05 13:12:09.147038
+Drowsiness detected at 2025-03-05 13:12:09.197357
+Drowsiness detected at 2025-03-05 13:12:09.247234
+Drowsiness detected at 2025-03-05 13:12:09.297855
+Drowsiness detected at 2025-03-05 13:12:09.348389
+Drowsiness detected at 2025-03-05 13:12:09.397798
+Drowsiness detected at 2025-03-05 13:12:09.449352
+Drowsiness detected at 2025-03-05 13:12:09.501606
+Drowsiness detected at 2025-03-05 13:12:09.552144
+Drowsiness detected at 2025-03-05 13:12:09.603141
+Drowsiness detected at 2025-03-05 13:12:09.652888
+Drowsiness detected at 2025-03-05 13:12:09.705333
+Drowsiness detected at 2025-03-05 13:12:09.756677
+Drowsiness detected at 2025-03-05 13:12:09.809346
+Drowsiness detected at 2025-03-05 13:12:09.859070
+Drowsiness detected at 2025-03-05 13:12:09.909510
+Drowsiness detected at 2025-03-05 13:12:09.961861
+Drowsiness detected at 2025-03-05 13:12:10.015395
+Drowsiness detected at 2025-03-05 13:12:10.065910
+Drowsiness detected at 2025-03-05 13:12:10.117451
+Drowsiness detected at 2025-03-05 13:12:10.167757
+Drowsiness detected at 2025-03-05 13:12:10.218929
+Drowsiness detected at 2025-03-05 13:12:10.271921
+Drowsiness detected at 2025-03-05 13:12:10.322223
+Drowsiness detected at 2025-03-05 13:12:10.374959
+Drowsiness detected at 2025-03-05 13:12:10.425319
+Drowsiness detected at 2025-03-05 13:12:10.476367
+Drowsiness detected at 2025-03-05 13:12:10.532386
+Drowsiness detected at 2025-03-05 13:12:10.583508
+Drowsiness detected at 2025-03-05 13:12:10.635805
+Drowsiness detected at 2025-03-05 13:12:10.686422
+Drowsiness detected at 2025-03-05 13:12:10.740197
+Drowsiness detected at 2025-03-05 13:12:10.795131
+Drowsiness detected at 2025-03-05 13:12:10.849340
+Drowsiness detected at 2025-03-05 13:12:10.900050
+Drowsiness detected at 2025-03-05 13:12:10.952611
+Drowsiness detected at 2025-03-05 13:12:11.007286
+Drowsiness detected at 2025-03-05 13:12:11.058454
+Drowsiness detected at 2025-03-05 13:12:11.108726
+Drowsiness detected at 2025-03-05 13:12:11.159056
+Drowsiness detected at 2025-03-05 13:12:11.210080
+Drowsiness detected at 2025-03-05 13:12:11.260740
+Drowsiness detected at 2025-03-05 13:12:11.313041
+Drowsiness detected at 2025-03-05 13:12:11.363029
+Drowsiness detected at 2025-03-05 13:12:11.412569
+Drowsiness detected at 2025-03-05 13:12:11.468499
+Drowsiness detected at 2025-03-05 13:12:11.520931
+Drowsiness detected at 2025-03-05 13:12:11.571659
+Drowsiness detected at 2025-03-05 13:12:11.623823
+Drowsiness detected at 2025-03-05 13:12:11.675612
+Drowsiness detected at 2025-03-05 13:12:11.726447
+Drowsiness detected at 2025-03-05 13:12:11.777928
+Drowsiness detected at 2025-03-05 13:12:11.830034
+Drowsiness detected at 2025-03-05 13:12:11.883141
+Drowsiness detected at 2025-03-05 13:12:11.933760
+Drowsiness detected at 2025-03-05 13:12:11.988340
+Drowsiness detected at 2025-03-05 13:12:12.040913
+Drowsiness detected at 2025-03-05 13:12:12.092352
+Drowsiness detected at 2025-03-05 13:12:12.145928
+Drowsiness detected at 2025-03-05 13:12:12.199037
+Drowsiness detected at 2025-03-05 13:12:12.254139
+Drowsiness detected at 2025-03-05 13:12:12.310643
+Drowsiness detected at 2025-03-05 13:12:12.366386
+Drowsiness detected at 2025-03-05 13:12:12.445775
+Drowsiness detected at 2025-03-05 13:12:12.505480
+Drowsiness detected at 2025-03-05 13:12:12.556427
+Drowsiness detected at 2025-03-05 13:12:12.612583
+Drowsiness detected at 2025-03-05 13:12:12.665271
+Drowsiness detected at 2025-03-05 13:12:12.720560
+Drowsiness detected at 2025-03-05 13:12:12.773704
+Drowsiness detected at 2025-03-05 13:12:12.829095
+Drowsiness detected at 2025-03-05 13:12:12.881232
+Drowsiness detected at 2025-03-05 13:12:12.932448
+Drowsiness detected at 2025-03-05 13:12:12.982277
+Drowsiness detected at 2025-03-05 13:12:13.033288
+Drowsiness detected at 2025-03-05 13:12:13.084629
+Drowsiness detected at 2025-03-05 13:12:13.143019
+Drowsiness detected at 2025-03-05 13:12:13.197504
+Drowsiness detected at 2025-03-05 13:12:13.249626
+Drowsiness detected at 2025-03-05 13:12:13.302355
+Drowsiness detected at 2025-03-05 13:12:13.357139
+Drowsiness detected at 2025-03-05 13:12:13.410474
+Drowsiness detected at 2025-03-05 13:12:13.461816
+Drowsiness detected at 2025-03-05 13:12:13.515446
+Drowsiness detected at 2025-03-05 13:12:13.567586
+Drowsiness detected at 2025-03-05 13:12:13.617685
+Drowsiness detected at 2025-03-05 13:12:13.666856
+Drowsiness detected at 2025-03-05 13:12:13.721002
+Drowsiness detected at 2025-03-05 13:12:13.771626
+Drowsiness detected at 2025-03-05 13:12:13.822146
+Drowsiness detected at 2025-03-05 13:12:13.875920
+Drowsiness detected at 2025-03-05 13:12:13.927515
+Drowsiness detected at 2025-03-05 13:12:13.977298
+Drowsiness detected at 2025-03-05 13:12:14.029459
+Drowsiness detected at 2025-03-05 13:12:14.080938
+Drowsiness detected at 2025-03-05 13:12:18.869275
+Drowsiness detected at 2025-03-05 13:12:18.922041
+Drowsiness detected at 2025-03-05 13:12:18.974112
+Drowsiness detected at 2025-03-05 13:12:19.024213
+Drowsiness detected at 2025-03-05 13:12:19.077491
+Drowsiness detected at 2025-03-05 13:12:19.138584
+Drowsiness detected at 2025-03-05 13:12:19.188245
+Drowsiness detected at 2025-03-05 13:12:19.241581
+Drowsiness detected at 2025-03-05 13:12:19.294685
+Drowsiness detected at 2025-03-05 13:12:19.355260
+Drowsiness detected at 2025-03-05 13:12:19.409501
+Drowsiness detected at 2025-03-05 13:12:19.463128
+Drowsiness detected at 2025-03-05 13:12:19.519550
+Drowsiness detected at 2025-03-05 13:12:19.578342
+Drowsiness detected at 2025-03-05 13:12:19.635305
+Drowsiness detected at 2025-03-05 13:12:19.686064
+Drowsiness detected at 2025-03-05 13:12:19.736216
+Drowsiness detected at 2025-03-05 13:12:19.786117
+Drowsiness detected at 2025-03-05 13:12:19.836596
+Drowsiness detected at 2025-03-05 13:12:19.887070
+Drowsiness detected at 2025-03-05 13:12:19.942231
+Drowsiness detected at 2025-03-05 13:12:19.992724
+Drowsiness detected at 2025-03-05 13:12:20.044549
+Drowsiness detected at 2025-03-05 13:12:20.098026
+Drowsiness detected at 2025-03-05 13:12:20.148049
+Drowsiness detected at 2025-03-05 13:12:20.199904
+Drowsiness detected at 2025-03-05 13:12:20.250207
+Drowsiness detected at 2025-03-05 13:12:20.301027
+Drowsiness detected at 2025-03-05 13:12:20.352660
+Drowsiness detected at 2025-03-05 13:12:20.403215
+Drowsiness detected at 2025-03-05 13:12:20.456313
+Drowsiness detected at 2025-03-05 13:12:20.507308
+Drowsiness detected at 2025-03-05 13:12:20.561615
+Drowsiness detected at 2025-03-05 13:12:20.613233
+Drowsiness detected at 2025-03-05 13:12:20.669536
+Drowsiness detected at 2025-03-05 13:12:20.724296
+Drowsiness detected at 2025-03-05 13:12:20.776764
+Drowsiness detected at 2025-03-05 13:12:20.855276
+Drowsiness detected at 2025-03-05 13:12:20.913979
+Drowsiness detected at 2025-03-05 13:12:20.966202
+Drowsiness detected at 2025-03-05 13:12:21.022145
+Drowsiness detected at 2025-03-05 13:12:21.075537
+Drowsiness detected at 2025-03-05 13:12:22.403299
+Drowsiness detected at 2025-03-05 13:12:22.462519
+Drowsiness detected at 2025-03-05 13:12:22.527364
+Drowsiness detected at 2025-03-05 13:12:22.587036
+Drowsiness detected at 2025-03-05 13:12:22.694283
+Drowsiness detected at 2025-03-05 13:12:22.751277
+Drowsiness detected at 2025-03-05 13:12:22.813039
+Drowsiness detected at 2025-03-05 13:12:22.876718
+Drowsiness detected at 2025-03-05 13:12:22.936677
+Drowsiness detected at 2025-03-05 13:12:22.993504
+Drowsiness detected at 2025-03-05 13:37:55.535293
+Drowsiness detected at 2025-03-05 13:37:55.605863
+Drowsiness detected at 2025-03-05 13:37:55.659147
+Drowsiness detected at 2025-03-05 13:37:55.716029
+Drowsiness detected at 2025-03-05 13:37:55.774840
+Drowsiness detected at 2025-03-05 13:37:55.833080
+Drowsiness detected at 2025-03-05 13:37:55.894035
+Drowsiness detected at 2025-03-05 13:37:55.950965
+Drowsiness detected at 2025-03-05 13:37:56.015888
+Drowsiness detected at 2025-03-05 13:37:56.078820
+Drowsiness detected at 2025-03-05 13:37:56.142123
+Drowsiness detected at 2025-03-05 13:37:56.207280
+Drowsiness detected at 2025-03-05 13:37:56.265667
+Drowsiness detected at 2025-03-05 13:37:56.325027
+Drowsiness detected at 2025-03-05 13:37:56.388609
+Drowsiness detected at 2025-03-05 13:37:56.448715
+Drowsiness detected at 2025-03-05 13:37:56.505889
+Drowsiness detected at 2025-03-05 13:37:56.568696
+Drowsiness detected at 2025-03-05 13:37:56.626490
+Drowsiness detected at 2025-03-05 13:37:56.688681
+Drowsiness detected at 2025-03-05 13:37:56.746209
+Drowsiness detected at 2025-03-05 13:37:56.806148
+Drowsiness detected at 2025-03-05 13:37:56.859393
+Drowsiness detected at 2025-03-05 13:37:56.917499
+Drowsiness detected at 2025-03-05 13:37:56.975578
+Drowsiness detected at 2025-03-05 13:38:06.905578
+Drowsiness detected at 2025-03-05 13:38:06.963403
+Drowsiness detected at 2025-03-05 13:38:07.028132
+Drowsiness detected at 2025-03-05 13:38:09.214449
+Drowsiness detected at 2025-03-05 13:38:11.876287
+Drowsiness detected at 2025-03-05 13:38:11.935734
+Drowsiness detected at 2025-03-05 13:38:11.943010
+Drowsiness detected at 2025-03-05 13:38:12.004381
+Drowsiness detected at 2025-03-05 13:38:12.076466
+Drowsiness detected at 2025-03-05 13:39:39.995094
+Drowsiness detected at 2025-03-05 13:39:40.056492
+Drowsiness detected at 2025-03-05 13:39:40.119097
+Drowsiness detected at 2025-03-05 13:39:40.178668
+Drowsiness detected at 2025-03-05 13:39:40.237310
+Drowsiness detected at 2025-03-05 13:39:40.293784
+Drowsiness detected at 2025-03-05 13:39:40.350651
+Drowsiness detected at 2025-03-05 13:39:40.407586
+Drowsiness detected at 2025-03-05 13:39:40.464653
+Drowsiness detected at 2025-03-05 13:39:40.522964
+Drowsiness detected at 2025-03-05 13:39:40.586788
+Drowsiness detected at 2025-03-05 13:39:40.646269
+Drowsiness detected at 2025-03-05 13:39:40.707693
+Drowsiness detected at 2025-03-05 13:39:40.765236
+Drowsiness detected at 2025-03-05 13:39:40.824363
+Drowsiness detected at 2025-03-05 13:39:40.886440
+Drowsiness detected at 2025-03-05 13:39:40.949100
+Drowsiness detected at 2025-03-05 13:39:44.328389
+Drowsiness detected at 2025-03-05 13:39:44.389170
+Drowsiness detected at 2025-03-05 13:39:44.446511
+Drowsiness detected at 2025-03-05 13:39:44.510122
+Drowsiness detected at 2025-03-05 13:39:44.570018
+Drowsiness detected at 2025-03-05 13:39:44.630776
+Drowsiness detected at 2025-03-05 13:39:44.694390
+Drowsiness detected at 2025-03-05 13:39:44.751320
+Drowsiness detected at 2025-03-05 13:39:44.810924
+Drowsiness detected at 2025-03-05 13:39:44.868833
+Drowsiness detected at 2025-03-05 13:39:44.929391
+Drowsiness detected at 2025-03-05 13:39:44.991627
+Drowsiness detected at 2025-03-05 13:39:45.053687
+Drowsiness detected at 2025-03-05 13:39:45.114297
+Drowsiness detected at 2025-03-05 13:39:45.179713
+Drowsiness detected at 2025-03-05 13:39:45.241637
+Drowsiness detected at 2025-03-05 13:39:45.330191
+Drowsiness detected at 2025-03-05 13:39:45.404292
+Drowsiness detected at 2025-03-05 13:39:45.469052
+Drowsiness detected at 2025-03-05 13:39:45.528433
+Drowsiness detected at 2025-03-05 13:39:45.584030
+Drowsiness detected at 2025-03-05 13:39:45.646467
+Drowsiness detected at 2025-03-05 13:39:45.708421
+Drowsiness detected at 2025-03-05 13:39:45.762066
+Drowsiness detected at 2025-03-05 13:39:45.821011
+Drowsiness detected at 2025-03-05 13:39:45.887432
+Drowsiness detected at 2025-03-05 13:39:45.950322
+Drowsiness detected at 2025-03-05 13:39:46.010770
+Drowsiness detected at 2025-03-05 13:39:46.071710
+Drowsiness detected at 2025-03-05 13:39:46.133732
+Drowsiness detected at 2025-03-05 13:39:46.192332
+Drowsiness detected at 2025-03-05 13:39:46.250688
+Drowsiness detected at 2025-03-05 13:39:46.310255
+Drowsiness detected at 2025-03-05 13:39:46.370757
+Drowsiness detected at 2025-03-05 13:39:46.433726
+Drowsiness detected at 2025-03-05 13:39:46.494888
+Drowsiness detected at 2025-03-05 13:39:46.557873
+Drowsiness detected at 2025-03-05 13:39:46.617247
+Drowsiness detected at 2025-03-05 13:39:46.678015
+Drowsiness detected at 2025-03-05 13:39:46.737610
+Drowsiness detected at 2025-03-05 13:39:46.793268
+Drowsiness detected at 2025-03-05 13:39:46.853405
+Drowsiness detected at 2025-03-05 13:39:46.912008
+Drowsiness detected at 2025-03-05 13:39:46.973200
+Drowsiness detected at 2025-03-05 13:39:47.030517
+Drowsiness detected at 2025-03-05 13:39:47.094678
+Drowsiness detected at 2025-03-05 13:39:47.155455
+Drowsiness detected at 2025-03-05 13:39:47.215081
+Drowsiness detected at 2025-03-05 13:39:47.271798
+Drowsiness detected at 2025-03-05 13:39:47.330879
+Drowsiness detected at 2025-03-05 13:39:47.388060
+Drowsiness detected at 2025-03-05 13:39:47.449274
+Drowsiness detected at 2025-03-05 13:39:47.504354
+Drowsiness detected at 2025-03-05 13:39:47.566861
+Drowsiness detected at 2025-03-05 13:39:47.621211
+Drowsiness detected at 2025-03-05 13:39:47.680004
+Drowsiness detected at 2025-03-05 13:39:47.737823
+Drowsiness detected at 2025-03-05 13:39:47.798788
+Drowsiness detected at 2025-03-05 13:39:47.858164
+Drowsiness detected at 2025-03-05 13:39:47.921731
+Drowsiness detected at 2025-03-05 13:39:47.983716
+Drowsiness detected at 2025-03-05 13:39:48.043191
+Drowsiness detected at 2025-03-05 13:39:48.102576
+Drowsiness detected at 2025-03-05 13:39:48.161677
+Drowsiness detected at 2025-03-05 13:39:48.225331
+Drowsiness detected at 2025-03-05 13:39:48.286541
+Drowsiness detected at 2025-03-05 13:39:48.350093
+Drowsiness detected at 2025-03-05 13:39:48.431731
+Drowsiness detected at 2025-03-05 13:39:48.508935
+Drowsiness detected at 2025-03-05 13:39:48.566309
+Drowsiness detected at 2025-03-05 13:39:48.623229
+Drowsiness detected at 2025-03-05 13:39:48.683305
+Drowsiness detected at 2025-03-05 13:39:48.743355
+Drowsiness detected at 2025-03-05 13:39:48.801577
+Drowsiness detected at 2025-03-05 13:39:48.865788
+Drowsiness detected at 2025-03-05 13:39:48.925967
+Drowsiness detected at 2025-03-05 13:39:48.989900
+Drowsiness detected at 2025-03-05 13:39:49.050722
+Drowsiness detected at 2025-03-05 13:39:49.116291
+Drowsiness detected at 2025-03-05 13:39:49.174252
+Drowsiness detected at 2025-03-05 13:39:49.232261
+Drowsiness detected at 2025-03-05 13:39:49.297585
+Drowsiness detected at 2025-03-05 13:40:24.105139
+Drowsiness detected at 2025-03-05 13:40:24.169289
+Drowsiness detected at 2025-03-05 13:40:24.175783
+Drowsiness detected at 2025-03-05 13:40:24.238765
+Drowsiness detected at 2025-03-05 13:40:24.248258
+Drowsiness detected at 2025-03-05 13:40:24.306795
+Drowsiness detected at 2025-03-05 13:40:24.317259
+Drowsiness detected at 2025-03-05 13:40:24.375402
+Drowsiness detected at 2025-03-05 13:40:25.219878
+Drowsiness detected at 2025-03-05 13:40:25.281694
+Drowsiness detected at 2025-03-05 13:40:25.342923
+Drowsiness detected at 2025-03-05 13:40:34.386266
+Drowsiness detected at 2025-03-05 13:40:34.446257
+Drowsiness detected at 2025-03-05 13:40:34.508752
+Drowsiness detected at 2025-03-05 13:40:34.569288
+Drowsiness detected at 2025-03-05 13:40:34.625308
+Drowsiness detected at 2025-03-05 13:40:34.684082
+Drowsiness detected at 2025-03-05 13:40:34.743226
+Drowsiness detected at 2025-03-05 13:40:34.803042
+Drowsiness detected at 2025-03-05 13:40:34.858770
+Drowsiness detected at 2025-03-05 13:40:34.917051
+Drowsiness detected at 2025-03-05 13:40:34.985005
+Drowsiness detected at 2025-03-05 13:40:35.037976
+Drowsiness detected at 2025-03-05 13:40:35.097574
+Drowsiness detected at 2025-03-05 13:40:35.155252
+Drowsiness detected at 2025-03-05 13:40:35.216486
+Drowsiness detected at 2025-03-05 13:40:35.280787
+Drowsiness detected at 2025-03-05 13:40:35.340778
+Drowsiness detected at 2025-03-05 13:40:35.399465
+Drowsiness detected at 2025-03-05 13:40:35.459129
+Drowsiness detected at 2025-03-05 13:40:35.521696
+Drowsiness detected at 2025-03-05 13:40:35.578913
+Drowsiness detected at 2025-03-05 13:40:35.639128
+Drowsiness detected at 2025-03-05 13:40:35.695498
+Drowsiness detected at 2025-03-05 13:40:35.754650
+Drowsiness detected at 2025-03-05 13:40:35.812836
+Drowsiness detected at 2025-03-05 13:40:35.872296
+Drowsiness detected at 2025-03-05 13:40:35.934652
+Drowsiness detected at 2025-03-05 13:40:35.994530
+Drowsiness detected at 2025-03-05 13:40:36.060239
+Drowsiness detected at 2025-03-05 13:40:36.120143
+Drowsiness detected at 2025-03-05 13:40:36.179717
+Drowsiness detected at 2025-03-05 13:40:36.240190
+Drowsiness detected at 2025-03-05 13:40:38.062888
+Drowsiness detected at 2025-03-05 13:40:38.124697
+Drowsiness detected at 2025-03-05 13:40:38.180990
+Drowsiness detected at 2025-03-05 13:40:39.412264
+Drowsiness detected at 2025-03-05 13:40:39.473669
+Drowsiness detected at 2025-03-05 13:40:39.548819
+Drowsiness detected at 2025-03-05 13:40:39.627838
+Drowsiness detected at 2025-03-05 13:40:39.687117
+Drowsiness detected at 2025-03-05 13:40:39.743157
+Drowsiness detected at 2025-03-05 13:40:39.802380
+Drowsiness detected at 2025-03-05 13:40:39.860857
+Drowsiness detected at 2025-03-05 13:40:39.927065
+Drowsiness detected at 2025-03-05 13:40:39.990716
+Drowsiness detected at 2025-03-05 13:40:40.046309
+Drowsiness detected at 2025-03-05 13:40:40.105211
+Drowsiness detected at 2025-03-05 13:40:40.159985
+Drowsiness detected at 2025-03-05 13:40:40.220695
+Drowsiness detected at 2025-03-05 13:40:40.275148
+Drowsiness detected at 2025-03-05 13:40:40.340681
+Drowsiness detected at 2025-03-05 13:40:40.403870
+Drowsiness detected at 2025-03-05 13:40:40.466368
+Drowsiness detected at 2025-03-05 13:40:40.531947
+Drowsiness detected at 2025-03-05 13:40:40.588266
+Drowsiness detected at 2025-03-05 13:40:40.650443
+Drowsiness detected at 2025-03-05 13:40:40.707132
+Drowsiness detected at 2025-03-05 13:40:40.765697
+Drowsiness detected at 2025-03-05 13:40:40.823373
+Drowsiness detected at 2025-03-05 13:40:40.882051
+Drowsiness detected at 2025-03-05 13:40:40.942413
+Drowsiness detected at 2025-03-05 13:40:41.005631
+Drowsiness detected at 2025-03-05 13:40:41.062547
+Drowsiness detected at 2025-03-05 13:40:41.123583
+Drowsiness detected at 2025-03-05 13:40:41.184480
+Drowsiness detected at 2025-03-05 13:40:41.248491
+Drowsiness detected at 2025-03-05 13:40:41.308182
+Drowsiness detected at 2025-03-05 13:40:41.363160
+Drowsiness detected at 2025-03-05 13:40:41.421424
+Drowsiness detected at 2025-03-05 13:40:41.484466
+Drowsiness detected at 2025-03-05 13:40:41.544092
+Drowsiness detected at 2025-03-05 13:40:41.605207
+Drowsiness detected at 2025-03-05 13:40:41.670652
+Drowsiness detected at 2025-03-05 13:40:44.230135
+Drowsiness detected at 2025-03-05 13:40:44.290977
+Drowsiness detected at 2025-03-05 13:40:44.344649
+Drowsiness detected at 2025-03-05 13:40:44.404864
+Drowsiness detected at 2025-03-05 13:40:44.466582
+Drowsiness detected at 2025-03-05 13:40:44.524683
+Drowsiness detected at 2025-03-05 13:40:44.589739
+Drowsiness detected at 2025-03-05 13:40:44.595146
+Drowsiness detected at 2025-03-05 13:40:44.682162
+Drowsiness detected at 2025-03-05 13:40:44.691428
+Drowsiness detected at 2025-03-05 13:40:44.788140
+Drowsiness detected at 2025-03-05 13:40:44.795257
+Drowsiness detected at 2025-03-05 13:40:44.857368
+Drowsiness detected at 2025-03-05 13:40:44.863831
+Drowsiness detected at 2025-03-05 13:40:44.927543
+Drowsiness detected at 2025-03-05 13:40:44.935385
+Drowsiness detected at 2025-03-05 13:40:45.005251
+Drowsiness detected at 2025-03-05 13:40:45.011642
+Drowsiness detected at 2025-03-05 13:40:46.099091
+Drowsiness detected at 2025-03-05 13:40:46.160108
+Drowsiness detected at 2025-03-05 13:40:46.218310
+Drowsiness detected at 2025-03-05 13:40:46.280683
+Drowsiness detected at 2025-03-05 13:40:46.340259
+Drowsiness detected at 2025-03-05 13:40:46.395639
+Drowsiness detected at 2025-03-05 13:40:46.453821
+Drowsiness detected at 2025-03-05 13:40:46.512228
+Drowsiness detected at 2025-03-05 13:40:46.574815
+Drowsiness detected at 2025-03-05 13:40:46.640398
+Drowsiness detected at 2025-03-05 13:40:46.696934
+Drowsiness detected at 2025-03-05 13:40:46.755916
+Drowsiness detected at 2025-03-05 13:40:46.822804
+Drowsiness detected at 2025-03-05 13:40:46.882261
+Drowsiness detected at 2025-03-05 13:40:46.943626
+Drowsiness detected at 2025-03-05 13:40:46.997863
+Drowsiness detected at 2025-03-05 13:40:51.721526
+Drowsiness detected at 2025-03-05 13:40:52.809664
+Drowsiness detected at 2025-03-05 13:40:52.866714
+Drowsiness detected at 2025-03-05 13:40:52.932632
+Drowsiness detected at 2025-03-05 13:40:52.987261
+Drowsiness detected at 2025-03-05 13:40:53.051214
+Drowsiness detected at 2025-03-05 13:40:53.112934
+Drowsiness detected at 2025-03-05 13:40:53.173517
+Drowsiness detected at 2025-03-05 13:40:53.237272
+Drowsiness detected at 2025-03-05 13:40:53.297158
+Drowsiness detected at 2025-03-05 13:40:53.354171
+Drowsiness detected at 2025-03-05 13:40:53.415050
+Drowsiness detected at 2025-03-05 13:40:53.471871
+Drowsiness detected at 2025-03-05 13:40:53.535802
+Drowsiness detected at 2025-03-05 13:40:53.596747
+Drowsiness detected at 2025-03-05 13:40:53.652870
+Drowsiness detected at 2025-03-05 13:40:53.713119
+Drowsiness detected at 2025-03-05 13:40:53.771505
+Drowsiness detected at 2025-03-05 13:40:53.829720
+Drowsiness detected at 2025-03-05 13:40:53.893724
+Drowsiness detected at 2025-03-05 13:40:53.953902
+Drowsiness detected at 2025-03-05 13:40:54.015425
+Drowsiness detected at 2025-03-05 13:40:54.078339
+Drowsiness detected at 2025-03-05 13:40:54.147487
+Drowsiness detected at 2025-03-05 13:40:54.215850
+Drowsiness detected at 2025-03-05 13:40:54.276852
+Drowsiness detected at 2025-03-05 13:40:54.334690
+Drowsiness detected at 2025-03-05 13:40:54.420417
+Drowsiness detected at 2025-03-05 13:40:54.493652
+Drowsiness detected at 2025-03-05 13:40:54.593352
+Drowsiness detected at 2025-03-05 13:40:54.654975
+Drowsiness detected at 2025-03-05 13:40:54.712428
+Drowsiness detected at 2025-03-05 13:40:54.771560
+Drowsiness detected at 2025-03-05 13:40:54.831244
+Drowsiness detected at 2025-03-05 13:40:54.894015
+Drowsiness detected at 2025-03-05 13:40:54.956119
+Drowsiness detected at 2025-03-05 13:40:55.017575
+Drowsiness detected at 2025-03-05 13:40:55.073034
+Drowsiness detected at 2025-03-05 13:40:55.131383
+Drowsiness detected at 2025-03-05 13:40:56.172513
+Drowsiness detected at 2025-03-05 13:40:56.230622
+Drowsiness detected at 2025-03-05 13:40:56.285333
+Drowsiness detected at 2025-03-05 13:40:56.344971
+Drowsiness detected at 2025-03-05 13:40:56.401336
+Drowsiness detected at 2025-03-05 13:40:58.067001
+Drowsiness detected at 2025-03-05 13:40:58.130502
+Drowsiness detected at 2025-03-05 13:40:59.951777
+Drowsiness detected at 2025-03-05 13:41:00.008287
+Drowsiness detected at 2025-03-05 13:41:00.067570
+Drowsiness detected at 2025-03-05 13:41:00.134728
+Drowsiness detected at 2025-03-05 13:41:00.192117
+Drowsiness detected at 2025-03-05 13:41:00.254736
+Drowsiness detected at 2025-03-05 13:41:00.321497
+Drowsiness detected at 2025-03-05 13:41:00.380762
+Drowsiness detected at 2025-03-05 13:41:00.443701
+Drowsiness detected at 2025-03-05 13:41:00.503689
+Drowsiness detected at 2025-03-05 13:41:00.565195
+Drowsiness detected at 2025-03-05 13:41:00.620594
+Drowsiness detected at 2025-03-05 13:41:00.682644
+Drowsiness detected at 2025-03-05 13:41:00.736042
+Drowsiness detected at 2025-03-05 13:41:00.794975
+Drowsiness detected at 2025-03-05 13:41:00.850915
+Drowsiness detected at 2025-03-05 13:41:00.916487
+Drowsiness detected at 2025-03-05 13:41:00.970356
+Drowsiness detected at 2025-03-05 13:41:01.034070
+Drowsiness detected at 2025-03-05 13:41:01.097452
+Drowsiness detected at 2025-03-05 13:41:01.156265
+Drowsiness detected at 2025-03-05 13:41:01.216374
+Drowsiness detected at 2025-03-05 13:41:01.278084
+Drowsiness detected at 2025-03-05 13:41:01.362970
+Drowsiness detected at 2025-03-05 13:41:01.421975
+Drowsiness detected at 2025-03-05 13:41:01.485387
+Drowsiness detected at 2025-03-05 13:41:01.545417
+Drowsiness detected at 2025-03-05 13:41:01.598807
+Drowsiness detected at 2025-03-05 13:41:01.665684
+Drowsiness detected at 2025-03-05 13:41:01.723145
+Drowsiness detected at 2025-03-05 13:41:01.783516
+Drowsiness detected at 2025-03-05 13:41:01.838559
+Drowsiness detected at 2025-03-05 13:41:01.897927
+Drowsiness detected at 2025-03-05 13:41:01.952676
+Drowsiness detected at 2025-03-05 13:41:02.010806
+Drowsiness detected at 2025-03-05 13:41:02.072220
+Drowsiness detected at 2025-03-05 13:41:02.133799
+Drowsiness detected at 2025-03-05 13:41:02.188449
+Drowsiness detected at 2025-03-05 13:41:02.249246
+Drowsiness detected at 2025-03-05 13:41:02.313997
+Drowsiness detected at 2025-03-05 13:41:02.373884
+Drowsiness detected at 2025-03-05 13:41:02.436116
+Drowsiness detected at 2025-03-05 13:41:02.496610
+Drowsiness detected at 2025-03-05 13:41:02.557835
+Drowsiness detected at 2025-03-05 13:41:02.614674
+Drowsiness detected at 2025-03-05 13:41:02.674159
+Drowsiness detected at 2025-03-05 13:41:02.738166
+Drowsiness detected at 2025-03-05 13:41:02.788661
+Drowsiness detected at 2025-03-05 13:41:02.853008
+Drowsiness detected at 2025-03-05 13:41:07.835143
+Drowsiness detected at 2025-03-05 13:41:07.900278
+Drowsiness detected at 2025-03-05 13:41:07.961660
+Drowsiness detected at 2025-03-05 13:41:08.022682
+Drowsiness detected at 2025-03-05 13:41:08.081250
+Drowsiness detected at 2025-03-05 13:41:08.137166
+Drowsiness detected at 2025-03-05 13:41:08.192845
+Drowsiness detected at 2025-03-05 13:41:08.250427
+Drowsiness detected at 2025-03-05 13:41:08.307696
+Drowsiness detected at 2025-03-05 13:41:08.365751
+Drowsiness detected at 2025-03-05 13:41:08.424212
+Drowsiness detected at 2025-03-05 13:41:08.478788
+Drowsiness detected at 2025-03-05 13:41:08.543690
+Drowsiness detected at 2025-03-05 13:41:08.595399
+Drowsiness detected at 2025-03-05 13:41:08.661456
+Drowsiness detected at 2025-03-05 13:41:08.719460
+Drowsiness detected at 2025-03-05 13:41:08.774550
+Drowsiness detected at 2025-03-05 13:41:11.810668
+Drowsiness detected at 2025-03-05 13:41:11.868253
+Drowsiness detected at 2025-03-05 13:41:11.926008
+Drowsiness detected at 2025-03-05 13:41:11.991018
+Drowsiness detected at 2025-03-05 13:41:12.048456
+Drowsiness detected at 2025-03-05 13:41:12.107603
+Drowsiness detected at 2025-03-05 13:41:12.169915
+Drowsiness detected at 2025-03-05 13:41:12.226591
+Drowsiness detected at 2025-03-05 13:41:12.290001
+Drowsiness detected at 2025-03-05 13:41:12.363133
+Drowsiness detected at 2025-03-05 13:41:12.433157
+Drowsiness detected at 2025-03-05 13:41:12.507660
+Drowsiness detected at 2025-03-05 13:41:12.562411
+Drowsiness detected at 2025-03-05 13:41:12.617364
+Drowsiness detected at 2025-03-05 13:41:12.674179
+Drowsiness detected at 2025-03-05 13:41:12.737206
+Drowsiness detected at 2025-03-05 13:41:12.793771
+Drowsiness detected at 2025-03-05 13:41:12.857638
+Drowsiness detected at 2025-03-05 13:41:12.918462
+Drowsiness detected at 2025-03-05 13:41:12.982715
+Drowsiness detected at 2025-03-05 13:41:13.043273
+Drowsiness detected at 2025-03-05 13:41:13.101547
+Drowsiness detected at 2025-03-05 13:41:13.164375
+Drowsiness detected at 2025-03-05 13:41:13.226061
+Drowsiness detected at 2025-03-05 13:41:13.286209
+Drowsiness detected at 2025-03-05 13:41:13.341090
+Drowsiness detected at 2025-03-05 13:41:13.405359
+Drowsiness detected at 2025-03-05 13:41:13.461531
+Drowsiness detected at 2025-03-05 13:41:13.522819
+Drowsiness detected at 2025-03-05 13:41:13.577554
+Drowsiness detected at 2025-03-05 13:41:13.637371
+Drowsiness detected at 2025-03-05 13:41:19.763784
+Drowsiness detected at 2025-03-05 13:41:19.828500
+Drowsiness detected at 2025-03-05 13:41:19.885729
+Drowsiness detected at 2025-03-05 13:41:19.945261
+Drowsiness detected at 2025-03-05 13:41:20.009113
+Drowsiness detected at 2025-03-05 13:41:20.068779
+Drowsiness detected at 2025-03-05 13:41:20.131487
+Drowsiness detected at 2025-03-05 13:41:20.187016
+Drowsiness detected at 2025-03-05 13:41:20.248885
+Drowsiness detected at 2025-03-05 13:41:20.305335
+Drowsiness detected at 2025-03-05 13:41:20.377786
+Drowsiness detected at 2025-03-05 13:41:20.432125
+Drowsiness detected at 2025-03-05 13:41:20.491717
+Drowsiness detected at 2025-03-05 13:41:20.544302
+Drowsiness detected at 2025-03-05 13:41:20.602847
+Drowsiness detected at 2025-03-05 13:41:20.660996
+Drowsiness detected at 2025-03-15 13:28:17.623847
+Drowsiness detected at 2025-03-15 13:28:17.663485
+Drowsiness detected at 2025-03-15 13:28:17.704950
+Drowsiness detected at 2025-03-15 13:28:17.749957
+Drowsiness detected at 2025-03-15 13:28:17.788565
+Drowsiness detected at 2025-03-15 13:28:17.828871
+Drowsiness detected at 2025-03-15 13:28:17.870320
+Drowsiness detected at 2025-03-15 13:28:17.908436
+Drowsiness detected at 2025-03-15 13:28:17.946140
+Drowsiness detected at 2025-03-15 13:28:17.981045
+Drowsiness detected at 2025-03-15 13:28:18.019947
+Drowsiness detected at 2025-03-15 13:28:18.056236
+Drowsiness detected at 2025-03-15 13:28:18.094392
+Drowsiness detected at 2025-03-15 13:28:18.130476
+Drowsiness detected at 2025-03-15 13:28:18.166425
+Drowsiness detected at 2025-03-15 13:28:18.204410
+Drowsiness detected at 2025-03-15 13:28:18.242920
+Drowsiness detected at 2025-03-15 13:28:18.283378
+Drowsiness detected at 2025-03-15 13:28:18.321915
+Drowsiness detected at 2025-03-15 13:28:18.362911
+Drowsiness detected at 2025-03-15 13:28:18.403604
+Drowsiness detected at 2025-03-15 13:28:18.445048
+Drowsiness detected at 2025-03-15 13:28:18.481256
+Drowsiness detected at 2025-03-15 13:28:18.519100
+Drowsiness detected at 2025-03-15 13:28:18.554715
+Drowsiness detected at 2025-03-15 13:28:18.590389
+Drowsiness detected at 2025-03-15 13:28:18.624618
+Drowsiness detected at 2025-03-15 13:28:18.662694
+Drowsiness detected at 2025-03-15 13:28:18.699597
+Drowsiness detected at 2025-03-15 13:28:18.738677
+Drowsiness detected at 2025-03-15 13:28:18.773388
+Drowsiness detected at 2025-03-15 13:28:18.808759
+Drowsiness detected at 2025-03-15 13:28:18.849386
+Drowsiness detected at 2025-03-15 13:28:18.888774
+Drowsiness detected at 2025-03-15 13:28:18.930148
+Drowsiness detected at 2025-03-15 13:28:18.968108
+Drowsiness detected at 2025-03-15 13:28:19.005989
+Drowsiness detected at 2025-03-15 13:28:19.045002
+Drowsiness detected at 2025-03-15 13:28:19.077901
+Drowsiness detected at 2025-03-15 13:28:19.115153
+Drowsiness detected at 2025-03-15 13:28:19.152761
+Drowsiness detected at 2025-03-15 13:28:19.189558
+Drowsiness detected at 2025-03-15 13:28:21.236645
+Drowsiness detected at 2025-03-15 13:28:21.277179
+Drowsiness detected at 2025-03-15 13:28:21.317514
+Drowsiness detected at 2025-03-15 13:28:21.357197
+Drowsiness detected at 2025-03-15 13:28:21.397444
+Drowsiness detected at 2025-03-15 13:28:21.436760
+Drowsiness detected at 2025-03-15 13:28:21.477112
+Drowsiness detected at 2025-03-15 13:28:21.514781
+Drowsiness detected at 2025-03-15 13:28:21.553235
+Drowsiness detected at 2025-03-15 13:28:21.589336
+Drowsiness detected at 2025-03-15 13:28:21.625723
+Drowsiness detected at 2025-03-15 13:28:21.661084
+Drowsiness detected at 2025-03-15 13:28:21.697596
+Drowsiness detected at 2025-03-15 13:28:21.735451
+Drowsiness detected at 2025-03-15 13:28:21.775856
+Drowsiness detected at 2025-03-15 13:28:21.816861
+Drowsiness detected at 2025-03-15 13:28:21.855770
+Drowsiness detected at 2025-03-15 13:28:21.890223
+Drowsiness detected at 2025-03-15 13:28:21.924152
+Drowsiness detected at 2025-03-15 13:28:21.959302
+Drowsiness detected at 2025-03-15 13:28:21.993719
+Drowsiness detected at 2025-03-15 13:28:22.027265
+Drowsiness detected at 2025-03-15 13:28:22.061902
+Drowsiness detected at 2025-03-15 13:28:22.096157
+Drowsiness detected at 2025-03-15 13:28:22.134210
+Drowsiness detected at 2025-03-15 13:28:22.169319
+Drowsiness detected at 2025-03-15 13:28:22.209269
+Drowsiness detected at 2025-03-15 13:28:22.244715
+Drowsiness detected at 2025-03-15 13:28:22.278830
+Drowsiness detected at 2025-03-15 13:28:22.319691
+Drowsiness detected at 2025-03-15 13:28:22.359502
+Drowsiness detected at 2025-03-15 13:28:22.396895
+Drowsiness detected at 2025-03-15 13:28:22.432952
+Drowsiness detected at 2025-03-15 13:28:44.771243
+Drowsiness detected at 2025-03-15 13:28:44.816698
+Drowsiness detected at 2025-03-15 13:28:44.853959
+Drowsiness detected at 2025-03-15 13:28:44.891912
+Drowsiness detected at 2025-03-15 13:31:41.021875
+Drowsiness detected at 2025-03-15 13:31:41.061801
+Drowsiness detected at 2025-03-15 13:31:41.101312
+Drowsiness detected at 2025-03-15 13:31:41.141020
+Drowsiness detected at 2025-03-15 13:31:41.179811
+Drowsiness detected at 2025-03-15 13:31:41.216175
+Drowsiness detected at 2025-03-15 13:31:41.254841
+Drowsiness detected at 2025-03-15 13:31:41.292887
+Drowsiness detected at 2025-03-15 13:31:41.326983
+Drowsiness detected at 2025-03-15 13:31:41.363375
+Drowsiness detected at 2025-03-15 13:31:41.398071
+Drowsiness detected at 2025-03-15 13:31:41.437196
+Drowsiness detected at 2025-03-15 13:31:41.476234
+Drowsiness detected at 2025-03-15 13:31:41.515101
+Drowsiness detected at 2025-03-15 13:31:41.552774
+Drowsiness detected at 2025-03-15 13:31:41.593800
+Drowsiness detected at 2025-03-15 13:31:41.634463
+Drowsiness detected at 2025-03-15 13:31:41.669967
+Drowsiness detected at 2025-03-15 13:31:41.708176
+Drowsiness detected at 2025-03-15 13:31:41.746620
+Head down detected at 2025-03-17 17:26:30.646192
+Head down detected at 2025-03-17 17:26:30.708488
+Head down detected at 2025-03-17 17:26:30.763918
+Head down detected at 2025-03-17 17:26:30.828970
+Head down detected at 2025-03-17 17:26:30.885744
+Head down detected at 2025-03-17 17:26:30.943623
+Head down detected at 2025-03-17 17:26:31.013829
+Head down detected at 2025-03-17 17:26:31.071385
+Head down detected at 2025-03-17 17:26:31.177716
+Head down detected at 2025-03-17 17:26:31.247944
+Head down detected at 2025-03-17 17:26:31.418101
+Head down detected at 2025-03-17 17:26:31.720249
+Head down detected at 2025-03-17 17:26:31.838885
+Head down detected at 2025-03-17 17:26:31.906949
+Head down detected at 2025-03-17 17:26:31.966909
+Head down detected at 2025-03-17 17:26:32.028491
+Head down detected at 2025-03-17 17:26:32.088075
+Head down detected at 2025-03-17 17:26:32.150486
+Head down detected at 2025-03-17 17:26:32.211639
+Head down detected at 2025-03-17 17:26:32.273088
+Head down detected at 2025-03-17 17:26:32.326422
+Head down detected at 2025-03-17 17:26:32.390739
+Head down detected at 2025-03-17 17:26:32.449539
+Head down detected at 2025-03-17 17:26:32.509615
+Head down detected at 2025-03-17 17:26:32.568295
+Head down detected at 2025-03-17 17:26:32.633299
+Head down detected at 2025-03-17 17:26:32.686435
+Head down detected at 2025-03-17 17:26:32.747943
+Head down detected at 2025-03-17 17:26:32.817657
+Head down detected at 2025-03-17 17:26:32.900784
+Head down detected at 2025-03-17 17:26:33.054842
+Head down detected at 2025-03-17 17:26:33.109654
+Head down detected at 2025-03-17 17:26:33.172595
+Head down detected at 2025-03-17 17:26:33.239207
+Head down detected at 2025-03-17 17:26:33.298476
+Head down detected at 2025-03-17 17:26:33.360206
+Head down detected at 2025-03-17 17:26:33.421581
+Head down detected at 2025-03-17 17:26:33.481533
+Head down detected at 2025-03-17 17:26:33.542734
+Head down detected at 2025-03-17 17:26:33.599340
+Head down detected at 2025-03-17 17:26:33.658966
+Head down detected at 2025-03-17 17:26:33.720902
+Head down detected at 2025-03-17 17:26:33.780195
+Head down detected at 2025-03-17 17:26:33.842958
+Head down detected at 2025-03-17 17:26:33.906337
+Head down detected at 2025-03-17 17:26:33.964157
+Head down detected at 2025-03-17 17:26:34.024831
+Head down detected at 2025-03-17 17:26:34.083558
+Head down detected at 2025-03-17 17:26:34.140827
+Head down detected at 2025-03-17 17:26:34.198779
+Head down detected at 2025-03-17 17:26:34.261096
+Head down detected at 2025-03-17 17:26:34.312031
+Head down detected at 2025-03-17 17:26:34.374437
+Head down detected at 2025-03-17 17:26:34.434939
+Head down detected at 2025-03-17 17:26:34.491394
+Head down detected at 2025-03-17 17:26:34.547959
+Head down detected at 2025-03-17 17:26:34.609518
+Head down detected at 2025-03-17 17:26:34.678136
+Head down detected at 2025-03-17 17:26:34.738371
+Head down detected at 2025-03-17 17:26:34.798115
+Head down detected at 2025-03-17 17:26:34.861698
+Head down detected at 2025-03-17 17:26:34.919220
+Head down detected at 2025-03-17 17:26:34.977296
+Head down detected at 2025-03-17 17:26:35.045479
+Head down detected at 2025-03-17 17:26:35.105939
+Head down detected at 2025-03-17 17:26:35.167954
+Head down detected at 2025-03-17 17:26:35.229031
+Head down detected at 2025-03-17 17:26:35.289463
+Head down detected at 2025-03-17 17:26:35.345955
+Head down detected at 2025-03-17 17:26:35.405929
+Head down detected at 2025-03-17 17:26:35.466362
+Head down detected at 2025-03-17 17:26:35.522394
+Head down detected at 2025-03-17 17:26:35.581327
+Head down detected at 2025-03-17 17:26:35.649825
+Head down detected at 2025-03-17 17:26:35.731689
+Head down detected at 2025-03-17 17:26:35.785146
+Head down detected at 2025-03-17 17:26:35.846281
+Head down detected at 2025-03-17 17:26:35.909018
+Head down detected at 2025-03-17 17:26:35.969579
+Head down detected at 2025-03-17 17:26:36.031191
+Head down detected at 2025-03-17 17:26:36.087793
+Head down detected at 2025-03-17 17:26:36.149129
+Head down detected at 2025-03-17 17:26:36.204162
+Head down detected at 2025-03-17 17:26:36.265000
+Head down detected at 2025-03-17 17:26:36.326437
+Head down detected at 2025-03-17 17:26:36.383359
+Head down detected at 2025-03-17 17:26:36.437723
+Head down detected at 2025-03-17 17:26:36.497106
+Head down detected at 2025-03-17 17:26:36.555537
+Head down detected at 2025-03-17 17:26:36.618249
+Head down detected at 2025-03-17 17:26:36.676289
+Head down detected at 2025-03-17 17:26:36.741812
+Head down detected at 2025-03-17 17:26:36.801824
+Head down detected at 2025-03-17 17:26:36.855484
+Head down detected at 2025-03-17 17:26:36.916587
+Head down detected at 2025-03-17 17:26:36.975557
+Head down detected at 2025-03-17 17:26:37.041831
+Head down detected at 2025-03-17 17:26:37.097621
+Head down detected at 2025-03-17 17:26:37.154876
+Head down detected at 2025-03-17 17:26:37.212256
+Head down detected at 2025-03-17 17:26:37.277595
+Head down detected at 2025-03-17 17:26:37.386803
+Head down detected at 2025-03-17 17:26:37.790843
+Head down detected at 2025-03-17 17:26:37.976886
+Head down detected at 2025-03-17 17:26:38.046785
+Head down detected at 2025-03-17 17:26:38.101533
+Head down detected at 2025-03-17 17:26:38.166510
+Head down detected at 2025-03-17 17:26:38.223676
+Head down detected at 2025-03-17 17:26:38.288213
+Head down detected at 2025-03-17 17:26:38.342785
+Head down detected at 2025-03-17 17:26:38.409856
+Head down detected at 2025-03-17 17:26:38.474798
+Head down detected at 2025-03-17 17:26:38.533358
+Head down detected at 2025-03-17 17:26:38.593034
+Head down detected at 2025-03-17 17:26:38.655960
+Head down detected at 2025-03-17 17:26:38.712073
+Head down detected at 2025-03-17 17:26:38.771730
+Head down detected at 2025-03-17 17:26:38.866076
+Head down detected at 2025-03-17 17:26:38.923947
+Head down detected at 2025-03-17 17:26:38.984813
+Head down detected at 2025-03-17 17:26:39.043563
+Head down detected at 2025-03-17 17:26:39.097087
+Head down detected at 2025-03-17 17:26:39.156561
+Head down detected at 2025-03-17 17:26:39.216179
+Head down detected at 2025-03-17 17:26:39.275715
+Head down detected at 2025-03-17 17:26:39.328926
+Head down detected at 2025-03-17 17:26:39.384683
+Head down detected at 2025-03-17 17:26:39.437875
+Head down detected at 2025-03-17 17:26:39.495864
+Head down detected at 2025-03-17 17:26:39.548211
+Head down detected at 2025-03-17 17:26:39.611163
+Head down detected at 2025-03-17 17:26:39.723726
+Head down detected at 2025-03-17 17:26:39.784180
+Head down detected at 2025-03-17 17:26:49.469688
+Head down detected at 2025-03-17 17:26:49.536180
+Head down detected at 2025-03-17 17:26:49.600747
+Head down detected at 2025-03-17 17:26:49.706114
+Head down detected at 2025-03-17 17:26:49.772105
+Head down detected at 2025-03-17 17:26:49.827576
+Head down detected at 2025-03-17 17:26:49.894557
+Head down detected at 2025-03-17 17:26:50.005930
+Head down detected at 2025-03-17 17:26:50.070339
+Head down detected at 2025-03-17 17:26:50.130070
+Head down detected at 2025-03-17 17:26:50.242630
+Head down detected at 2025-03-17 17:26:50.311000
+Head down detected at 2025-03-17 17:26:50.369551
+Head down detected at 2025-03-17 17:26:50.431799
+Head down detected at 2025-03-17 17:26:50.498014
+Head down detected at 2025-03-17 17:26:50.565749
+Head down detected at 2025-03-17 17:26:50.624367
+Head down detected at 2025-03-17 17:26:50.685673
+Head down detected at 2025-03-17 17:26:50.740531
+Head down detected at 2025-03-17 17:26:50.799470
+Head down detected at 2025-03-17 17:26:50.854386
+Head down detected at 2025-03-17 17:26:50.914436
+Head down detected at 2025-03-17 17:26:50.970019
+Head down detected at 2025-03-17 17:26:51.031681
+Head down detected at 2025-03-17 17:26:51.147696
+Head down detected at 2025-03-17 17:26:51.213824
+Head down detected at 2025-03-17 17:26:51.271007
+Head down detected at 2025-03-17 17:26:51.341612
+Head down detected at 2025-03-17 17:26:51.397487
+Head down detected at 2025-03-17 17:26:51.461658
+Head down detected at 2025-03-17 17:26:51.524751
+Head down detected at 2025-03-17 17:26:51.582432
+Head down detected at 2025-03-17 17:26:51.647147
+Head down detected at 2025-03-17 17:26:51.721271
+Head down detected at 2025-03-17 17:26:51.795696
+Head down detected at 2025-03-17 17:26:51.854544
+Head down detected at 2025-03-17 17:26:51.909885
+Head down detected at 2025-03-17 17:26:52.014762
+Head down detected at 2025-03-17 17:26:52.073883
+Head down detected at 2025-03-17 17:26:52.127595
+Head down detected at 2025-03-17 17:26:52.190826
+Head down detected at 2025-03-17 17:26:52.246650
+Head down detected at 2025-03-17 17:26:52.306819
+Head down detected at 2025-03-17 17:26:52.358004
+Head down detected at 2025-03-17 17:26:52.415881
+Head down detected at 2025-03-17 17:26:52.474505
+Head down detected at 2025-03-17 17:26:52.537324
+Head down detected at 2025-03-17 17:26:52.710136
+Head down detected at 2025-03-17 17:26:52.831498
+Head down detected at 2025-03-17 17:26:52.898023
+Head down detected at 2025-03-17 17:26:52.957853
+Head down detected at 2025-03-17 17:26:53.021136
+Head down detected at 2025-03-17 17:26:53.083821
+Head down detected at 2025-03-17 17:26:53.142555
+Head down detected at 2025-03-17 17:26:53.192045
+Head down detected at 2025-03-17 17:26:53.259423
+Head down detected at 2025-03-17 17:26:53.321408
+Head down detected at 2025-03-17 17:26:53.379152
+Head down detected at 2025-03-17 17:26:53.440980
+Head down detected at 2025-03-17 17:26:53.498598
+Head down detected at 2025-03-17 17:26:53.559597
+Head down detected at 2025-03-17 17:26:53.617509
+Head down detected at 2025-03-17 17:26:53.675294
+Head down detected at 2025-03-17 17:26:53.792633
+Head down detected at 2025-03-17 17:26:53.859331
+Head down detected at 2025-03-17 17:26:54.526730
+Head down detected at 2025-03-17 17:26:54.586816
+Head down detected at 2025-03-17 17:26:54.649813
+Head down detected at 2025-03-17 17:26:55.020262
+Head down detected at 2025-03-17 17:26:55.420484
+Head down detected at 2025-03-17 17:26:55.488797
+Head down detected at 2025-03-17 17:26:55.556879
+Head down detected at 2025-03-17 17:26:55.624215
+Head down detected at 2025-03-17 17:26:55.677813
+Head down detected at 2025-03-17 17:26:55.739585
+Head down detected at 2025-03-17 17:26:55.796515
+Head down detected at 2025-03-17 17:26:55.860436
+Head down detected at 2025-03-17 17:26:55.921743
+Head down detected at 2025-03-17 17:26:55.985767
+Head down detected at 2025-03-17 17:26:56.044923
+Head down detected at 2025-03-17 17:26:56.110748
+Head down detected at 2025-03-17 17:26:56.173264
+Head down detected at 2025-03-17 17:26:56.239461
+Head down detected at 2025-03-17 17:26:56.300225
+Head down detected at 2025-03-17 17:26:56.368129
+Head down detected at 2025-03-17 17:26:56.428957
+Head down detected at 2025-03-17 17:26:56.489442
+Head down detected at 2025-03-17 17:26:56.555942
+Head down detected at 2025-03-17 17:26:56.617304
+Head down detected at 2025-03-17 17:26:56.679113
+Head down detected at 2025-03-17 17:26:56.744195
+Head down detected at 2025-03-17 17:26:56.798488
+Head down detected at 2025-03-17 17:26:56.859894
+Head down detected at 2025-03-17 17:26:56.917129
+Head down detected at 2025-03-17 17:26:56.979319
+Head down detected at 2025-03-17 17:26:57.046566
+Head down detected at 2025-03-17 17:26:57.105422
+Head down detected at 2025-03-17 17:26:57.170586
+Head down detected at 2025-03-17 17:26:57.233119
+Head down detected at 2025-03-17 17:26:57.291195
+Head down detected at 2025-03-17 17:26:57.348977
+Head down detected at 2025-03-17 17:26:57.406292
+Head down detected at 2025-03-17 17:26:57.469440
+Head down detected at 2025-03-17 17:26:57.529088
+Head down detected at 2025-03-17 17:26:57.586761
+Head down detected at 2025-03-17 17:26:57.644584
+Head down detected at 2025-03-17 17:26:57.703620
+Head down detected at 2025-03-17 17:26:57.760677
+Head down detected at 2025-03-17 17:26:57.816861
+Head down detected at 2025-03-17 17:26:58.423674
+Head down detected at 2025-03-17 17:26:58.491822
+Head down detected at 2025-03-17 17:26:58.555794
+Head down detected at 2025-03-17 17:28:20.761752
+Head down detected at 2025-03-17 17:28:21.115314
+Head down detected at 2025-03-17 17:28:21.188520
+Head down detected at 2025-03-17 17:28:21.264530
+Head down detected at 2025-03-17 17:28:21.328341
+Head down detected at 2025-03-17 17:28:21.384658
+Head down detected at 2025-03-17 17:28:21.442637
+Head down detected at 2025-03-17 17:28:21.500492
+Head down detected at 2025-03-17 17:28:21.559900
+Head down detected at 2025-03-17 17:28:21.615963
+Head down detected at 2025-03-17 17:28:21.676199
+Head down detected at 2025-03-17 17:28:21.742974
+Head down detected at 2025-03-17 17:28:21.808072
+Head down detected at 2025-03-17 17:28:21.865060
+Head down detected at 2025-03-17 17:28:21.922586
+Head down detected at 2025-03-17 17:28:21.980847
+Head down detected at 2025-03-17 17:28:22.038608
+Head down detected at 2025-03-17 17:28:22.098236
+Head down detected at 2025-03-17 17:28:22.159864
+Head down detected at 2025-03-17 17:28:22.221826
+Head down detected at 2025-03-17 17:28:22.280134
+Head down detected at 2025-03-17 17:28:22.337949
+Head down detected at 2025-03-17 17:28:22.400225
+Head down detected at 2025-03-17 17:28:22.463079
+Head down detected at 2025-03-17 17:28:25.247751
+Head down detected at 2025-03-17 17:28:25.318830
+Head down detected at 2025-03-17 17:28:25.376004
+Head down detected at 2025-03-17 17:28:25.432618
+Head down detected at 2025-03-17 17:28:25.502621
+Head down detected at 2025-03-17 17:28:25.564272
+Head down detected at 2025-03-17 17:28:25.649270
+Head down detected at 2025-03-17 17:28:25.715875
+Head down detected at 2025-03-17 17:28:25.774507
+Head down detected at 2025-03-17 17:28:25.837174
+Head down detected at 2025-03-17 17:28:25.893586
+Head down detected at 2025-03-17 17:28:25.960534
+Head down detected at 2025-03-17 17:28:26.021521
+Head down detected at 2025-03-17 17:28:26.087920
+Head down detected at 2025-03-17 17:28:26.142944
+Head down detected at 2025-03-17 17:28:26.203621
+Head down detected at 2025-03-17 17:28:26.260146
+Head down detected at 2025-03-17 17:28:26.323242
+Head down detected at 2025-03-17 17:28:26.383986
+Head down detected at 2025-03-17 17:28:26.446344
+Head down detected at 2025-03-17 17:28:26.505417
+Head down detected at 2025-03-17 17:28:26.562788
+Head down detected at 2025-03-17 17:28:26.620993
+Head down detected at 2025-03-17 17:28:26.699751
+Head down detected at 2025-03-17 17:28:26.760362
+Head down detected at 2025-03-17 17:28:26.820695
+Head down detected at 2025-03-17 17:28:26.886019
+Head down detected at 2025-03-17 17:28:26.944256
+Head down detected at 2025-03-17 17:28:27.005175
+Head down detected at 2025-03-17 17:28:27.063122
+Head down detected at 2025-03-17 17:28:27.127952
+Head down detected at 2025-03-17 17:28:27.184639
+Head down detected at 2025-03-17 17:28:27.245833
+Head down detected at 2025-03-17 17:28:27.307605
+Head down detected at 2025-03-17 17:28:27.467256
+Head down detected at 2025-03-17 17:28:27.529081
+Head down detected at 2025-03-17 17:28:28.975510
+Head down detected at 2025-03-17 17:28:29.040732
+Head down detected at 2025-03-17 17:28:29.106927
+Head down detected at 2025-03-17 17:28:29.575973
+Head down detected at 2025-03-17 17:28:29.652435
+Head down detected at 2025-03-17 17:28:29.713579
+Head down detected at 2025-03-17 17:28:30.007776
+Head down detected at 2025-03-17 17:28:30.073592
+Head down detected at 2025-03-17 17:28:30.133927
+Head down detected at 2025-03-17 17:28:30.199146
+Head down detected at 2025-03-17 17:28:30.261738
+Head down detected at 2025-03-17 17:28:30.326859
+Head down detected at 2025-03-17 17:28:30.386346
+Head down detected at 2025-03-17 17:28:30.446360
+Head down detected at 2025-03-17 17:28:30.501696
+Head down detected at 2025-03-17 17:28:30.566313
+Head down detected at 2025-03-17 17:28:30.628668
+Head down detected at 2025-03-17 17:28:30.696521
+Head down detected at 2025-03-17 17:28:30.759349
+Head down detected at 2025-03-17 17:28:30.820340
+Head down detected at 2025-03-17 17:28:30.880592
+Head down detected at 2025-03-17 17:28:30.933837
+Head down detected at 2025-03-17 17:28:30.996204
+Head down detected at 2025-03-17 17:28:31.053056
+Head down detected at 2025-03-17 17:28:31.111635
+Head down detected at 2025-03-17 17:28:31.178046
+Head down detected at 2025-03-17 17:28:31.243145
+Head down detected at 2025-03-17 17:28:31.302827
+Head down detected at 2025-03-17 17:28:31.361849
+Head down detected at 2025-03-17 17:28:31.425894
+Head down detected at 2025-03-17 17:28:31.485521
+Head down detected at 2025-03-17 17:28:31.548376
+Head down detected at 2025-03-17 17:28:31.652503
+Head down detected at 2025-03-17 17:28:31.710902
+Head down detected at 2025-03-17 17:28:31.775377
+Head down detected at 2025-03-17 17:28:31.832685
+Head down detected at 2025-03-17 17:28:31.894474
+Head down detected at 2025-03-17 17:28:31.953805
+Head down detected at 2025-03-17 17:28:32.011834
+Head down detected at 2025-03-17 17:28:32.076780
+Head down detected at 2025-03-17 17:28:32.132239
+Head down detected at 2025-03-17 17:28:32.193798
+Head down detected at 2025-03-17 17:28:32.248515
+Head down detected at 2025-03-17 17:28:32.307594
+Head down detected at 2025-03-17 17:28:32.364183
+Head down detected at 2025-03-17 17:28:32.425518
+Head down detected at 2025-03-17 17:28:32.480719
+Head down detected at 2025-03-17 17:28:32.540358
+Head down detected at 2025-03-17 17:28:32.670807
+Head down detected at 2025-03-17 17:28:32.740711
+Head down detected at 2025-03-17 17:28:32.802563
+Head down detected at 2025-03-17 17:28:32.862363
+Head down detected at 2025-03-17 17:28:32.919501
+Head down detected at 2025-03-17 17:28:32.982031
+Head down detected at 2025-03-17 17:28:33.044028
+Head down detected at 2025-03-17 17:28:33.102482
+Head down detected at 2025-03-17 17:28:33.162223
+Head down detected at 2025-03-17 17:28:33.229426
+Head down detected at 2025-03-17 17:28:33.300793
+Head down detected at 2025-03-17 17:28:33.360289
+Head down detected at 2025-03-17 17:28:33.416443
+Head down detected at 2025-03-17 17:28:33.477783
+Head down detected at 2025-03-17 17:28:33.532192
+Head down detected at 2025-03-17 17:28:33.594198
+Head down detected at 2025-03-17 17:28:33.651546
+Head down detected at 2025-03-17 17:28:33.714116
+Head down detected at 2025-03-17 17:28:33.771895
+Head down detected at 2025-03-17 17:28:33.834425
+Head down detected at 2025-03-17 17:28:33.896114
+Head down detected at 2025-03-17 17:28:33.952410
+Head down detected at 2025-03-17 17:28:34.016895
+Head down detected at 2025-03-17 17:28:34.389599
+Head down detected at 2025-03-17 17:28:34.632643
+Head down detected at 2025-03-17 17:28:34.703193
+Head down detected at 2025-03-17 17:28:34.763684
+Head down detected at 2025-03-17 17:28:34.822176
+Head down detected at 2025-03-17 17:28:34.885808
+Head down detected at 2025-03-17 17:28:34.993964
+Head down detected at 2025-03-17 17:28:35.062592
+Head down detected at 2025-03-17 17:28:35.121716
+Head down detected at 2025-03-17 17:28:35.208297
+Head down detected at 2025-03-17 17:28:35.279940
+Head down detected at 2025-03-17 17:28:35.337504
+Head down detected at 2025-03-17 17:28:35.400588
+Head down detected at 2025-03-17 17:28:35.459652
+Head down detected at 2025-03-17 17:28:35.619378
+Head down detected at 2025-03-17 17:28:35.681075
+Head down detected at 2025-03-17 17:28:35.735510
+Head down detected at 2025-03-17 17:28:37.095619
+Head down detected at 2025-03-17 17:28:37.217211
+Head down detected at 2025-03-17 17:28:37.335357
+Head down detected at 2025-03-17 17:28:42.154026
+Head down detected at 2025-03-17 17:28:42.215878
+Head down detected at 2025-03-17 17:28:42.282676
+Head down detected at 2025-03-17 17:28:42.348709
+Head down detected at 2025-03-17 17:28:42.404986
+Head down detected at 2025-03-17 17:28:42.470339
+Head down detected at 2025-03-17 17:28:42.535436
+Head down detected at 2025-03-17 17:28:42.591572
+Head down detected at 2025-03-17 17:28:42.654621
+Head down detected at 2025-03-17 17:28:42.718165
+Head down detected at 2025-03-17 17:28:42.780976
+Head down detected at 2025-03-17 17:28:42.843042
+Head down detected at 2025-03-17 17:28:42.899739
+Head down detected at 2025-03-17 17:28:42.959234
+Head down detected at 2025-03-17 17:28:43.017465
+Head down detected at 2025-03-17 17:28:43.072519
+Head down detected at 2025-03-17 17:28:43.134780
+Head down detected at 2025-03-17 17:28:43.198504
+Head down detected at 2025-03-17 17:28:43.263163
+Head down detected at 2025-03-17 17:28:43.319551
+Head down detected at 2025-03-17 17:28:43.426359
+Head down detected at 2025-03-17 17:28:43.486345
+Head down detected at 2025-03-17 17:28:43.543684
+Head down detected at 2025-03-17 17:28:43.653358
+Head down detected at 2025-03-17 17:28:43.721605
+Head down detected at 2025-03-17 17:28:43.784672
+Head down detected at 2025-03-17 17:28:43.851098
+Head down detected at 2025-03-17 17:28:43.907831
+Head down detected at 2025-03-17 17:28:43.968811
+Head down detected at 2025-03-17 17:28:44.029388
+Head down detected at 2025-03-17 17:28:44.136769
+Head down detected at 2025-03-17 17:28:44.204224
+Head down detected at 2025-03-17 17:28:44.269901
+Head down detected at 2025-03-17 17:28:44.499865
+Head down detected at 2025-03-17 17:28:44.564858
+Head down detected at 2025-03-17 17:28:44.624855
+Head down detected at 2025-03-17 17:28:44.686265
+Head down detected at 2025-03-17 17:28:44.747200
+Head down detected at 2025-03-17 17:28:44.826196
+Head down detected at 2025-03-17 17:28:44.912484
+Head down detected at 2025-03-17 17:28:44.970314
+Head down detected at 2025-03-17 17:28:45.023689
+Head down detected at 2025-03-17 17:28:45.083937
+Head down detected at 2025-03-17 17:28:45.186805
+Head down detected at 2025-03-17 17:28:45.245856
+Head down detected at 2025-03-17 17:28:45.357512
+Head down detected at 2025-03-17 17:28:46.358643
+Head down detected at 2025-03-17 17:28:46.539462
+Head down detected at 2025-03-17 17:28:46.605872
+Head down detected at 2025-03-17 17:28:46.905161
+Head down detected at 2025-03-17 17:28:46.967050
+Head down detected at 2025-03-17 17:28:47.024008
+Head down detected at 2025-03-17 17:28:47.089405
+Head down detected at 2025-03-17 17:28:47.148003
+Head down detected at 2025-03-17 17:28:47.206982
+Head down detected at 2025-03-17 17:28:47.268834
+Head down detected at 2025-03-17 17:28:47.331679
+Head down detected at 2025-03-17 17:28:47.386614
+Head down detected at 2025-03-17 17:28:47.450734
+Head down detected at 2025-03-17 17:28:47.508494
+Head down detected at 2025-03-17 17:28:47.570953
+Head down detected at 2025-03-17 17:28:47.629631
+Head down detected at 2025-03-17 17:28:47.691936
+Head down detected at 2025-03-17 17:28:47.752051
+Head down detected at 2025-03-17 17:28:47.873716
+Head down detected at 2025-03-17 17:28:48.417624
+Head down detected at 2025-03-17 17:28:48.486500
+Head down detected at 2025-03-17 17:28:48.562255
+Head down detected at 2025-03-17 17:28:48.630223
+Head down detected at 2025-03-17 17:28:48.695246
+Head down detected at 2025-03-17 17:28:48.759385
+Head down detected at 2025-03-17 17:28:48.825635
+Head down detected at 2025-03-17 17:28:48.889329
+Head down detected at 2025-03-17 17:28:48.950558
+Head down detected at 2025-03-17 17:28:49.013980
+Head down detected at 2025-03-17 17:28:49.079098
+Head down detected at 2025-03-17 17:28:49.161688
+Head down detected at 2025-03-17 17:28:49.246323
+Head down detected at 2025-03-17 17:28:49.311866
+Head down detected at 2025-03-17 17:28:49.376678
+Head down detected at 2025-03-17 17:28:49.442433
+Head down detected at 2025-03-17 17:28:49.501237
+Head down detected at 2025-03-17 17:28:49.569635
+Head down detected at 2025-03-17 17:28:49.640764
+Head down detected at 2025-03-17 17:28:49.711683
+Head down detected at 2025-03-17 17:28:49.770589
+Head down detected at 2025-03-17 17:28:49.834042
+Head down detected at 2025-03-17 17:28:49.899615
+Head down detected at 2025-03-17 17:28:49.964062
+Head down detected at 2025-03-17 17:28:50.028814
+Head down detected at 2025-03-17 17:28:50.094586
+Head down detected at 2025-03-17 17:28:50.157822
+Head down detected at 2025-03-17 17:28:50.223030
+Head down detected at 2025-03-17 17:28:50.286606
+Head down detected at 2025-03-17 17:28:50.363608
+Head down detected at 2025-03-17 17:28:50.432079
+Head down detected at 2025-03-17 17:28:50.502903
+Head down detected at 2025-03-17 17:28:50.579506
+Head down detected at 2025-03-17 17:28:50.637374
+Head down detected at 2025-03-17 17:28:50.699337
+Head down detected at 2025-03-17 17:28:50.754295
+Head down detected at 2025-03-17 17:28:50.809710
+Head down detected at 2025-03-17 17:28:50.867874
+Head down detected at 2025-03-17 17:28:50.920386
+Head down detected at 2025-03-17 17:28:50.980481
+Head down detected at 2025-03-17 17:28:51.040149
+Head down detected at 2025-03-17 17:28:51.092113
+Head down detected at 2025-03-17 17:28:51.150735
+Head down detected at 2025-03-17 17:28:51.203709
+Head down detected at 2025-03-17 17:28:51.254342
+Head down detected at 2025-03-17 17:28:51.305980
+Head down detected at 2025-03-17 17:28:51.355913
+Head down detected at 2025-03-17 17:28:51.409025
+Head down detected at 2025-03-17 17:28:51.459116
+Head down detected at 2025-03-17 17:28:51.508779
+Head down detected at 2025-03-17 17:28:51.561571
+Head down detected at 2025-03-17 17:28:51.616032
+Head down detected at 2025-03-17 17:28:51.673806
+Head down detected at 2025-03-17 17:28:51.728349
+Head down detected at 2025-03-17 17:28:51.781581
+Head down detected at 2025-03-17 17:28:51.832349
+Head down detected at 2025-03-17 17:28:51.888471
+Head down detected at 2025-03-17 17:28:51.946952
+Head down detected at 2025-03-17 17:28:52.003784
+Head down detected at 2025-03-17 17:28:52.064603
+Head down detected at 2025-03-17 17:28:52.127738
+Head down detected at 2025-03-17 17:28:52.181651
+Head down detected at 2025-03-17 17:28:52.236733
+Head down detected at 2025-03-17 17:28:52.287562
+Head down detected at 2025-03-17 17:28:52.360974
+Head down detected at 2025-03-17 17:28:52.431500
+Head down detected at 2025-03-17 17:28:52.485411
+Head down detected at 2025-03-17 17:28:52.535141
+Head down detected at 2025-03-17 17:28:52.587302
+Head down detected at 2025-03-17 17:28:52.638146
+Head down detected at 2025-03-17 17:28:52.695358
+Head down detected at 2025-03-17 17:28:52.748579
+Head down detected at 2025-03-17 17:28:52.808228
+Head down detected at 2025-03-17 17:28:52.864027
+Head down detected at 2025-03-17 17:28:52.914744
+Head down detected at 2025-03-17 17:28:52.970229
+Head down detected at 2025-03-17 17:28:53.025220
+Head down detected at 2025-03-17 17:28:53.075545
+Head down detected at 2025-03-17 17:28:53.125566
+Head down detected at 2025-03-17 17:28:53.184148
+Head down detected at 2025-03-17 17:28:53.234229
+Head down detected at 2025-03-17 17:28:53.288608
+Head down detected at 2025-03-17 17:28:53.341834
+Head down detected at 2025-03-17 17:28:53.391708
+Head down detected at 2025-03-17 17:28:53.448255
+Head down detected at 2025-03-17 17:28:53.501279
+Head down detected at 2025-03-17 17:28:53.557776
+Head down detected at 2025-03-17 17:28:53.610207
+Head down detected at 2025-03-17 17:28:53.662767
+Head down detected at 2025-03-17 17:28:53.712175
+Head down detected at 2025-03-17 17:28:53.762131
+Head down detected at 2025-03-17 17:28:53.814353
+Head down detected at 2025-03-17 17:28:53.864788
+Head down detected at 2025-03-17 17:28:53.915301
+Head down detected at 2025-03-17 17:28:53.969589
+Head down detected at 2025-03-17 17:28:54.024207
+Head down detected at 2025-03-17 17:28:54.077580
+Head down detected at 2025-03-17 17:28:54.129789
+Head down detected at 2025-03-17 17:28:54.185181
+Head down detected at 2025-03-17 17:28:54.236712
+Head down detected at 2025-03-17 17:28:54.291369
+Head down detected at 2025-03-17 17:28:54.341687
+Head down detected at 2025-03-17 17:28:54.393392
+Head down detected at 2025-03-17 17:28:54.444683
+Head down detected at 2025-03-17 17:28:54.502747
+Head down detected at 2025-03-17 17:28:54.554235
+Head down detected at 2025-03-17 17:28:54.608880
+Head down detected at 2025-03-17 17:28:54.661825
+Head down detected at 2025-03-17 17:28:54.716084
+Head down detected at 2025-03-17 17:28:54.773209
+Head down detected at 2025-03-17 17:28:54.839685
+Head down detected at 2025-03-17 17:28:54.930806
+Head down detected at 2025-03-17 17:28:55.003119
+Head down detected at 2025-03-17 17:28:55.051801
+Head down detected at 2025-03-17 17:28:55.113912
+Head down detected at 2025-03-17 17:28:55.164576
+Head down detected at 2025-03-17 17:28:55.215717
+Head down detected at 2025-03-17 17:28:55.270006
+Head down detected at 2025-03-17 17:28:55.323638
+Head down detected at 2025-03-17 17:28:55.382981
+Head down detected at 2025-03-17 17:28:55.443997
+Head down detected at 2025-03-17 17:28:55.498925
+Head down detected at 2025-03-17 17:28:55.552162
+Head down detected at 2025-03-17 17:28:55.602844
+Head down detected at 2025-03-17 17:28:55.653005
+Head down detected at 2025-03-17 17:28:55.702970
+Head down detected at 2025-03-17 17:28:55.756326
+Head down detected at 2025-03-17 17:28:55.808674
+Head down detected at 2025-03-17 17:28:55.862727
+Head down detected at 2025-03-17 17:28:55.915677
+Head down detected at 2025-03-17 17:28:55.976807
+Head down detected at 2025-03-17 17:28:56.027301
+Head down detected at 2025-03-17 17:28:56.080716
+Head down detected at 2025-03-17 17:28:56.131578
+Head down detected at 2025-03-17 17:28:56.183036
+Head down detected at 2025-03-17 17:28:56.233184
+Head down detected at 2025-03-17 17:28:56.284546
+Head down detected at 2025-03-17 17:28:56.333827
+Head down detected at 2025-03-17 17:28:56.387268
+Head down detected at 2025-03-17 17:28:56.441709
+Head down detected at 2025-03-17 17:28:56.497875
+Head down detected at 2025-03-17 17:28:56.550743
+Head down detected at 2025-03-17 17:28:56.604039
+Head down detected at 2025-03-17 17:28:56.656275
+Head down detected at 2025-03-17 17:28:56.712560
+Head down detected at 2025-03-17 17:28:56.762128
+Head down detected at 2025-03-17 17:28:56.812030
+Head down detected at 2025-03-17 17:28:56.864192
+Head down detected at 2025-03-17 17:28:56.923056
+Head down detected at 2025-03-17 17:28:56.998762
+Head down detected at 2025-03-17 17:28:57.064409
+Head down detected at 2025-03-17 17:28:57.132301
+Head down detected at 2025-03-17 17:28:57.191288
+Head down detected at 2025-03-17 17:28:57.264799
+Head down detected at 2025-03-17 17:28:57.326578
+Head down detected at 2025-03-17 17:28:57.387898
+Head down detected at 2025-03-17 17:28:57.447627
+Head down detected at 2025-03-17 17:28:57.523401
+Head down detected at 2025-03-17 17:28:57.608402
+Head down detected at 2025-03-17 17:28:57.663297
+Head down detected at 2025-03-17 17:28:57.719170
+Head down detected at 2025-03-17 17:28:57.783075
+Head down detected at 2025-03-17 17:28:57.833352
+Head down detected at 2025-03-17 17:28:57.887079
+Head down detected at 2025-03-17 17:28:57.947761
+Head down detected at 2025-03-17 17:28:58.000709
+Head down detected at 2025-03-17 17:28:58.061489
+Head down detected at 2025-03-17 17:28:58.118188
+Head down detected at 2025-03-17 17:28:58.170513
+Head down detected at 2025-03-17 17:28:58.229628
+Head down detected at 2025-03-17 17:28:58.286633
+Head down detected at 2025-03-17 17:28:58.336999
+Head down detected at 2025-03-17 17:28:58.398235
+Head down detected at 2025-03-17 17:28:58.447085
+Head down detected at 2025-03-17 17:28:58.503831
+Head down detected at 2025-03-17 17:28:58.556255
+Head down detected at 2025-03-17 17:28:58.611443
+Head down detected at 2025-03-17 17:28:58.675055
+Head down detected at 2025-03-17 17:28:58.752992
+Head down detected at 2025-03-17 17:28:58.840899
+Head down detected at 2025-03-17 17:28:58.954420
+Head down detected at 2025-03-17 17:28:59.054413
+Head down detected at 2025-03-17 17:28:59.137546
+Head down detected at 2025-03-17 17:28:59.200597
+Head down detected at 2025-03-17 17:28:59.264302
+Head down detected at 2025-03-17 17:28:59.331193
+Head down detected at 2025-03-17 17:28:59.396124
+Head down detected at 2025-03-17 17:28:59.454372
+Head down detected at 2025-03-17 17:28:59.513615
+Head down detected at 2025-03-17 17:28:59.578164
+Head down detected at 2025-03-17 17:28:59.640438
+Head down detected at 2025-03-17 17:28:59.698069
+Head down detected at 2025-03-17 17:28:59.755332
+Head down detected at 2025-03-17 17:28:59.819919
+Head down detected at 2025-03-17 17:28:59.875755
+Head down detected at 2025-03-17 17:28:59.981772
+Head down detected at 2025-03-17 17:29:00.047372
+Head down detected at 2025-03-17 17:29:00.109308
+Head down detected at 2025-03-17 17:29:02.112544
+Head down detected at 2025-03-17 17:29:02.171184
+Head down detected at 2025-03-17 17:29:02.233910
+Head down detected at 2025-03-17 17:29:02.297577
+Head down detected at 2025-03-17 17:29:02.362172
+Head down detected at 2025-03-17 17:29:02.421497
+Head down detected at 2025-03-17 17:29:02.484555
+Head down detected at 2025-03-17 17:29:02.540273
+Head down detected at 2025-03-17 17:29:02.600171
+Head down detected at 2025-03-17 17:29:02.660576
+Head down detected at 2025-03-17 17:29:02.723398
+Head down detected at 2025-03-17 17:29:02.780621
+Head down detected at 2025-03-17 17:29:02.841164
+Head down detected at 2025-03-17 17:29:02.903580
+Head down detected at 2025-03-17 17:29:02.981259
+Head down detected at 2025-03-17 17:29:03.054507
+Head down detected at 2025-03-17 17:29:03.112079
+Head down detected at 2025-03-17 17:29:03.169595
+Head down detected at 2025-03-17 17:29:03.229108
+Head down detected at 2025-03-17 17:29:03.291915
+Head down detected at 2025-03-17 17:29:03.350035
+Head down detected at 2025-03-17 17:29:03.407675
+Head down detected at 2025-03-17 17:29:03.467566
+Head down detected at 2025-03-17 17:29:03.530755
+Head down detected at 2025-03-17 17:29:03.580971
+Head down detected at 2025-03-17 17:29:03.639040
+Head down detected at 2025-03-17 17:29:03.707107
+Head down detected at 2025-03-17 17:29:03.772277
+Head down detected at 2025-03-17 17:29:03.833682
+Head down detected at 2025-03-17 17:29:03.895795
+Head down detected at 2025-03-17 17:29:03.956917
+Head down detected at 2025-03-17 17:29:04.018710
+Head down detected at 2025-03-17 17:29:04.075392
+Head down detected at 2025-03-17 17:29:04.138521
+Head down detected at 2025-03-17 17:29:04.198490
+Head down detected at 2025-03-17 17:29:04.260607
+Head down detected at 2025-03-17 17:29:04.324888
+Head down detected at 2025-03-17 17:29:04.384721
+Head down detected at 2025-03-17 17:29:04.443805
+Head down detected at 2025-03-17 17:29:04.501026
+Head down detected at 2025-03-17 17:29:04.558852
+Head down detected at 2025-03-17 17:29:04.620734
+Head down detected at 2025-03-17 17:29:04.685425
+Head down detected at 2025-03-17 17:29:04.756414
+Head down detected at 2025-03-17 17:29:04.860320
+Head down detected at 2025-03-17 17:29:04.921959
+Head down detected at 2025-03-17 17:29:04.974583
+Head down detected at 2025-03-17 17:29:05.037398
+Head down detected at 2025-03-17 17:29:05.094374
+Head down detected at 2025-03-17 17:29:05.154793
+Head down detected at 2025-03-17 17:29:05.215917
+Head down detected at 2025-03-17 17:29:05.280099
+Head down detected at 2025-03-17 17:29:05.346303
+Head down detected at 2025-03-17 17:29:05.405633
+Head down detected at 2025-03-17 17:29:05.472276
+Head down detected at 2025-03-17 17:29:05.539176
+Head down detected at 2025-03-17 17:29:05.656606
+Head down detected at 2025-03-17 17:29:05.716284
+Head down detected at 2025-03-17 17:29:05.782911
+Head down detected at 2025-03-17 17:29:05.852953
+Head down detected at 2025-03-17 17:29:05.913138
+Head down detected at 2025-03-17 17:29:05.983952
+Head down detected at 2025-03-17 17:29:06.052863
+Head down detected at 2025-03-17 17:29:06.119670
+Head down detected at 2025-03-17 17:29:06.186209
+Head down detected at 2025-03-17 17:29:06.255347
+Head down detected at 2025-03-17 17:29:06.322993
+Head down detected at 2025-03-17 17:29:06.385245
+Head down detected at 2025-03-17 17:29:06.447245
+Head down detected at 2025-03-17 17:29:06.510191
+Head down detected at 2025-03-17 17:29:06.572825
+Head down detected at 2025-03-17 17:29:06.637209
+Head down detected at 2025-03-17 17:29:06.698254
+Head down detected at 2025-03-17 17:29:06.756956
+Head down detected at 2025-03-17 17:29:06.811327
+Head down detected at 2025-03-17 17:29:06.873503
+Head down detected at 2025-03-17 17:29:06.933346
+Head down detected at 2025-03-17 17:29:06.995597
+Head down detected at 2025-03-17 17:29:07.057847
+Head down detected at 2025-03-17 17:29:07.124354
+Head down detected at 2025-03-17 17:29:07.183072
+Head down detected at 2025-03-17 17:29:07.266377
+Head down detected at 2025-03-17 17:29:07.334081
+Head down detected at 2025-03-17 17:29:07.400788
+Head down detected at 2025-03-17 17:29:07.457560
+Head down detected at 2025-03-17 17:29:07.509790
+Head down detected at 2025-03-17 17:29:07.578357
+Head down detected at 2025-03-17 17:29:07.636147
+Head down detected at 2025-03-17 17:29:07.698432
+Head down detected at 2025-03-17 17:29:07.760488
+Head down detected at 2025-03-17 17:29:07.832298
+Head down detected at 2025-03-17 17:29:07.890966
+Head down detected at 2025-03-17 17:29:07.949080
+Head down detected at 2025-03-17 17:29:08.006276
+Head down detected at 2025-03-17 17:29:08.070113
+Head down detected at 2025-03-17 17:29:08.132675
+Head down detected at 2025-03-17 17:29:08.196329
+Head down detected at 2025-03-17 17:29:08.266002
+Head down detected at 2025-03-17 17:29:08.330114
+Head down detected at 2025-03-17 17:29:08.395712
+Head down detected at 2025-03-17 17:29:08.456460
+Head down detected at 2025-03-17 17:29:08.510817
+Head down detected at 2025-03-17 17:29:08.573071
+Head down detected at 2025-03-17 17:29:08.630460
+Head down detected at 2025-03-17 17:31:42.482080
+Head down detected at 2025-03-17 17:31:42.831568
+Head down detected at 2025-03-17 17:31:42.909414
+Head down detected at 2025-03-17 17:31:42.984333
+Head down detected at 2025-03-17 17:31:43.058557
+Head down detected at 2025-03-17 17:31:43.121476
+Head down detected at 2025-03-17 17:31:43.183032
+Head down detected at 2025-03-17 17:31:43.238386
+Head down detected at 2025-03-17 17:31:43.303404
+Head down detected at 2025-03-17 17:31:43.362814
+Head down detected at 2025-03-17 17:31:43.425709
+Head down detected at 2025-03-17 17:31:43.497302
+Head down detected at 2025-03-17 17:31:43.591197
+Head down detected at 2025-03-17 17:31:43.655101
+Head down detected at 2025-03-17 17:31:43.715246
+Head down detected at 2025-03-17 17:31:43.779884
+Head down detected at 2025-03-17 17:31:43.835149
+Head down detected at 2025-03-17 17:31:43.896410
+Head down detected at 2025-03-17 17:31:43.952007
+Head down detected at 2025-03-17 17:31:44.011631
+Head down detected at 2025-03-17 17:31:44.072260
+Head down detected at 2025-03-17 17:31:44.137994
+Head down detected at 2025-03-17 17:31:44.201696
+Head down detected at 2025-03-17 17:31:44.262212
+Head down detected at 2025-03-17 17:31:44.324624
+Head down detected at 2025-03-17 17:31:44.380961
+Head down detected at 2025-03-17 17:31:44.435493
+Head down detected at 2025-03-17 17:31:44.499644
+Head down detected at 2025-03-17 17:31:44.560958
+Head down detected at 2025-03-17 17:31:44.620360
+Head down detected at 2025-03-17 17:31:44.677406
+Head down detected at 2025-03-17 17:31:44.734118
+Head down detected at 2025-03-17 17:31:44.790495
+Head down detected at 2025-03-17 17:31:44.845245
+Head down detected at 2025-03-17 17:31:44.903402
+Head down detected at 2025-03-17 17:31:44.959192
+Head down detected at 2025-03-17 17:31:45.014673
+Head down detected at 2025-03-17 17:31:45.071811
+Head down detected at 2025-03-17 17:31:45.129180
+Head down detected at 2025-03-17 17:31:45.194672
+Head down detected at 2025-03-17 17:31:45.248352
+Head down detected at 2025-03-17 17:31:45.308508
+Head down detected at 2025-03-17 17:31:45.362769
+Head down detected at 2025-03-17 17:31:45.440926
+Head down detected at 2025-03-17 17:31:45.516988
+Head down detected at 2025-03-17 17:31:45.577303
+Head down detected at 2025-03-17 17:31:45.637413
+Head down detected at 2025-03-17 17:31:45.697582
+Head down detected at 2025-03-17 17:31:45.754755
+Head down detected at 2025-03-17 17:31:45.817346
+Head down detected at 2025-03-17 17:31:45.876068
+Head down detected at 2025-03-17 17:31:45.934827
+Head down detected at 2025-03-17 17:31:45.994026
+Head down detected at 2025-03-17 17:31:46.053265
+Head down detected at 2025-03-17 17:31:46.111061
+Head down detected at 2025-03-17 17:31:46.173403
+Head down detected at 2025-03-17 17:31:46.240233
+Head down detected at 2025-03-17 17:31:46.300548
+Head down detected at 2025-03-17 17:31:46.364494
+Head down detected at 2025-03-17 17:31:46.431430
+Head down detected at 2025-03-17 17:31:46.489715
+Head down detected at 2025-03-17 17:31:46.554230
+Head down detected at 2025-03-17 17:31:46.616762
+Head down detected at 2025-03-17 17:31:46.679325
+Head down detected at 2025-03-17 17:31:46.743364
+Head down detected at 2025-03-17 17:31:46.810467
+Head down detected at 2025-03-17 17:31:46.869067
+Head down detected at 2025-03-17 17:31:46.932392
+Head down detected at 2025-03-17 17:31:46.997343
+Head down detected at 2025-03-17 17:31:47.057232
+Head down detected at 2025-03-17 17:31:47.113681
+Head down detected at 2025-03-17 17:31:47.178483
+Head down detected at 2025-03-17 17:31:47.334325
+Head down detected at 2025-03-17 17:31:47.532638
+Head down detected at 2025-03-17 17:31:47.586825
+Head down detected at 2025-03-17 17:31:47.650492
+Head down detected at 2025-03-17 17:31:47.714905
+Head down detected at 2025-03-17 17:31:47.845145
+Head down detected at 2025-03-17 17:31:47.914556
+Head down detected at 2025-03-17 17:31:48.109006
+Head down detected at 2025-03-17 17:31:48.166200
+Head down detected at 2025-03-17 17:31:49.205118
+Head down detected at 2025-03-17 17:31:49.505867
+Head down detected at 2025-03-17 17:31:49.580339
+Head down detected at 2025-03-17 17:31:49.633156
+Head down detected at 2025-03-17 17:31:49.690326
+Head down detected at 2025-03-17 17:31:49.756723
+Head down detected at 2025-03-17 17:31:49.867493
+Head down detected at 2025-03-17 17:31:49.938068
+Head down detected at 2025-03-17 17:31:49.991880
+Head down detected at 2025-03-17 17:31:50.059611
+Head down detected at 2025-03-17 17:31:50.122168
+Head down detected at 2025-03-17 17:31:50.188683
+Head down detected at 2025-03-17 17:31:50.248378
+Head down detected at 2025-03-17 17:31:50.311025
+Head down detected at 2025-03-17 17:31:50.373968
+Head down detected at 2025-03-17 17:31:50.439761
+Head down detected at 2025-03-17 17:31:50.649783
+Head down detected at 2025-03-17 17:31:50.722097
+Head down detected at 2025-03-17 17:31:50.835662
+Head down detected at 2025-03-17 17:31:50.901467
+Head down detected at 2025-03-17 17:31:51.018190
+Head down detected at 2025-03-17 17:31:51.075895
+Head down detected at 2025-03-17 17:31:51.139216
+Head down detected at 2025-03-17 17:31:51.203103
+Head down detected at 2025-03-17 17:31:55.822221
+Head down detected at 2025-03-17 17:31:59.135419
+Head down detected at 2025-03-17 17:31:59.257589
+Head down detected at 2025-03-17 17:31:59.551842
+Head down detected at 2025-03-17 17:31:59.791818
+Head down detected at 2025-03-17 17:31:59.913944
+Head down detected at 2025-03-17 17:32:00.099112
+Head down detected at 2025-03-17 17:32:00.456207
+Head down detected at 2025-03-17 17:32:00.526641
+Head down detected at 2025-03-17 17:32:00.644351
+Head down detected at 2025-03-17 17:32:00.704989
+Head down detected at 2025-03-17 17:32:00.762579
+Head down detected at 2025-03-17 17:32:00.877562
+Head down detected at 2025-03-17 17:32:00.996040
+Head down detected at 2025-03-17 17:32:01.118784
+Head down detected at 2025-03-17 17:32:01.217217
+Head down detected at 2025-03-17 17:32:03.580743
+Head down detected at 2025-03-17 17:32:03.654639
+Head down detected at 2025-03-17 17:32:03.714674
+Head down detected at 2025-03-17 17:32:03.773430
+Head down detected at 2025-03-17 17:32:03.883425
+Head down detected at 2025-03-17 17:32:03.951368
+Head down detected at 2025-03-17 17:32:04.013733
+Head down detected at 2025-03-17 17:32:04.076040
+Head down detected at 2025-03-17 17:32:04.133276
+Head down detected at 2025-03-17 17:32:04.196165
+Head down detected at 2025-03-17 17:32:04.258767
+Head down detected at 2025-03-17 17:32:04.317508
+Head down detected at 2025-03-17 17:32:04.374535
+Head down detected at 2025-03-17 17:32:07.972054
+Head down detected at 2025-03-17 17:32:08.045827
+Head down detected at 2025-03-17 17:32:08.104197
+Head down detected at 2025-03-17 17:32:08.164985
+Head down detected at 2025-03-17 17:32:08.224371
+Head down detected at 2025-03-17 17:32:08.284086
+Head down detected at 2025-03-17 17:32:08.352131
+Head down detected at 2025-03-17 17:32:08.414113
+Head down detected at 2025-03-17 17:32:08.474128
+Head down detected at 2025-03-17 17:32:08.535083
+Head down detected at 2025-03-17 17:32:08.600270
+Head down detected at 2025-03-17 17:32:08.663655
+Head down detected at 2025-03-17 17:32:08.726049
+Head down detected at 2025-03-17 17:32:08.784636
+Head down detected at 2025-03-17 17:32:08.848997
+Head down detected at 2025-03-17 17:32:08.911365
+Head down detected at 2025-03-17 17:32:08.987912
+Head down detected at 2025-03-17 17:32:09.067648
+Head down detected at 2025-03-17 17:32:09.137910
+Head down detected at 2025-03-17 17:32:09.198898
+Head down detected at 2025-03-17 17:32:09.267134
+Head down detected at 2025-03-17 17:32:09.335569
+Head down detected at 2025-03-17 17:32:09.406197
+Head down detected at 2025-03-17 17:32:09.476921
+Head down detected at 2025-03-17 17:32:09.543543
+Head down detected at 2025-03-17 17:32:09.610751
+Head down detected at 2025-03-17 17:32:09.677309
+Head down detected at 2025-03-17 17:32:09.742991
+Head down detected at 2025-03-17 17:32:09.809980
+Head down detected at 2025-03-17 17:32:09.871430
+Head down detected at 2025-03-17 17:32:09.938504
+Head down detected at 2025-03-17 17:32:10.010144
+Head down detected at 2025-03-17 17:32:10.074258
+Head down detected at 2025-03-17 17:32:10.141320
+Head down detected at 2025-03-17 17:32:10.214621
+Head down detected at 2025-03-17 17:32:10.279885
+Head down detected at 2025-03-17 17:32:10.342619
+Head down detected at 2025-03-17 17:32:10.397206
+Head down detected at 2025-03-17 17:32:10.462352
+Head down detected at 2025-03-17 17:32:10.521248
+Head down detected at 2025-03-17 17:32:10.588080
+Head down detected at 2025-03-17 17:32:10.649576
+Head down detected at 2025-03-17 17:32:11.461507
+Head down detected at 2025-03-17 17:32:11.590038
+Head down detected at 2025-03-17 17:32:11.656246
+Head down detected at 2025-03-17 17:32:11.778496
+Head down detected at 2025-03-17 17:32:12.380332
+Head down detected at 2025-03-17 17:32:12.442819
+Head down detected at 2025-03-17 17:32:12.506932
+Head down detected at 2025-03-17 17:32:12.564022
+Head down detected at 2025-03-17 17:32:12.624881
+Head down detected at 2025-03-17 17:32:12.688826
+Head down detected at 2025-03-17 17:32:12.751842
+Head down detected at 2025-03-17 17:32:12.811673
+Head down detected at 2025-03-17 17:32:12.873071
+Head down detected at 2025-03-17 17:32:12.939118
+Head down detected at 2025-03-17 17:32:13.006771
+Head down detected at 2025-03-17 17:32:13.066678
+Head down detected at 2025-03-17 17:32:13.127164
+Head down detected at 2025-03-17 17:32:13.186816
+Head down detected at 2025-03-17 17:32:13.242241
+Head down detected at 2025-03-17 17:32:13.300287
+Head down detected at 2025-03-17 17:32:13.363471
+Head down detected at 2025-03-17 17:32:13.418609
+Head down detected at 2025-03-17 17:32:13.473635
+Head down detected at 2025-03-17 17:32:13.525114
+Head down detected at 2025-03-17 17:32:13.584639
+Head down detected at 2025-03-17 17:32:13.643778
+Head down detected at 2025-03-17 17:32:13.704832
+Head down detected at 2025-03-17 17:32:13.777681
+Head down detected at 2025-03-17 17:32:13.859783
+Head down detected at 2025-03-17 17:32:14.468774
+Drowsiness detected at 2025-03-17 17:32:52.761540
+Drowsiness detected at 2025-03-17 17:32:52.821254
+Drowsiness detected at 2025-03-17 17:32:52.890873
+Drowsiness detected at 2025-03-17 17:32:52.948632
+Drowsiness detected at 2025-03-17 17:32:53.007541
+Drowsiness detected at 2025-03-17 17:32:53.060650
+Drowsiness detected at 2025-03-17 17:32:53.126893
+Drowsiness detected at 2025-03-17 17:32:53.180832
+Drowsiness detected at 2025-03-17 17:32:53.240081
+Drowsiness detected at 2025-03-17 17:32:53.304683
+Drowsiness detected at 2025-03-17 17:32:53.362732
+Drowsiness detected at 2025-03-17 17:32:53.420251
+Drowsiness detected at 2025-03-17 17:32:53.481160
+Drowsiness detected at 2025-03-17 17:32:53.540192
+Drowsiness detected at 2025-03-17 17:32:53.602419
+Drowsiness detected at 2025-03-17 17:32:53.660607
+Drowsiness detected at 2025-03-17 17:32:53.720710
+Drowsiness detected at 2025-03-17 17:32:53.777387
+Drowsiness detected at 2025-03-17 17:32:53.843241
+Drowsiness detected at 2025-03-17 17:32:53.901288
+Drowsiness detected at 2025-03-17 17:34:46.846598
+Drowsiness detected at 2025-03-17 17:34:46.901590
+Drowsiness detected at 2025-03-17 17:34:47.004791
+Drowsiness detected at 2025-03-17 17:34:47.108193
+Drowsiness detected at 2025-03-17 17:34:47.167339
+Drowsiness detected at 2025-03-17 17:34:47.223316
+Drowsiness detected at 2025-03-17 17:34:47.282078
+Drowsiness detected at 2025-03-17 17:34:47.341062
+Drowsiness detected at 2025-03-17 17:34:47.442752
+Drowsiness detected at 2025-03-17 17:34:47.545495
+Drowsiness detected at 2025-03-17 17:34:47.625575
+Drowsiness detected at 2025-03-17 17:34:47.696651
+Drowsiness detected at 2025-03-17 17:34:47.756408
+Drowsiness detected at 2025-03-17 17:34:47.810703
+Drowsiness detected at 2025-03-17 17:34:47.867107
+Drowsiness detected at 2025-03-17 17:34:47.924245
+Drowsiness detected at 2025-03-17 17:34:48.031294
+Drowsiness detected at 2025-03-17 17:34:48.087839
+Drowsiness detected at 2025-03-17 17:34:48.141479
+Drowsiness detected at 2025-03-17 17:34:48.196578
+Drowsiness detected at 2025-03-17 17:34:48.255003
+Drowsiness detected at 2025-03-17 17:34:48.312626
+Drowsiness detected at 2025-03-17 17:34:48.373424
+Drowsiness detected at 2025-03-17 17:34:48.436875
+Drowsiness detected at 2025-03-17 17:34:48.494291
+Drowsiness detected at 2025-03-17 17:34:48.553833
+Drowsiness detected at 2025-03-17 17:34:48.608617
+Drowsiness detected at 2025-03-17 17:34:48.671668
+Drowsiness detected at 2025-03-17 17:34:48.724876
+Drowsiness detected at 2025-03-17 17:34:48.784469
+Drowsiness detected at 2025-03-17 17:34:48.844977
+Drowsiness detected at 2025-03-17 17:34:48.907161
+Drowsiness detected at 2025-03-17 17:34:49.019913
+Drowsiness detected at 2025-03-17 17:34:49.076144
+Drowsiness detected at 2025-03-17 17:34:49.131014
+Drowsiness detected at 2025-03-17 17:34:49.194722
+Drowsiness detected at 2025-03-17 17:34:49.254141
+Drowsiness detected at 2025-03-17 17:34:49.313666
+Drowsiness detected at 2025-03-17 17:34:49.372070
+Drowsiness detected at 2025-03-17 17:34:49.451307
+Drowsiness detected at 2025-03-17 17:34:49.521890
+Drowsiness detected at 2025-03-17 17:34:49.575971
+Drowsiness detected at 2025-03-17 17:34:49.637422
+Drowsiness detected at 2025-03-17 17:34:49.697470
+Drowsiness detected at 2025-03-17 17:34:49.757732
+Drowsiness detected at 2025-03-17 17:34:49.913202
+Drowsiness detected at 2025-03-17 17:34:49.969529
+Drowsiness detected at 2025-03-17 17:34:50.068123
+Drowsiness detected at 2025-03-17 17:34:50.129013
+Drowsiness detected at 2025-03-17 17:34:50.184319
+Drowsiness detected at 2025-03-17 17:34:50.249434
+Drowsiness detected at 2025-03-17 17:34:50.310105
+Drowsiness detected at 2025-03-17 17:34:50.409603
+Drowsiness detected at 2025-03-17 17:34:50.470892
+Drowsiness detected at 2025-03-17 17:34:50.532182
+Drowsiness detected at 2025-03-17 17:34:50.592362
+Drowsiness detected at 2025-03-17 17:34:50.652948
+Drowsiness detected at 2025-03-17 17:34:50.711022
+Drowsiness detected at 2025-03-17 17:34:50.771659
+Drowsiness detected at 2025-03-17 17:34:50.828387
+Drowsiness detected at 2025-03-17 17:34:50.880723
+Drowsiness detected at 2025-03-17 17:34:50.937200
+Drowsiness detected at 2025-03-17 17:34:50.990155
+Drowsiness detected at 2025-03-17 17:34:51.051141
+Drowsiness detected at 2025-03-17 17:34:51.106017
+Drowsiness detected at 2025-03-17 17:34:51.165302
+Drowsiness detected at 2025-03-17 17:34:51.227836
+Drowsiness detected at 2025-03-17 17:34:51.371208
+Drowsiness detected at 2025-03-17 17:34:51.428496
+Drowsiness detected at 2025-03-17 17:34:51.486935
+Drowsiness detected at 2025-03-17 17:34:51.548778
+Drowsiness detected at 2025-03-17 17:34:51.703373
+Drowsiness detected at 2025-03-17 17:34:51.758670
+Drowsiness detected at 2025-03-17 17:34:51.837524
+Drowsiness detected at 2025-03-17 17:34:51.951004
+Drowsiness detected at 2025-03-17 17:34:52.007568
+Drowsiness detected at 2025-03-17 17:34:52.069916
+Drowsiness detected at 2025-03-17 17:34:52.132319
+Drowsiness detected at 2025-03-17 17:34:52.193652
+Drowsiness detected at 2025-03-17 17:34:52.248034
+Drowsiness detected at 2025-03-17 17:34:52.301029
+Drowsiness detected at 2025-03-17 17:34:52.358580
+Drowsiness detected at 2025-03-17 17:34:52.412946
+Drowsiness detected at 2025-03-17 17:34:52.515614
+Drowsiness detected at 2025-03-17 17:34:52.615220
+Drowsiness detected at 2025-03-17 17:34:52.718534
+Drowsiness detected at 2025-03-17 17:34:52.775144
+Drowsiness detected at 2025-03-17 17:34:52.829704
+Drowsiness detected at 2025-03-17 17:34:52.891591
+Drowsiness detected at 2025-03-17 17:34:52.993561
+Drowsiness detected at 2025-03-17 17:34:53.054554
+Drowsiness detected at 2025-03-17 17:34:53.112983
+Drowsiness detected at 2025-03-17 17:34:53.174352
+Drowsiness detected at 2025-03-17 17:34:53.232080
+Drowsiness detected at 2025-03-17 17:34:53.296109
+Drowsiness detected at 2025-03-17 17:34:53.398911
+Drowsiness detected at 2025-03-17 17:34:53.452267
+Drowsiness detected at 2025-03-17 17:34:53.507461
+Drowsiness detected at 2025-03-17 17:34:53.567030
+Drowsiness detected at 2025-03-17 17:34:53.666869
+Drowsiness detected at 2025-03-17 17:34:53.723951
+Drowsiness detected at 2025-03-17 17:34:53.776430
+Drowsiness detected at 2025-03-17 17:34:53.834198
+Drowsiness detected at 2025-03-17 17:34:53.889540
+Drowsiness detected at 2025-03-17 17:34:58.827314
+Drowsiness detected at 2025-03-17 17:34:58.880119
+Drowsiness detected at 2025-03-17 17:34:58.934936
+Drowsiness detected at 2025-03-17 17:34:58.986026
+Drowsiness detected at 2025-03-17 17:34:59.050347
+Drowsiness detected at 2025-03-17 17:35:00.965819
+Drowsiness detected at 2025-03-17 17:35:01.034666
+Drowsiness detected at 2025-03-17 17:35:01.094845
+Drowsiness detected at 2025-03-17 17:35:01.154973
+Drowsiness detected at 2025-03-17 17:36:54.101694
+Drowsiness detected at 2025-03-17 17:36:54.168133
+Drowsiness detected at 2025-03-17 17:36:54.702333
+Drowsiness detected at 2025-03-18 14:11:01.387247
+Drowsiness detected at 2025-03-18 14:11:01.478025
+Drowsiness detected at 2025-03-18 14:11:01.575193
+Drowsiness detected at 2025-03-18 14:11:01.675532
+Drowsiness detected at 2025-03-18 14:11:01.775992
+Drowsiness detected at 2025-03-18 14:11:01.884816
+Drowsiness detected at 2025-03-18 14:11:01.982379
+Drowsiness detected at 2025-03-18 14:11:02.083012
+Drowsiness detected at 2025-03-18 14:11:02.179347
+Drowsiness detected at 2025-03-18 14:11:02.276454
+Drowsiness detected at 2025-03-18 14:11:02.376358
+Drowsiness detected at 2025-03-18 14:11:02.476090
+Drowsiness detected at 2025-03-18 14:11:02.578023
+Drowsiness detected at 2025-03-18 14:11:02.676794
+Drowsiness detected at 2025-03-18 14:11:02.807214
+Drowsiness detected at 2025-03-18 14:11:02.885307
+Drowsiness detected at 2025-03-18 14:11:02.982104
+Drowsiness detected at 2025-03-18 14:11:03.077762
+Drowsiness detected at 2025-03-18 14:11:03.181510
+Drowsiness detected at 2025-03-18 14:11:03.279276
+Drowsiness detected at 2025-03-18 14:11:03.381253
+Drowsiness detected at 2025-03-18 14:11:03.479165
+Drowsiness detected at 2025-03-18 14:11:03.579490
+Drowsiness detected at 2025-03-18 14:11:03.690591
+Drowsiness detected at 2025-03-18 14:11:03.792428
+Drowsiness detected at 2025-03-18 14:11:03.884380
+Drowsiness detected at 2025-03-18 14:11:03.983856
+Drowsiness detected at 2025-03-18 14:11:04.082513
+Drowsiness detected at 2025-03-18 14:11:04.181414
+Drowsiness detected at 2025-03-18 14:11:04.286183
+Drowsiness detected at 2025-03-18 14:11:04.380573
+Drowsiness detected at 2025-03-18 14:11:04.483741
+Drowsiness detected at 2025-03-18 14:11:04.584407
+Drowsiness detected at 2025-03-18 14:11:04.683459
+Drowsiness detected at 2025-03-18 14:11:04.784880
+Drowsiness detected at 2025-03-18 14:11:04.882019
+Drowsiness detected at 2025-03-18 14:11:04.982653
+Drowsiness detected at 2025-03-18 14:11:05.084088
+Drowsiness detected at 2025-03-18 14:11:05.180667
+Drowsiness detected at 2025-03-18 14:11:05.281599
+Drowsiness detected at 2025-03-18 14:11:05.381091
+Drowsiness detected at 2025-03-18 14:11:05.485876
+Drowsiness detected at 2025-03-18 14:11:05.587236
+Drowsiness detected at 2025-03-18 14:11:05.681818
+Drowsiness detected at 2025-03-18 14:11:05.788771
+Drowsiness detected at 2025-03-18 14:11:05.891010
+Drowsiness detected at 2025-03-18 14:11:05.985365
+Drowsiness detected at 2025-03-18 14:11:06.082317
+Drowsiness detected at 2025-03-18 14:11:06.191747
+Drowsiness detected at 2025-03-18 14:11:06.283215
+Drowsiness detected at 2025-03-18 14:11:06.380408
+Drowsiness detected at 2025-03-18 14:11:06.497086
+Drowsiness detected at 2025-03-18 14:11:06.590877
+Drowsiness detected at 2025-03-18 14:11:06.683991
+Drowsiness detected at 2025-03-18 14:11:06.792815
+Drowsiness detected at 2025-03-18 14:11:06.887639
+Drowsiness detected at 2025-03-18 14:11:06.986350
+Drowsiness detected at 2025-03-18 14:11:07.099375
+Drowsiness detected at 2025-03-18 14:11:07.185029
+Drowsiness detected at 2025-03-18 14:11:07.286017
+Drowsiness detected at 2025-03-18 14:11:07.387920
+Drowsiness detected at 2025-03-18 20:14:07.478340
+Drowsiness detected at 2025-03-18 20:14:07.529847
+Drowsiness detected at 2025-03-18 20:14:07.577099
+Drowsiness detected at 2025-03-18 20:14:07.612945
+Drowsiness detected at 2025-03-18 20:14:07.651704
+Drowsiness detected at 2025-03-18 20:14:07.688400
+Drowsiness detected at 2025-03-18 20:14:07.724792
+Drowsiness detected at 2025-03-18 20:14:07.762364
+Drowsiness detected at 2025-03-18 20:14:07.799056
+Drowsiness detected at 2025-03-18 20:14:07.841399
+Drowsiness detected at 2025-03-18 20:14:07.882846
+Drowsiness detected at 2025-03-18 20:14:07.923199
+Drowsiness detected at 2025-03-18 20:14:07.958601
+Drowsiness detected at 2025-03-18 20:14:07.994356
+Drowsiness detected at 2025-03-18 20:14:08.032360
+Drowsiness detected at 2025-03-18 20:14:08.069521
+Drowsiness detected at 2025-03-18 20:14:08.108285
+Drowsiness detected at 2025-03-18 20:14:08.142223
+Drowsiness detected at 2025-03-18 20:14:08.177408
+Drowsiness detected at 2025-03-18 20:14:08.217630
+Drowsiness detected at 2025-03-18 20:14:08.253126
+Drowsiness detected at 2025-03-18 20:14:08.289404
+Drowsiness detected at 2025-03-18 20:14:08.325092
+Drowsiness detected at 2025-03-18 20:14:08.366165
+Drowsiness detected at 2025-03-18 20:14:08.406825
+Drowsiness detected at 2025-03-18 20:14:08.448353
+Drowsiness detected at 2025-03-18 20:14:11.144633
+Drowsiness detected at 2025-03-18 20:14:11.857308
+Drowsiness detected at 2025-03-18 20:14:11.894323
+Drowsiness detected at 2025-03-18 20:14:11.931666
+Drowsiness detected at 2025-03-18 20:14:11.972406
+Drowsiness detected at 2025-03-18 20:14:12.009750
+Drowsiness detected at 2025-03-18 20:14:12.045966
+Drowsiness detected at 2025-03-18 20:14:12.084792
+Drowsiness detected at 2025-03-18 20:14:12.121110
+Drowsiness detected at 2025-03-18 20:14:12.160878
+Drowsiness detected at 2025-03-18 20:14:12.200743
+Drowsiness detected at 2025-03-18 20:14:12.240590
+Drowsiness detected at 2025-03-18 20:14:12.279567
+Drowsiness detected at 2025-03-18 20:14:12.319621
+Drowsiness detected at 2025-03-18 20:14:12.369833
+Drowsiness detected at 2025-03-18 20:14:12.415355
+Drowsiness detected at 2025-03-18 20:14:12.449559
+Drowsiness detected at 2025-03-18 20:14:12.484258
+Drowsiness detected at 2025-03-18 20:14:12.524903
+Drowsiness detected at 2025-03-18 20:14:12.563874
+Drowsiness detected at 2025-03-18 20:14:15.076769
+Drowsiness detected at 2025-03-18 20:14:15.114242
+Drowsiness detected at 2025-03-18 20:14:15.153033
+Drowsiness detected at 2025-03-18 20:14:15.194400
+Drowsiness detected at 2025-03-18 20:14:15.232288
+Drowsiness detected at 2025-03-18 20:14:15.269297
+Drowsiness detected at 2025-03-18 20:14:15.304914
+Drowsiness detected at 2025-03-18 20:14:15.341601
+Drowsiness detected at 2025-03-18 20:14:15.382205
+Drowsiness detected at 2025-03-18 20:14:15.418358
+Drowsiness detected at 2025-03-18 20:14:15.452474
+Drowsiness detected at 2025-03-18 20:14:15.488642
+Drowsiness detected at 2025-03-18 20:14:15.527417
+Drowsiness detected at 2025-03-18 20:14:15.566475
+Drowsiness detected at 2025-03-18 20:14:15.609237
+Drowsiness detected at 2025-03-18 20:14:15.648782
+Drowsiness detected at 2025-03-18 20:14:15.683778
+Drowsiness detected at 2025-03-18 20:14:15.718542
+Drowsiness detected at 2025-03-18 20:14:15.761707
+Drowsiness detected at 2025-03-18 20:14:15.797325
+Drowsiness detected at 2025-03-18 20:14:15.831598
+Drowsiness detected at 2025-03-18 20:16:39.637497 | Drowsiness %: 43.78%
+Drowsiness detected at 2025-03-18 20:16:39.679349 | Drowsiness %: 44.09%
+Drowsiness detected at 2025-03-18 20:16:39.717661 | Drowsiness %: 44.39%
+Drowsiness detected at 2025-03-18 20:16:40.498827 | Drowsiness %: 49.52%
+Drowsiness detected at 2025-03-18 20:16:40.538564 | Drowsiness %: 49.76%
+Drowsiness detected at 2025-03-18 20:16:40.580201 | Drowsiness %: 50.00%
+Drowsiness detected at 2025-03-18 20:16:40.623543 | Drowsiness %: 50.23%
+Drowsiness detected at 2025-03-18 20:16:40.661276 | Drowsiness %: 50.47%
+Drowsiness detected at 2025-03-18 20:16:40.701433 | Drowsiness %: 50.70%
+Drowsiness detected at 2025-03-18 20:16:40.745568 | Drowsiness %: 50.93%
+Drowsiness detected at 2025-03-18 20:16:40.787530 | Drowsiness %: 51.15%
+Drowsiness detected at 2025-03-18 20:16:40.828082 | Drowsiness %: 51.38%
+Drowsiness detected at 2025-03-18 20:16:40.862156 | Drowsiness %: 51.60%
+Drowsiness detected at 2025-03-18 20:16:40.900355 | Drowsiness %: 51.82%
+Drowsiness detected at 2025-03-18 20:16:40.942410 | Drowsiness %: 52.04%
+Drowsiness detected at 2025-03-18 20:16:40.980405 | Drowsiness %: 52.25%
+Drowsiness detected at 2025-03-18 20:16:41.016963 | Drowsiness %: 52.47%
+Drowsiness detected at 2025-03-18 20:16:41.057017 | Drowsiness %: 52.68%
+Drowsiness detected at 2025-03-18 20:16:43.532089 | Drowsiness %: 55.22%
+Drowsiness detected at 2025-03-18 20:16:43.574265 | Drowsiness %: 55.37%
+Drowsiness detected at 2025-03-18 20:16:43.617583 | Drowsiness %: 55.52%
+Drowsiness detected at 2025-03-18 20:16:43.660010 | Drowsiness %: 55.67%
+Drowsiness detected at 2025-03-18 20:16:43.700579 | Drowsiness %: 55.81%
+Drowsiness detected at 2025-03-18 20:16:43.742873 | Drowsiness %: 55.96%
+Drowsiness detected at 2025-03-18 20:16:43.784084 | Drowsiness %: 56.11%
+Drowsiness detected at 2025-03-18 20:16:43.819434 | Drowsiness %: 56.25%
+Drowsiness detected at 2025-03-18 20:16:43.858819 | Drowsiness %: 56.39%
+Drowsiness detected at 2025-03-18 20:16:43.897539 | Drowsiness %: 56.54%
+Drowsiness detected at 2025-03-18 20:16:43.935970 | Drowsiness %: 56.68%
+Drowsiness detected at 2025-03-18 20:17:05.496675 | Drowsiness %: 26.65%
+Drowsiness detected at 2025-03-18 20:17:05.540333 | Drowsiness %: 26.73%
+Drowsiness detected at 2025-03-18 20:17:05.579195 | Drowsiness %: 26.81%
+Drowsiness detected at 2025-03-18 20:17:05.621340 | Drowsiness %: 26.88%
+Drowsiness detected at 2025-03-18 20:17:05.661172 | Drowsiness %: 26.96%
+Drowsiness detected at 2025-03-18 20:17:05.698420 | Drowsiness %: 27.04%
+Drowsiness detected at 2025-03-18 20:17:05.738235 | Drowsiness %: 27.11%
+Drowsiness detected at 2025-03-18 20:17:05.774558 | Drowsiness %: 27.19%
+Drowsiness detected at 2025-03-18 20:17:05.810003 | Drowsiness %: 27.26%
+Drowsiness detected at 2025-03-18 20:17:05.844676 | Drowsiness %: 27.34%
+Drowsiness detected at 2025-03-18 20:17:05.888206 | Drowsiness %: 27.41%
+Drowsiness detected at 2025-03-18 20:17:05.921986 | Drowsiness %: 27.49%
+Drowsiness detected at 2025-03-18 20:17:05.959767 | Drowsiness %: 27.56%
+Drowsiness detected at 2025-03-18 20:17:05.998270 | Drowsiness %: 27.64%
+Drowsiness detected at 2025-03-18 20:17:06.037500 | Drowsiness %: 27.71%
+Drowsiness detected at 2025-03-18 20:17:06.077250 | Drowsiness %: 27.79%
+Drowsiness detected at 2025-03-18 20:17:06.114446 | Drowsiness %: 27.86%
+Drowsiness detected at 2025-03-18 20:17:06.156602 | Drowsiness %: 27.94%
+Drowsiness detected at 2025-03-18 20:17:06.193466 | Drowsiness %: 28.01%
+Drowsiness detected at 2025-03-18 20:17:06.232685 | Drowsiness %: 28.09%
+Drowsiness detected at 2025-03-18 20:17:06.272370 | Drowsiness %: 28.16%
+Drowsiness detected at 2025-03-18 20:17:06.312089 | Drowsiness %: 28.23%
+Drowsiness detected at 2025-03-18 20:17:06.353284 | Drowsiness %: 28.31%
+Drowsiness detected at 2025-03-18 20:17:06.389328 | Drowsiness %: 28.38%
+Drowsiness detected at 2025-03-18 20:17:06.425188 | Drowsiness %: 28.45%
+Drowsiness detected at 2025-03-18 20:17:06.462666 | Drowsiness %: 28.53%
+Drowsiness detected at 2025-03-18 20:17:06.499131 | Drowsiness %: 28.60%
+Drowsiness detected at 2025-03-18 20:17:06.541896 | Drowsiness %: 28.67%
+Drowsiness detected at 2025-03-18 20:17:06.582701 | Drowsiness %: 28.75%
+Drowsiness detected at 2025-03-18 20:17:06.623453 | Drowsiness %: 28.82%
+Drowsiness detected at 2025-03-18 20:17:06.662909 | Drowsiness %: 28.89%
+Drowsiness detected at 2025-03-18 20:17:06.703353 | Drowsiness %: 28.96%
+Drowsiness detected at 2025-03-18 20:17:06.742613 | Drowsiness %: 29.04%
+Drowsiness detected at 2025-03-18 20:17:06.779561 | Drowsiness %: 29.11%
+Drowsiness detected at 2025-03-18 20:17:06.815873 | Drowsiness %: 29.18%
+Drowsiness detected at 2025-03-18 20:17:06.859068 | Drowsiness %: 29.25%
+Drowsiness detected at 2025-03-18 20:17:06.896984 | Drowsiness %: 29.32%
+Drowsiness detected at 2025-03-18 20:17:06.939576 | Drowsiness %: 29.39%
+Drowsiness detected at 2025-03-18 20:17:06.975635 | Drowsiness %: 29.47%
+Drowsiness detected at 2025-03-18 20:17:07.013900 | Drowsiness %: 29.54%
+Drowsiness detected at 2025-03-18 20:17:07.053418 | Drowsiness %: 29.61%
+Drowsiness detected at 2025-03-18 20:17:07.093138 | Drowsiness %: 29.68%
+Drowsiness detected at 2025-03-18 20:17:07.131886 | Drowsiness %: 29.75%
+Drowsiness detected at 2025-03-18 20:17:07.171030 | Drowsiness %: 29.82%
+Drowsiness detected at 2025-03-18 20:17:07.207604 | Drowsiness %: 29.89%
+Drowsiness detected at 2025-03-18 20:17:07.248706 | Drowsiness %: 29.96%
+Drowsiness detected at 2025-03-18 20:17:07.287635 | Drowsiness %: 30.03%
+Drowsiness detected at 2025-03-18 20:17:07.323190 | Drowsiness %: 30.10%
+Drowsiness detected at 2025-03-18 20:17:07.362232 | Drowsiness %: 30.17%
+Drowsiness detected at 2025-03-18 20:17:07.398075 | Drowsiness %: 30.24%
+Drowsiness detected at 2025-03-18 20:17:07.432173 | Drowsiness %: 30.31%
+Drowsiness detected at 2025-03-18 20:17:07.474821 | Drowsiness %: 30.38%
+Drowsiness detected at 2025-03-18 20:17:07.512259 | Drowsiness %: 30.45%
+Drowsiness detected at 2025-03-18 20:17:07.553246 | Drowsiness %: 30.52%
+Drowsiness detected at 2025-03-18 20:17:07.595242 | Drowsiness %: 30.59%
+Drowsiness detected at 2025-03-18 20:17:07.632392 | Drowsiness %: 30.65%
+Drowsiness detected at 2025-03-18 20:17:07.671229 | Drowsiness %: 30.72%
+Drowsiness detected at 2025-03-18 20:17:07.708256 | Drowsiness %: 30.79%
+Drowsiness detected at 2025-03-18 20:17:07.741265 | Drowsiness %: 30.86%
+Drowsiness detected at 2025-03-18 20:17:07.775045 | Drowsiness %: 30.93%
+Drowsiness detected at 2025-03-18 20:17:07.810682 | Drowsiness %: 31.00%
+Drowsiness detected at 2025-03-18 20:17:07.845497 | Drowsiness %: 31.07%
+Drowsiness detected at 2025-03-18 20:17:07.879339 | Drowsiness %: 31.13%
+Drowsiness detected at 2025-03-18 20:17:07.913941 | Drowsiness %: 31.20%
+Drowsiness detected at 2025-03-18 20:17:07.947489 | Drowsiness %: 31.27%
+Drowsiness detected at 2025-03-18 20:17:07.986548 | Drowsiness %: 31.34%
+Drowsiness detected at 2025-03-18 20:17:08.022019 | Drowsiness %: 31.40%
+Drowsiness detected at 2025-03-18 20:17:08.057150 | Drowsiness %: 31.47%
+Drowsiness detected at 2025-03-18 20:17:08.091023 | Drowsiness %: 31.54%
+Drowsiness detected at 2025-03-18 20:17:08.126977 | Drowsiness %: 31.60%
+Drowsiness detected at 2025-03-18 20:17:08.163046 | Drowsiness %: 31.67%
+Drowsiness detected at 2025-03-18 20:17:08.201254 | Drowsiness %: 31.74%
+Drowsiness detected at 2025-03-18 20:17:08.241833 | Drowsiness %: 31.80%
+Drowsiness detected at 2025-03-18 20:17:08.278197 | Drowsiness %: 31.87%
+Drowsiness detected at 2025-03-18 20:17:08.318048 | Drowsiness %: 31.94%
+Drowsiness detected at 2025-03-18 20:17:08.359314 | Drowsiness %: 32.00%
+Drowsiness detected at 2025-03-18 20:17:08.397186 | Drowsiness %: 32.07%
+Drowsiness detected at 2025-03-18 20:17:08.438115 | Drowsiness %: 32.14%
+Drowsiness detected at 2025-03-18 20:17:08.475286 | Drowsiness %: 32.20%
+Drowsiness detected at 2025-03-18 20:17:08.512656 | Drowsiness %: 32.27%
+Drowsiness detected at 2025-03-18 20:17:08.547418 | Drowsiness %: 32.33%
+Drowsiness detected at 2025-03-18 20:17:08.587879 | Drowsiness %: 32.40%
+Drowsiness detected at 2025-03-18 20:17:08.629157 | Drowsiness %: 32.46%
+Drowsiness detected at 2025-03-18 20:17:08.669528 | Drowsiness %: 32.53%
+Drowsiness detected at 2025-03-18 20:17:08.726649 | Drowsiness %: 32.59%
+Drowsiness detected at 2025-03-18 20:17:08.772230 | Drowsiness %: 32.66%
+Drowsiness detected at 2025-03-18 20:17:08.811053 | Drowsiness %: 32.72%
+Drowsiness detected at 2025-03-18 20:17:08.850176 | Drowsiness %: 32.79%
+Drowsiness detected at 2025-03-18 20:17:08.886467 | Drowsiness %: 32.85%
+Drowsiness detected at 2025-03-18 20:17:08.921547 | Drowsiness %: 32.92%
+Drowsiness detected at 2025-03-18 20:17:08.956756 | Drowsiness %: 32.98%
+Drowsiness detected at 2025-03-18 20:17:08.991647 | Drowsiness %: 33.05%
+Drowsiness detected at 2025-03-18 20:17:09.026660 | Drowsiness %: 33.11%
+Drowsiness detected at 2025-03-18 20:17:09.062359 | Drowsiness %: 33.17%
+Drowsiness detected at 2025-03-18 20:17:09.096371 | Drowsiness %: 33.24%
+Drowsiness detected at 2025-03-18 20:17:09.136814 | Drowsiness %: 33.30%
+Drowsiness detected at 2025-03-18 20:17:09.177463 | Drowsiness %: 33.37%
+Drowsiness detected at 2025-03-18 20:17:09.214003 | Drowsiness %: 33.43%
+Drowsiness detected at 2025-03-18 20:17:09.255621 | Drowsiness %: 33.49%
+Drowsiness detected at 2025-03-18 20:17:09.296766 | Drowsiness %: 33.56%
+Drowsiness detected at 2025-03-18 20:17:09.337875 | Drowsiness %: 33.62%
+Drowsiness detected at 2025-03-18 20:17:09.375934 | Drowsiness %: 33.68%
+Drowsiness detected at 2025-03-18 20:17:09.410822 | Drowsiness %: 33.74%
+Drowsiness detected at 2025-03-18 20:17:09.447466 | Drowsiness %: 33.81%
+Drowsiness detected at 2025-03-18 20:17:09.490591 | Drowsiness %: 33.87%
+Drowsiness detected at 2025-03-18 20:17:09.531997 | Drowsiness %: 33.93%
+Drowsiness detected at 2025-03-18 20:17:09.572065 | Drowsiness %: 33.99%
+Drowsiness detected at 2025-03-18 20:17:09.609075 | Drowsiness %: 34.06%
+Drowsiness detected at 2025-03-18 20:17:09.653978 | Drowsiness %: 34.12%
+Drowsiness detected at 2025-03-18 20:17:09.690503 | Drowsiness %: 34.18%
+Drowsiness detected at 2025-03-18 20:17:09.735671 | Drowsiness %: 34.24%
+Drowsiness detected at 2025-03-18 20:17:09.774050 | Drowsiness %: 34.30%
+Drowsiness detected at 2025-03-18 20:17:09.813865 | Drowsiness %: 34.37%
+Drowsiness detected at 2025-03-18 20:17:09.856116 | Drowsiness %: 34.43%
+Drowsiness detected at 2025-03-18 20:17:09.897482 | Drowsiness %: 34.49%
+Drowsiness detected at 2025-03-18 20:17:09.937628 | Drowsiness %: 34.55%
+Drowsiness detected at 2025-03-18 20:17:09.972373 | Drowsiness %: 34.61%
+Drowsiness detected at 2025-03-18 20:17:10.009016 | Drowsiness %: 34.67%
+Drowsiness detected at 2025-03-18 20:17:10.047627 | Drowsiness %: 34.73%
+Drowsiness detected at 2025-03-18 20:17:10.090997 | Drowsiness %: 34.79%
+Drowsiness detected at 2025-03-18 20:17:10.132377 | Drowsiness %: 34.86%
+Drowsiness detected at 2025-03-18 20:17:10.171348 | Drowsiness %: 34.92%
+Drowsiness detected at 2025-03-18 20:17:10.207400 | Drowsiness %: 34.98%
+Drowsiness detected at 2025-03-18 20:17:10.242272 | Drowsiness %: 35.04%
+Drowsiness detected at 2025-03-18 20:17:10.280120 | Drowsiness %: 35.10%
+Drowsiness detected at 2025-03-18 20:17:10.321668 | Drowsiness %: 35.16%
+Drowsiness detected at 2025-03-18 20:17:10.362912 | Drowsiness %: 35.22%
+Drowsiness detected at 2025-03-18 20:17:10.404588 | Drowsiness %: 35.28%
+Drowsiness detected at 2025-03-18 20:17:10.442603 | Drowsiness %: 35.34%
+Drowsiness detected at 2025-03-18 20:17:10.479654 | Drowsiness %: 35.40%
+Drowsiness detected at 2025-03-18 20:17:10.520854 | Drowsiness %: 35.46%
+Drowsiness detected at 2025-03-18 20:17:10.559382 | Drowsiness %: 35.52%
+Drowsiness detected at 2025-03-18 20:17:10.597058 | Drowsiness %: 35.58%
+Drowsiness detected at 2025-03-18 20:17:10.636932 | Drowsiness %: 35.64%
+Drowsiness detected at 2025-03-18 20:17:10.674744 | Drowsiness %: 35.69%
+Drowsiness detected at 2025-03-18 20:17:10.711199 | Drowsiness %: 35.75%
+Drowsiness detected at 2025-03-18 20:17:10.750599 | Drowsiness %: 35.81%
+Drowsiness detected at 2025-03-18 20:17:10.789694 | Drowsiness %: 35.87%
+Drowsiness detected at 2025-03-18 20:17:10.826630 | Drowsiness %: 35.93%
+Drowsiness detected at 2025-03-18 20:17:10.863421 | Drowsiness %: 35.99%
+Drowsiness detected at 2025-03-18 20:17:10.908554 | Drowsiness %: 36.05%
+Drowsiness detected at 2025-03-18 20:17:10.948954 | Drowsiness %: 36.11%
+Drowsiness detected at 2025-03-18 20:17:10.993794 | Drowsiness %: 36.16%
+Drowsiness detected at 2025-03-18 20:17:11.036641 | Drowsiness %: 36.22%
+Drowsiness detected at 2025-03-18 20:17:11.078493 | Drowsiness %: 36.28%
+Drowsiness detected at 2025-03-18 20:17:11.120732 | Drowsiness %: 36.34%
+Drowsiness detected at 2025-03-18 20:17:11.161060 | Drowsiness %: 36.40%
+Drowsiness detected at 2025-03-18 20:17:11.203075 | Drowsiness %: 36.45%
+Drowsiness detected at 2025-03-18 20:17:11.244185 | Drowsiness %: 36.51%
+Drowsiness detected at 2025-03-18 20:17:11.283895 | Drowsiness %: 36.57%
+Drowsiness detected at 2025-03-18 20:17:11.318642 | Drowsiness %: 36.63%
+Drowsiness detected at 2025-03-18 20:17:11.370179 | Drowsiness %: 36.68%
+Drowsiness detected at 2025-03-18 20:17:11.422515 | Drowsiness %: 36.74%
+Drowsiness detected at 2025-03-18 20:17:12.559043 | Drowsiness %: 37.68%
+Drowsiness detected at 2025-03-18 20:17:12.600831 | Drowsiness %: 37.73%
+Drowsiness detected at 2025-03-18 20:17:12.639517 | Drowsiness %: 37.79%
+Drowsiness detected at 2025-03-18 20:17:12.674619 | Drowsiness %: 37.84%
+Drowsiness detected at 2025-03-18 20:17:12.711574 | Drowsiness %: 37.89%
+Drowsiness detected at 2025-03-18 20:17:12.750738 | Drowsiness %: 37.95%
+Drowsiness detected at 2025-03-18 20:17:12.790516 | Drowsiness %: 38.00%
+Drowsiness detected at 2025-03-18 20:17:12.832288 | Drowsiness %: 38.06%
+Drowsiness detected at 2025-03-18 20:17:12.868640 | Drowsiness %: 38.11%
+Drowsiness detected at 2025-03-18 20:17:12.905407 | Drowsiness %: 38.17%
+Drowsiness detected at 2025-03-18 20:17:12.945943 | Drowsiness %: 38.22%
+Drowsiness detected at 2025-03-18 20:17:12.987455 | Drowsiness %: 38.27%
+Drowsiness detected at 2025-03-18 20:17:13.025758 | Drowsiness %: 38.33%
+Drowsiness detected at 2025-03-18 20:17:13.070131 | Drowsiness %: 38.38%
+Drowsiness detected at 2025-03-18 20:17:13.113422 | Drowsiness %: 38.43%
+Drowsiness detected at 2025-03-18 20:17:13.152541 | Drowsiness %: 38.49%
+Drowsiness detected at 2025-03-18 20:17:13.188466 | Drowsiness %: 38.54%
+Drowsiness detected at 2025-03-18 20:17:13.224893 | Drowsiness %: 38.59%
+Drowsiness detected at 2025-03-18 20:17:13.263446 | Drowsiness %: 38.65%
+Drowsiness detected at 2025-03-18 20:17:13.304581 | Drowsiness %: 38.70%
+Drowsiness detected at 2025-03-18 20:17:13.347843 | Drowsiness %: 38.75%
+Drowsiness detected at 2025-03-18 20:17:13.388076 | Drowsiness %: 38.81%
+Drowsiness detected at 2025-03-18 20:17:13.429896 | Drowsiness %: 38.86%
+Drowsiness detected at 2025-03-18 20:17:13.469780 | Drowsiness %: 38.91%
+Drowsiness detected at 2025-03-18 20:17:13.507074 | Drowsiness %: 38.97%
+Drowsiness detected at 2025-03-18 20:17:13.546961 | Drowsiness %: 39.02%
+Drowsiness detected at 2025-03-18 20:17:13.588941 | Drowsiness %: 39.07%
+Drowsiness detected at 2025-03-18 20:17:13.632129 | Drowsiness %: 39.12%
+Drowsiness detected at 2025-03-18 20:17:13.673007 | Drowsiness %: 39.18%
+Drowsiness detected at 2025-03-18 20:17:13.714370 | Drowsiness %: 39.23%
+Drowsiness detected at 2025-03-18 20:17:13.757288 | Drowsiness %: 39.28%
+Drowsiness detected at 2025-03-18 20:17:13.793780 | Drowsiness %: 39.33%
+Drowsiness detected at 2025-03-18 20:17:13.832245 | Drowsiness %: 39.38%
+Drowsiness detected at 2025-03-18 20:17:13.869307 | Drowsiness %: 39.44%
+Drowsiness detected at 2025-03-18 20:17:13.904011 | Drowsiness %: 39.49%
+Drowsiness detected at 2025-03-18 20:17:13.945500 | Drowsiness %: 39.54%
+Drowsiness detected at 2025-03-18 20:17:13.987151 | Drowsiness %: 39.59%
+Drowsiness detected at 2025-03-18 20:17:14.024624 | Drowsiness %: 39.64%
+Drowsiness detected at 2025-03-18 20:17:14.066966 | Drowsiness %: 39.69%
+Drowsiness detected at 2025-03-18 20:17:14.117686 | Drowsiness %: 39.74%
+Drowsiness detected at 2025-03-18 20:17:14.163585 | Drowsiness %: 39.80%
+Drowsiness detected at 2025-03-18 20:17:14.209711 | Drowsiness %: 39.85%
+Drowsiness detected at 2025-03-18 20:17:14.252188 | Drowsiness %: 39.90%
+Drowsiness detected at 2025-03-18 20:17:14.293601 | Drowsiness %: 39.95%
+Drowsiness detected at 2025-03-18 20:17:14.335615 | Drowsiness %: 40.00%
+Drowsiness detected at 2025-03-18 20:17:14.373214 | Drowsiness %: 40.05%
+Drowsiness detected at 2025-03-18 20:17:14.409399 | Drowsiness %: 40.10%
+Drowsiness detected at 2025-03-18 20:17:14.452867 | Drowsiness %: 40.15%
+Drowsiness detected at 2025-03-18 20:17:14.490939 | Drowsiness %: 40.20%
+Drowsiness detected at 2025-03-18 20:17:14.528619 | Drowsiness %: 40.25%
+Drowsiness detected at 2025-03-18 20:17:14.570642 | Drowsiness %: 40.30%
+Drowsiness detected at 2025-03-18 20:17:14.609424 | Drowsiness %: 40.35%
+Drowsiness detected at 2025-03-18 20:17:14.650155 | Drowsiness %: 40.40%
+Drowsiness detected at 2025-03-18 20:17:14.689946 | Drowsiness %: 40.45%
+Drowsiness detected at 2025-03-18 20:18:13.727487 | Drowsiness %: 20.00%
+Drowsiness detected at 2025-03-18 20:18:13.801207 | Drowsiness %: 20.66%
+Drowsiness detected at 2025-03-18 20:18:13.861407 | Drowsiness %: 21.31%
+Drowsiness detected at 2025-03-18 20:18:13.914485 | Drowsiness %: 21.95%
+Drowsiness detected at 2025-03-18 20:18:13.978326 | Drowsiness %: 22.58%
+Drowsiness detected at 2025-03-18 20:18:14.039860 | Drowsiness %: 23.20%
+Drowsiness detected at 2025-03-18 20:18:14.101890 | Drowsiness %: 23.81%
+Drowsiness detected at 2025-03-18 20:18:14.163883 | Drowsiness %: 24.41%
+Drowsiness detected at 2025-03-18 20:18:14.222947 | Drowsiness %: 25.00%
+Drowsiness detected at 2025-03-18 20:18:14.281013 | Drowsiness %: 25.58%
+Drowsiness detected at 2025-03-18 20:18:14.341295 | Drowsiness %: 26.15%
+Drowsiness detected at 2025-03-18 20:18:14.400566 | Drowsiness %: 26.72%
+Drowsiness detected at 2025-03-18 20:18:14.467470 | Drowsiness %: 27.27%
+Drowsiness detected at 2025-03-18 20:18:14.567701 | Drowsiness %: 27.82%
+Drowsiness detected at 2025-03-18 20:18:14.622844 | Drowsiness %: 28.36%
+Drowsiness detected at 2025-03-18 20:18:14.678349 | Drowsiness %: 28.89%
+Drowsiness detected at 2025-03-18 20:18:14.738381 | Drowsiness %: 29.41%
+Drowsiness detected at 2025-03-18 20:18:14.801155 | Drowsiness %: 29.93%
+Drowsiness detected at 2025-03-18 20:18:14.860127 | Drowsiness %: 30.43%
+Drowsiness detected at 2025-03-18 20:18:14.919682 | Drowsiness %: 30.94%
+Drowsiness detected at 2025-03-18 20:18:14.981003 | Drowsiness %: 31.43%
+Drowsiness detected at 2025-03-18 20:18:15.039283 | Drowsiness %: 31.91%
+Drowsiness detected at 2025-03-18 20:18:15.095372 | Drowsiness %: 32.39%
+Drowsiness detected at 2025-03-18 20:18:15.158893 | Drowsiness %: 32.87%
+Drowsiness detected at 2025-03-18 20:18:15.220929 | Drowsiness %: 33.33%
+Drowsiness detected at 2025-03-18 20:18:15.279500 | Drowsiness %: 33.79%
+Drowsiness detected at 2025-03-18 20:18:15.344351 | Drowsiness %: 34.25%
+Drowsiness detected at 2025-03-18 20:18:15.403378 | Drowsiness %: 34.69%
+Drowsiness detected at 2025-03-18 20:18:15.462177 | Drowsiness %: 35.14%
+Drowsiness detected at 2025-03-18 20:18:15.520567 | Drowsiness %: 35.57%
+Drowsiness detected at 2025-03-18 20:18:15.576604 | Drowsiness %: 36.00%
+Drowsiness detected at 2025-03-18 20:18:15.633787 | Drowsiness %: 36.42%
+Drowsiness detected at 2025-03-18 20:18:15.698135 | Drowsiness %: 36.84%
+Drowsiness detected at 2025-03-18 20:18:15.756744 | Drowsiness %: 37.25%
+Drowsiness detected at 2025-03-18 20:18:15.818689 | Drowsiness %: 37.66%
+Drowsiness detected at 2025-03-18 20:18:15.875420 | Drowsiness %: 38.06%
+Drowsiness detected at 2025-03-18 20:18:15.941088 | Drowsiness %: 38.46%
+Drowsiness detected at 2025-03-18 20:18:15.998321 | Drowsiness %: 38.85%
+Drowsiness detected at 2025-03-18 20:18:16.071997 | Drowsiness %: 39.24%
+Drowsiness detected at 2025-03-18 20:18:16.156621 | Drowsiness %: 39.62%
+Drowsiness detected at 2025-03-18 20:18:16.221738 | Drowsiness %: 40.00%
+Drowsiness detected at 2025-03-18 20:18:16.276569 | Drowsiness %: 40.37%
+Drowsiness detected at 2025-03-18 20:18:16.337958 | Drowsiness %: 40.74%
+Drowsiness detected at 2025-03-18 20:18:16.395025 | Drowsiness %: 41.10%
+Drowsiness detected at 2025-03-18 20:18:16.455915 | Drowsiness %: 41.46%
+Drowsiness detected at 2025-03-18 20:18:16.513556 | Drowsiness %: 41.82%
+Drowsiness detected at 2025-03-18 20:18:16.574942 | Drowsiness %: 42.17%
+Drowsiness detected at 2025-03-18 20:18:16.628998 | Drowsiness %: 42.51%
+Drowsiness detected at 2025-03-18 20:18:16.689466 | Drowsiness %: 42.86%
+Drowsiness detected at 2025-03-18 20:18:16.744874 | Drowsiness %: 43.20%
+Drowsiness detected at 2025-03-18 20:18:16.808096 | Drowsiness %: 43.53%
+Drowsiness detected at 2025-03-18 20:18:16.863549 | Drowsiness %: 43.86%
+Drowsiness detected at 2025-03-18 20:18:16.929077 | Drowsiness %: 44.19%
+Drowsiness detected at 2025-03-18 20:18:16.993784 | Drowsiness %: 44.51%
+Drowsiness detected at 2025-03-18 20:18:17.053225 | Drowsiness %: 44.83%
+Drowsiness detected at 2025-03-18 20:18:17.117355 | Drowsiness %: 45.14%
+Drowsiness detected at 2025-03-18 20:18:17.177036 | Drowsiness %: 45.45%
+Drowsiness detected at 2025-03-18 20:18:17.237555 | Drowsiness %: 45.76%
+Drowsiness detected at 2025-03-18 20:18:17.291970 | Drowsiness %: 46.07%
+Drowsiness detected at 2025-03-18 20:18:17.351491 | Drowsiness %: 46.37%
+Drowsiness detected at 2025-03-18 20:18:17.411821 | Drowsiness %: 46.67%
+Drowsiness detected at 2025-03-18 20:18:17.469110 | Drowsiness %: 46.96%
+Drowsiness detected at 2025-03-18 20:18:17.530281 | Drowsiness %: 47.25%
+Drowsiness detected at 2025-03-18 20:18:17.589347 | Drowsiness %: 47.54%
+Drowsiness detected at 2025-03-18 20:18:17.650082 | Drowsiness %: 47.83%
+Drowsiness detected at 2025-03-18 20:18:17.713774 | Drowsiness %: 48.11%
+Drowsiness detected at 2025-03-18 20:18:17.785772 | Drowsiness %: 48.39%
+Drowsiness detected at 2025-03-18 20:18:17.839529 | Drowsiness %: 48.66%
+Drowsiness detected at 2025-03-18 20:18:17.901961 | Drowsiness %: 48.94%
+Drowsiness detected at 2025-03-18 20:18:17.963365 | Drowsiness %: 49.21%
+Drowsiness detected at 2025-03-18 20:18:18.039689 | Drowsiness %: 49.47%
+Drowsiness detected at 2025-03-18 20:18:18.132978 | Drowsiness %: 49.74%
+Drowsiness detected at 2025-03-18 20:18:18.195653 | Drowsiness %: 50.00%
+Drowsiness detected at 2025-03-18 20:18:18.256893 | Drowsiness %: 50.26%
+Drowsiness detected at 2025-03-18 20:18:18.322388 | Drowsiness %: 50.52%
+Drowsiness detected at 2025-03-18 20:18:18.382504 | Drowsiness %: 50.77%
+Drowsiness detected at 2025-03-18 20:18:18.445925 | Drowsiness %: 51.02%
+Drowsiness detected at 2025-03-18 20:18:18.505520 | Drowsiness %: 51.27%
+Drowsiness detected at 2025-03-18 20:18:18.569541 | Drowsiness %: 51.52%
+Drowsiness detected at 2025-03-18 20:18:18.631627 | Drowsiness %: 51.76%
+Drowsiness detected at 2025-03-18 20:18:18.692786 | Drowsiness %: 52.00%
+Drowsiness detected at 2025-03-18 20:18:18.747564 | Drowsiness %: 52.24%
+Drowsiness detected at 2025-03-18 20:18:18.812486 | Drowsiness %: 52.48%
+Drowsiness detected at 2025-03-18 20:18:18.866835 | Drowsiness %: 52.71%
+Drowsiness detected at 2025-03-18 20:18:18.928899 | Drowsiness %: 52.94%
+Drowsiness detected at 2025-03-18 20:18:18.984670 | Drowsiness %: 53.17%
+Drowsiness detected at 2025-03-18 20:18:19.044825 | Drowsiness %: 53.40%
+Drowsiness detected at 2025-03-18 20:18:19.102006 | Drowsiness %: 53.62%
+Drowsiness detected at 2025-03-18 20:18:19.164455 | Drowsiness %: 53.85%
+Drowsiness detected at 2025-03-18 20:18:19.225125 | Drowsiness %: 54.07%
+Drowsiness detected at 2025-03-18 20:18:19.282810 | Drowsiness %: 54.29%
+Drowsiness detected at 2025-03-18 20:18:19.338620 | Drowsiness %: 54.50%
+Drowsiness detected at 2025-03-18 20:18:19.400526 | Drowsiness %: 54.72%
+Drowsiness detected at 2025-03-18 20:18:19.462903 | Drowsiness %: 54.93%
+Drowsiness detected at 2025-03-18 20:18:19.520934 | Drowsiness %: 55.14%
+Drowsiness detected at 2025-03-18 20:18:19.580182 | Drowsiness %: 55.35%
+Drowsiness detected at 2025-03-18 20:18:19.646854 | Drowsiness %: 55.56%
+Drowsiness detected at 2025-03-19 18:37:28.196567 | Drowsiness %: 13.04%
+Drowsiness detected at 2025-03-19 18:37:28.265566 | Drowsiness %: 13.46%
+Drowsiness detected at 2025-03-19 18:37:28.328978 | Drowsiness %: 13.88%
+Drowsiness detected at 2025-03-19 18:37:28.389887 | Drowsiness %: 14.29%
+Drowsiness detected at 2025-03-19 18:37:28.452615 | Drowsiness %: 14.69%
+Drowsiness detected at 2025-03-19 18:37:28.515868 | Drowsiness %: 15.09%
+Drowsiness detected at 2025-03-19 18:37:28.584676 | Drowsiness %: 15.49%
+Drowsiness detected at 2025-03-19 18:37:28.650598 | Drowsiness %: 15.89%
+Drowsiness detected at 2025-03-19 18:37:28.713387 | Drowsiness %: 16.28%
+Drowsiness detected at 2025-03-19 18:37:28.776780 | Drowsiness %: 16.67%
+Drowsiness detected at 2025-03-19 18:37:28.837812 | Drowsiness %: 17.05%
+Drowsiness detected at 2025-03-19 18:37:28.895967 | Drowsiness %: 17.43%
+Drowsiness detected at 2025-03-19 18:37:28.961577 | Drowsiness %: 17.81%
+Drowsiness detected at 2025-03-19 18:37:29.026518 | Drowsiness %: 18.18%
+Drowsiness detected at 2025-03-19 18:37:29.088565 | Drowsiness %: 18.55%
+Drowsiness detected at 2025-03-19 18:37:29.145411 | Drowsiness %: 18.92%
+Drowsiness detected at 2025-03-19 18:37:29.209718 | Drowsiness %: 19.28%
+Drowsiness detected at 2025-03-19 18:37:29.271536 | Drowsiness %: 19.64%
+Drowsiness detected at 2025-03-19 18:37:29.336702 | Drowsiness %: 20.00%
+Drowsiness detected at 2025-03-19 18:37:29.401606 | Drowsiness %: 20.35%
+Drowsiness detected at 2025-03-19 18:37:29.465503 | Drowsiness %: 20.70%
+Drowsiness detected at 2025-03-19 18:37:29.526286 | Drowsiness %: 21.05%
+Drowsiness detected at 2025-03-19 18:37:29.587751 | Drowsiness %: 21.40%
+Drowsiness detected at 2025-03-19 18:37:29.652634 | Drowsiness %: 21.74%
+Drowsiness detected at 2025-03-19 18:37:29.716671 | Drowsiness %: 22.08%
+Drowsiness detected at 2025-03-19 18:37:29.779680 | Drowsiness %: 22.41%
+Drowsiness detected at 2025-03-19 18:37:29.864466 | Drowsiness %: 22.75%
+Drowsiness detected at 2025-03-19 18:37:29.932897 | Drowsiness %: 23.08%
+Drowsiness detected at 2025-03-19 18:37:29.999429 | Drowsiness %: 23.40%
+Drowsiness detected at 2025-03-19 18:37:30.064668 | Drowsiness %: 23.73%
+Drowsiness detected at 2025-03-19 18:37:30.126137 | Drowsiness %: 24.05%
+Drowsiness detected at 2025-03-19 18:37:30.190784 | Drowsiness %: 24.37%
+Drowsiness detected at 2025-03-19 18:37:30.249048 | Drowsiness %: 24.69%
+Drowsiness detected at 2025-03-19 18:37:30.312017 | Drowsiness %: 25.00%
+Drowsiness detected at 2025-03-19 18:37:30.371620 | Drowsiness %: 25.31%
+Drowsiness detected at 2025-03-19 18:37:30.436569 | Drowsiness %: 25.62%
+Drowsiness detected at 2025-03-19 18:37:30.501250 | Drowsiness %: 25.93%
+Drowsiness detected at 2025-03-19 18:37:30.566745 | Drowsiness %: 26.23%
+Drowsiness detected at 2025-03-19 18:37:30.627678 | Drowsiness %: 26.53%
+Drowsiness detected at 2025-03-19 18:37:30.686503 | Drowsiness %: 26.83%
+Drowsiness detected at 2025-03-19 18:37:30.748684 | Drowsiness %: 27.13%
+Drowsiness detected at 2025-03-19 18:37:30.812525 | Drowsiness %: 27.42%
+Drowsiness detected at 2025-03-19 18:37:30.873852 | Drowsiness %: 27.71%
+Drowsiness detected at 2025-03-19 18:37:30.935739 | Drowsiness %: 28.00%
+Drowsiness detected at 2025-03-19 18:37:30.998367 | Drowsiness %: 28.29%
+Drowsiness detected at 2025-03-19 18:37:31.056552 | Drowsiness %: 28.57%
+Drowsiness detected at 2025-03-19 18:37:31.116201 | Drowsiness %: 28.85%
+Drowsiness detected at 2025-03-19 18:37:31.180862 | Drowsiness %: 29.13%
+Drowsiness detected at 2025-03-19 18:37:31.237072 | Drowsiness %: 29.41%
+Drowsiness detected at 2025-03-19 18:37:31.308871 | Drowsiness %: 29.69%
+Drowsiness detected at 2025-03-19 18:37:31.379090 | Drowsiness %: 29.96%
+Drowsiness detected at 2025-03-19 18:37:31.442442 | Drowsiness %: 30.23%
+Drowsiness detected at 2025-03-19 18:37:31.504713 | Drowsiness %: 30.50%
+Drowsiness detected at 2025-03-19 18:37:31.565461 | Drowsiness %: 30.77%
+Drowsiness detected at 2025-03-19 18:37:31.620072 | Drowsiness %: 31.03%
+Drowsiness detected at 2025-03-19 18:37:31.684784 | Drowsiness %: 31.30%
+Drowsiness detected at 2025-03-19 18:37:31.744312 | Drowsiness %: 31.56%
+Drowsiness detected at 2025-03-19 18:37:31.806216 | Drowsiness %: 31.82%
+Drowsiness detected at 2025-03-19 18:37:31.866224 | Drowsiness %: 32.08%
+Drowsiness detected at 2025-03-19 18:37:31.927714 | Drowsiness %: 32.33%
+Drowsiness detected at 2025-03-19 18:37:31.993201 | Drowsiness %: 32.58%
+Drowsiness detected at 2025-03-19 18:37:32.057777 | Drowsiness %: 32.84%
+Drowsiness detected at 2025-03-19 18:37:32.120291 | Drowsiness %: 33.09%
+Drowsiness detected at 2025-03-19 18:37:32.178351 | Drowsiness %: 33.33%
+Drowsiness detected at 2025-03-19 18:37:32.236398 | Drowsiness %: 33.58%
+Drowsiness detected at 2025-03-19 18:37:32.299777 | Drowsiness %: 33.82%
+Drowsiness detected at 2025-03-19 18:37:32.355897 | Drowsiness %: 34.07%
+Drowsiness detected at 2025-03-19 18:37:32.419453 | Drowsiness %: 34.31%
+Drowsiness detected at 2025-03-19 18:37:32.472547 | Drowsiness %: 34.55%
+Drowsiness detected at 2025-03-19 18:37:32.531664 | Drowsiness %: 34.78%
+Drowsiness detected at 2025-03-19 18:37:32.589603 | Drowsiness %: 35.02%
+Drowsiness detected at 2025-03-19 18:37:32.654620 | Drowsiness %: 35.25%
+Drowsiness detected at 2025-03-19 18:37:32.716565 | Drowsiness %: 35.48%
+Drowsiness detected at 2025-03-19 18:37:32.780049 | Drowsiness %: 35.71%
+Drowsiness detected at 2025-03-19 18:37:32.839726 | Drowsiness %: 35.94%
+Drowsiness detected at 2025-03-19 18:37:32.900009 | Drowsiness %: 36.17%
+Drowsiness detected at 2025-03-19 18:37:32.959095 | Drowsiness %: 36.40%
+Drowsiness detected at 2025-03-19 18:37:33.020019 | Drowsiness %: 36.62%
+Drowsiness detected at 2025-03-19 18:37:33.077470 | Drowsiness %: 36.84%
+Drowsiness detected at 2025-03-19 18:37:33.138061 | Drowsiness %: 37.06%
+Drowsiness detected at 2025-03-19 18:37:33.195537 | Drowsiness %: 37.28%
+Drowsiness detected at 2025-03-19 18:37:33.256448 | Drowsiness %: 37.50%
+Drowsiness detected at 2025-03-19 18:37:33.311562 | Drowsiness %: 37.72%
+Drowsiness detected at 2025-03-19 18:37:33.377327 | Drowsiness %: 37.93%
+Drowsiness detected at 2025-03-19 18:37:33.441129 | Drowsiness %: 38.14%
+Drowsiness detected at 2025-03-19 18:37:33.505323 | Drowsiness %: 38.36%
+Drowsiness detected at 2025-03-19 18:37:33.564379 | Drowsiness %: 38.57%
+Drowsiness detected at 2025-03-19 18:37:33.625706 | Drowsiness %: 38.78%
+Drowsiness detected at 2025-03-19 18:37:33.686621 | Drowsiness %: 38.98%
+Drowsiness detected at 2025-03-19 18:37:33.745781 | Drowsiness %: 39.19%
+Drowsiness detected at 2025-03-19 18:37:33.810751 | Drowsiness %: 39.39%
+Drowsiness detected at 2025-03-19 18:37:33.873532 | Drowsiness %: 39.60%
+Drowsiness detected at 2025-03-19 18:37:33.938413 | Drowsiness %: 39.80%
+Drowsiness detected at 2025-03-19 18:37:34.010328 | Drowsiness %: 40.00%
+Drowsiness detected at 2025-03-19 18:37:34.075131 | Drowsiness %: 40.20%
+Drowsiness detected at 2025-03-19 18:37:34.138658 | Drowsiness %: 40.40%
+Drowsiness detected at 2025-03-19 18:37:34.206419 | Drowsiness %: 40.59%
+Drowsiness detected at 2025-03-19 18:37:34.268140 | Drowsiness %: 40.79%
+Drowsiness detected at 2025-03-19 18:37:34.329528 | Drowsiness %: 40.98%
+Drowsiness detected at 2025-03-19 18:37:34.392907 | Drowsiness %: 41.18%
+Drowsiness detected at 2025-03-19 18:37:34.451849 | Drowsiness %: 41.37%
+Drowsiness detected at 2025-03-19 18:37:34.519630 | Drowsiness %: 41.56%
+Drowsiness detected at 2025-03-19 18:37:34.580138 | Drowsiness %: 41.75%
+Drowsiness detected at 2025-03-19 18:37:34.646436 | Drowsiness %: 41.94%
+Drowsiness detected at 2025-03-19 18:37:34.703050 | Drowsiness %: 42.12%
+Drowsiness detected at 2025-03-19 18:37:34.776451 | Drowsiness %: 42.31%
+Drowsiness detected at 2025-03-19 18:37:34.829377 | Drowsiness %: 42.49%
+Drowsiness detected at 2025-03-19 18:37:34.892993 | Drowsiness %: 42.68%
+Drowsiness detected at 2025-03-19 18:37:34.957320 | Drowsiness %: 42.86%
+Drowsiness detected at 2025-03-19 18:37:35.014104 | Drowsiness %: 43.04%
+Drowsiness detected at 2025-03-19 18:37:35.074569 | Drowsiness %: 43.22%
+Drowsiness detected at 2025-03-19 18:37:35.139428 | Drowsiness %: 43.40%
+Drowsiness detected at 2025-03-19 18:37:35.198434 | Drowsiness %: 43.57%
+Drowsiness detected at 2025-03-19 18:37:35.258932 | Drowsiness %: 43.75%
+Drowsiness detected at 2025-03-19 18:37:35.315497 | Drowsiness %: 43.93%
+Drowsiness detected at 2025-03-19 18:37:35.381755 | Drowsiness %: 44.10%
+Drowsiness detected at 2025-03-19 18:37:35.444573 | Drowsiness %: 44.27%
+Drowsiness detected at 2025-03-19 18:37:35.507325 | Drowsiness %: 44.44%
+Drowsiness detected at 2025-03-19 18:37:35.562419 | Drowsiness %: 44.62%
+Drowsiness detected at 2025-03-19 18:37:35.623805 | Drowsiness %: 44.79%
+Drowsiness detected at 2025-03-19 18:37:35.681326 | Drowsiness %: 44.95%
+Drowsiness detected at 2025-03-19 18:37:35.741533 | Drowsiness %: 45.12%
+Drowsiness detected at 2025-03-19 18:37:35.798194 | Drowsiness %: 45.29%
+Drowsiness detected at 2025-03-19 18:37:35.863166 | Drowsiness %: 45.45%
+Drowsiness detected at 2025-03-19 18:37:35.923947 | Drowsiness %: 45.62%
+Drowsiness detected at 2025-03-19 18:37:35.987029 | Drowsiness %: 45.78%
+Drowsiness detected at 2025-03-19 18:37:49.435331 | Drowsiness %: 56.29%
+Drowsiness detected at 2025-03-19 18:37:49.440911 | Drowsiness %: 56.46%
+Drowsiness detected at 2025-03-19 18:37:50.561841 | Drowsiness %: 59.14%
+Drowsiness detected at 2025-03-19 18:37:50.568138 | Drowsiness %: 59.31%
+Drowsiness detected at 2025-03-19 18:37:50.632573 | Drowsiness %: 59.38%
+Drowsiness detected at 2025-03-19 18:37:50.641186 | Drowsiness %: 59.54%
+Drowsiness detected at 2025-03-19 18:37:50.705442 | Drowsiness %: 59.61%
+Drowsiness detected at 2025-03-19 18:37:50.713954 | Drowsiness %: 59.77%
+Drowsiness detected at 2025-03-19 18:37:50.777115 | Drowsiness %: 59.84%
+Drowsiness detected at 2025-03-19 18:37:50.786340 | Drowsiness %: 60.00%
+Drowsiness detected at 2025-03-19 18:37:50.853853 | Drowsiness %: 60.07%
+Drowsiness detected at 2025-03-19 18:37:50.862320 | Drowsiness %: 60.23%
+Drowsiness detected at 2025-03-19 18:37:50.920427 | Drowsiness %: 60.29%
+Drowsiness detected at 2025-03-19 18:37:50.930066 | Drowsiness %: 60.46%
+Drowsiness detected at 2025-03-19 18:37:50.989374 | Drowsiness %: 60.52%
+Drowsiness detected at 2025-03-19 18:37:56.103134 | Drowsiness %: 65.35%
+Drowsiness detected at 2025-03-19 18:37:56.163909 | Drowsiness %: 65.40%
+Drowsiness detected at 2025-03-19 18:37:56.233166 | Drowsiness %: 65.44%
+Drowsiness detected at 2025-03-19 18:37:56.294212 | Drowsiness %: 65.49%
+Drowsiness detected at 2025-03-19 18:37:56.354261 | Drowsiness %: 65.54%
+Drowsiness detected at 2025-03-19 18:37:56.418527 | Drowsiness %: 65.59%
+Drowsiness detected at 2025-03-19 18:37:56.481072 | Drowsiness %: 65.64%
+Drowsiness detected at 2025-03-19 18:37:56.538756 | Drowsiness %: 65.69%
+Drowsiness detected at 2025-03-19 18:37:56.604807 | Drowsiness %: 65.73%
+Drowsiness detected at 2025-03-19 18:37:56.667078 | Drowsiness %: 65.78%
+Drowsiness detected at 2025-03-19 18:37:56.740473 | Drowsiness %: 65.83%
+Drowsiness detected at 2025-03-19 18:37:56.835416 | Drowsiness %: 65.88%
+Drowsiness detected at 2025-03-19 18:37:56.894892 | Drowsiness %: 65.92%
+Drowsiness detected at 2025-03-19 18:37:56.953985 | Drowsiness %: 65.97%
+Drowsiness detected at 2025-03-19 18:37:57.016385 | Drowsiness %: 66.02%
+Drowsiness detected at 2025-03-19 18:37:57.074393 | Drowsiness %: 66.07%
+Drowsiness detected at 2025-03-19 18:37:57.132829 | Drowsiness %: 66.11%
+Drowsiness detected at 2025-03-19 18:37:57.196928 | Drowsiness %: 66.16%
+Drowsiness detected at 2025-03-19 18:37:57.260598 | Drowsiness %: 66.21%
+Drowsiness detected at 2025-03-19 18:37:57.326583 | Drowsiness %: 66.25%
+Drowsiness detected at 2025-03-19 18:37:57.386708 | Drowsiness %: 66.30%
+Drowsiness detected at 2025-03-19 18:37:57.454695 | Drowsiness %: 66.35%
+Drowsiness detected at 2025-03-19 18:37:57.514854 | Drowsiness %: 66.39%
+Drowsiness detected at 2025-03-19 18:37:57.579169 | Drowsiness %: 66.44%
+Drowsiness detected at 2025-03-19 18:37:57.643696 | Drowsiness %: 66.48%
+Drowsiness detected at 2025-03-19 18:37:57.703347 | Drowsiness %: 66.53%
+Drowsiness detected at 2025-03-19 18:37:57.766230 | Drowsiness %: 66.58%
+Drowsiness detected at 2025-03-19 18:37:57.827339 | Drowsiness %: 66.62%
+Drowsiness detected at 2025-03-19 18:37:57.888322 | Drowsiness %: 66.67%
+Drowsiness detected at 2025-03-19 18:37:57.949789 | Drowsiness %: 66.71%
+Drowsiness detected at 2025-03-19 18:37:58.012030 | Drowsiness %: 66.76%
+Drowsiness detected at 2025-03-19 18:37:58.073851 | Drowsiness %: 66.80%
+Drowsiness detected at 2025-03-19 18:37:58.139186 | Drowsiness %: 66.85%
+Drowsiness detected at 2025-03-19 18:37:58.198588 | Drowsiness %: 66.89%
+Drowsiness detected at 2025-03-19 18:37:58.262460 | Drowsiness %: 66.94%
+Drowsiness detected at 2025-03-19 18:37:58.318603 | Drowsiness %: 66.98%
+Drowsiness detected at 2025-03-19 18:37:58.376910 | Drowsiness %: 67.03%
+Drowsiness detected at 2025-03-19 18:37:58.442369 | Drowsiness %: 67.07%
+Drowsiness detected at 2025-03-19 18:37:58.524691 | Drowsiness %: 67.11%
+Drowsiness detected at 2025-03-19 18:37:58.603392 | Drowsiness %: 67.16%
+Drowsiness detected at 2025-03-19 18:37:58.661144 | Drowsiness %: 67.20%
+Drowsiness detected at 2025-03-19 18:37:58.721752 | Drowsiness %: 67.25%
+Drowsiness detected at 2025-03-19 18:37:58.784387 | Drowsiness %: 67.29%
+Drowsiness detected at 2025-03-19 18:37:58.848094 | Drowsiness %: 67.33%
+Drowsiness detected at 2025-03-19 18:37:58.913645 | Drowsiness %: 67.38%
+Drowsiness detected at 2025-03-19 18:37:58.969391 | Drowsiness %: 67.42%
+Drowsiness detected at 2025-03-19 18:37:59.038612 | Drowsiness %: 67.46%
+Drowsiness detected at 2025-03-19 18:37:59.104869 | Drowsiness %: 67.51%
+Drowsiness detected at 2025-03-19 18:37:59.169154 | Drowsiness %: 67.55%
+Drowsiness detected at 2025-03-19 18:37:59.229597 | Drowsiness %: 67.59%
+Drowsiness detected at 2025-03-19 18:37:59.291851 | Drowsiness %: 67.64%
+Drowsiness detected at 2025-03-19 18:37:59.349225 | Drowsiness %: 67.68%
+Drowsiness detected at 2025-03-19 18:38:00.436561 | Drowsiness %: 68.42%
+Drowsiness detected at 2025-03-19 18:38:00.506109 | Drowsiness %: 68.46%
+Drowsiness detected at 2025-03-19 18:38:00.570200 | Drowsiness %: 68.50%
+Drowsiness detected at 2025-03-19 18:38:00.634389 | Drowsiness %: 68.54%
+Drowsiness detected at 2025-03-19 18:38:00.698852 | Drowsiness %: 68.58%
+Drowsiness detected at 2025-03-19 18:38:00.761153 | Drowsiness %: 68.62%
+Drowsiness detected at 2025-03-19 18:38:00.819030 | Drowsiness %: 68.66%
+Drowsiness detected at 2025-03-19 18:38:00.881790 | Drowsiness %: 68.70%
+Drowsiness detected at 2025-03-19 18:38:00.947850 | Drowsiness %: 68.74%
+Drowsiness detected at 2025-03-19 18:38:01.011101 | Drowsiness %: 68.78%
+Drowsiness detected at 2025-03-19 18:38:01.074393 | Drowsiness %: 68.82%
+Drowsiness detected at 2025-03-19 18:38:01.138191 | Drowsiness %: 68.86%
+Drowsiness detected at 2025-03-19 18:38:01.198578 | Drowsiness %: 68.90%
+Drowsiness detected at 2025-03-19 18:38:01.261295 | Drowsiness %: 68.94%
+Drowsiness detected at 2025-03-19 18:38:01.324677 | Drowsiness %: 68.98%
+Drowsiness detected at 2025-03-19 18:38:01.382707 | Drowsiness %: 69.02%
+Drowsiness detected at 2025-03-19 18:38:01.450220 | Drowsiness %: 69.06%
+Drowsiness detected at 2025-03-19 18:38:01.509272 | Drowsiness %: 69.10%
+Drowsiness detected at 2025-03-19 18:38:01.575154 | Drowsiness %: 69.13%
+Drowsiness detected at 2025-03-19 18:38:01.630219 | Drowsiness %: 69.17%
+Drowsiness detected at 2025-03-19 18:38:01.706223 | Drowsiness %: 69.21%
+Drowsiness detected at 2025-03-19 18:38:01.779699 | Drowsiness %: 69.25%
+Drowsiness detected at 2025-03-19 18:38:01.837837 | Drowsiness %: 69.29%
+Drowsiness detected at 2025-03-19 18:38:01.923676 | Drowsiness %: 69.33%
+Drowsiness detected at 2025-03-19 18:38:01.993023 | Drowsiness %: 69.36%
+Drowsiness detected at 2025-03-19 18:38:02.050083 | Drowsiness %: 69.40%
+Drowsiness detected at 2025-03-19 18:38:02.114646 | Drowsiness %: 69.44%
+Drowsiness detected at 2025-03-19 18:38:02.176294 | Drowsiness %: 69.48%
+Drowsiness detected at 2025-03-19 18:38:02.235193 | Drowsiness %: 69.52%
+Drowsiness detected at 2025-03-19 18:38:02.295050 | Drowsiness %: 69.55%
+Drowsiness detected at 2025-03-19 18:38:02.366157 | Drowsiness %: 69.59%
+Drowsiness detected at 2025-03-19 18:38:02.433564 | Drowsiness %: 69.63%
+Drowsiness detected at 2025-03-19 18:38:02.496018 | Drowsiness %: 69.67%
+Drowsiness detected at 2025-03-19 18:38:02.563134 | Drowsiness %: 69.70%
+Drowsiness detected at 2025-03-19 18:38:02.654076 | Drowsiness %: 69.74%
+Drowsiness detected at 2025-03-19 18:38:02.727407 | Drowsiness %: 69.78%
+Drowsiness detected at 2025-03-19 18:38:02.785844 | Drowsiness %: 69.82%
+Drowsiness detected at 2025-03-19 18:38:02.855436 | Drowsiness %: 69.85%
+Drowsiness detected at 2025-03-19 18:38:02.918927 | Drowsiness %: 69.89%
+Drowsiness detected at 2025-03-19 18:38:02.982852 | Drowsiness %: 69.93%
+Drowsiness detected at 2025-03-19 18:38:03.044636 | Drowsiness %: 69.96%
+Drowsiness detected at 2025-03-19 18:38:03.108826 | Drowsiness %: 70.00%
+Drowsiness detected at 2025-03-19 18:38:03.174927 | Drowsiness %: 70.04%
+Drowsiness detected at 2025-03-19 18:38:03.238099 | Drowsiness %: 70.07%
+Drowsiness detected at 2025-03-19 18:38:03.297905 | Drowsiness %: 70.11%
+Drowsiness detected at 2025-03-19 18:38:03.377902 | Drowsiness %: 70.15%
+Drowsiness detected at 2025-03-19 18:38:03.445725 | Drowsiness %: 70.18%
+Drowsiness detected at 2025-03-19 18:38:03.500870 | Drowsiness %: 70.22%
+Drowsiness detected at 2025-03-19 18:38:03.569834 | Drowsiness %: 70.25%
+Drowsiness detected at 2025-03-19 18:38:03.627235 | Drowsiness %: 70.29%
+Drowsiness detected at 2025-03-19 18:38:03.694141 | Drowsiness %: 70.33%
+Drowsiness detected at 2025-03-19 18:38:03.751387 | Drowsiness %: 70.36%
+Drowsiness detected at 2025-03-19 18:38:03.814239 | Drowsiness %: 70.40%
+Drowsiness detected at 2025-03-19 18:38:03.875829 | Drowsiness %: 70.43%
+Drowsiness detected at 2025-03-19 18:38:03.936321 | Drowsiness %: 70.47%
+Drowsiness detected at 2025-03-19 18:38:03.997521 | Drowsiness %: 70.50%
+Drowsiness detected at 2025-03-19 18:38:04.059176 | Drowsiness %: 70.54%
+Drowsiness detected at 2025-03-19 18:38:04.123124 | Drowsiness %: 70.57%
+Drowsiness detected at 2025-03-19 18:38:04.181729 | Drowsiness %: 70.61%
+Drowsiness detected at 2025-03-19 18:38:04.246744 | Drowsiness %: 70.64%
+Drowsiness detected at 2025-03-19 18:38:04.311584 | Drowsiness %: 70.68%
+Drowsiness detected at 2025-03-19 18:38:04.369529 | Drowsiness %: 70.71%
+Drowsiness detected at 2025-03-19 18:38:04.431034 | Drowsiness %: 70.75%
+Drowsiness detected at 2025-03-19 18:38:04.489807 | Drowsiness %: 70.78%
+Drowsiness detected at 2025-03-19 18:38:04.549378 | Drowsiness %: 70.82%
+Drowsiness detected at 2025-03-19 18:38:04.609532 | Drowsiness %: 70.85%
+Drowsiness detected at 2025-03-19 18:38:04.681214 | Drowsiness %: 70.89%
+Drowsiness detected at 2025-03-19 18:38:04.765246 | Drowsiness %: 70.92%
+Drowsiness detected at 2025-03-19 18:38:05.880638 | Drowsiness %: 71.51%
+Drowsiness detected at 2025-03-19 18:38:05.944440 | Drowsiness %: 71.54%
+Drowsiness detected at 2025-03-19 18:38:06.010719 | Drowsiness %: 71.58%
+Drowsiness detected at 2025-03-19 18:38:06.075952 | Drowsiness %: 71.61%
+Drowsiness detected at 2025-03-19 18:38:06.138692 | Drowsiness %: 71.64%
+Drowsiness detected at 2025-03-19 18:38:06.203783 | Drowsiness %: 71.67%
+Drowsiness detected at 2025-03-19 18:38:06.262072 | Drowsiness %: 71.71%
+Drowsiness detected at 2025-03-19 18:38:06.326720 | Drowsiness %: 71.74%
+Drowsiness detected at 2025-03-19 18:38:06.391834 | Drowsiness %: 71.77%
+Drowsiness detected at 2025-03-19 18:38:06.450423 | Drowsiness %: 71.80%
+Drowsiness detected at 2025-03-19 18:38:06.508542 | Drowsiness %: 71.84%
+Drowsiness detected at 2025-03-19 18:38:06.566334 | Drowsiness %: 71.87%
+Drowsiness detected at 2025-03-19 18:38:06.627078 | Drowsiness %: 71.90%
+Drowsiness detected at 2025-03-19 18:38:06.693075 | Drowsiness %: 71.93%
+Drowsiness detected at 2025-03-19 18:38:06.758704 | Drowsiness %: 71.96%
+Drowsiness detected at 2025-03-19 18:38:06.824603 | Drowsiness %: 72.00%
+Drowsiness detected at 2025-03-19 18:38:06.891911 | Drowsiness %: 72.03%
+Drowsiness detected at 2025-03-19 18:38:06.957175 | Drowsiness %: 72.06%
+Drowsiness detected at 2025-03-19 18:38:07.014959 | Drowsiness %: 72.09%
+Drowsiness detected at 2025-03-19 18:38:07.077849 | Drowsiness %: 72.12%
+Drowsiness detected at 2025-03-19 18:38:07.138782 | Drowsiness %: 72.15%
+Drowsiness detected at 2025-03-19 18:38:07.206094 | Drowsiness %: 72.18%
+Drowsiness detected at 2025-03-19 18:38:07.265672 | Drowsiness %: 72.22%
+Drowsiness detected at 2025-03-19 18:38:07.328916 | Drowsiness %: 72.25%
+Drowsiness detected at 2025-03-19 18:38:07.388462 | Drowsiness %: 72.28%
+Drowsiness detected at 2025-03-19 18:38:07.447385 | Drowsiness %: 72.31%
+Drowsiness detected at 2025-03-19 18:38:07.509941 | Drowsiness %: 72.34%
+Drowsiness detected at 2025-03-19 18:38:07.569969 | Drowsiness %: 72.37%
+Drowsiness detected at 2025-03-19 18:38:07.626207 | Drowsiness %: 72.40%
+Drowsiness detected at 2025-03-19 18:38:07.688771 | Drowsiness %: 72.43%
+Drowsiness detected at 2025-03-19 18:38:07.747174 | Drowsiness %: 72.46%
+Drowsiness detected at 2025-03-19 18:38:07.808085 | Drowsiness %: 72.49%
+Drowsiness detected at 2025-03-19 18:38:07.865460 | Drowsiness %: 72.53%
+Drowsiness detected at 2025-03-19 18:38:07.926056 | Drowsiness %: 72.56%
+Drowsiness detected at 2025-03-19 18:38:07.987245 | Drowsiness %: 72.59%
+Drowsiness detected at 2025-03-19 18:38:08.046109 | Drowsiness %: 72.62%
+Drowsiness detected at 2025-03-19 18:38:08.110511 | Drowsiness %: 72.65%
+Drowsiness detected at 2025-03-19 18:38:08.165787 | Drowsiness %: 72.68%
+Drowsiness detected at 2025-03-19 18:38:09.248307 | Drowsiness %: 73.19%
+Drowsiness detected at 2025-03-19 18:38:09.310216 | Drowsiness %: 73.22%
+Drowsiness detected at 2025-03-19 18:38:09.375113 | Drowsiness %: 73.25%
+Drowsiness detected at 2025-03-19 18:38:09.382336 | Drowsiness %: 73.35%
+Drowsiness detected at 2025-03-19 18:38:09.442175 | Drowsiness %: 73.38%
+Drowsiness detected at 2025-03-19 18:38:09.502260 | Drowsiness %: 73.41%
+Drowsiness detected at 2025-03-19 18:38:09.508871 | Drowsiness %: 73.52%
+Drowsiness detected at 2025-03-19 18:38:09.572788 | Drowsiness %: 73.55%
+Drowsiness detected at 2025-03-19 18:38:09.582642 | Drowsiness %: 73.66%
+Drowsiness detected at 2025-03-19 18:38:09.645175 | Drowsiness %: 73.68%
+Drowsiness detected at 2025-03-19 18:38:09.652802 | Drowsiness %: 73.79%
+Drowsiness detected at 2025-03-19 18:38:09.711441 | Drowsiness %: 73.82%
+Drowsiness detected at 2025-03-19 18:38:09.718590 | Drowsiness %: 73.93%
+Drowsiness detected at 2025-03-19 18:38:09.782186 | Drowsiness %: 73.95%
+Drowsiness detected at 2025-03-19 18:38:09.791160 | Drowsiness %: 74.06%
+Drowsiness detected at 2025-03-19 18:38:09.855387 | Drowsiness %: 74.09%
+Drowsiness detected at 2025-03-19 18:38:09.862467 | Drowsiness %: 74.20%
+Drowsiness detected at 2025-03-19 18:38:09.921779 | Drowsiness %: 74.22%
+Drowsiness detected at 2025-03-19 18:38:09.927669 | Drowsiness %: 74.33%
+Drowsiness detected at 2025-03-19 18:38:09.992411 | Drowsiness %: 74.36%
+Drowsiness detected at 2025-03-19 18:38:10.001347 | Drowsiness %: 74.47%
+Drowsiness detected at 2025-03-19 18:38:10.073005 | Drowsiness %: 74.49%
+Drowsiness detected at 2025-03-19 18:38:10.080595 | Drowsiness %: 74.60%
+Drowsiness detected at 2025-03-19 18:38:10.148395 | Drowsiness %: 74.63%
+Drowsiness detected at 2025-03-19 18:38:10.158071 | Drowsiness %: 74.73%
+Drowsiness detected at 2025-03-19 18:38:10.265891 | Drowsiness %: 74.76%
+Drowsiness detected at 2025-03-19 18:38:10.275970 | Drowsiness %: 74.87%
+Drowsiness detected at 2025-03-19 18:38:10.356908 | Drowsiness %: 74.89%
+Drowsiness detected at 2025-03-19 18:38:10.365020 | Drowsiness %: 75.00%
+Drowsiness detected at 2025-03-19 18:38:10.435249 | Drowsiness %: 75.03%
+Drowsiness detected at 2025-03-19 18:38:10.444547 | Drowsiness %: 75.13%
+Drowsiness detected at 2025-03-19 18:38:10.515627 | Drowsiness %: 75.16%
+Drowsiness detected at 2025-03-19 18:38:10.528557 | Drowsiness %: 75.27%
+Drowsiness detected at 2025-03-19 18:38:10.608221 | Drowsiness %: 75.29%
+Drowsiness detected at 2025-03-19 18:38:10.615220 | Drowsiness %: 75.40%
+Drowsiness detected at 2025-03-19 18:38:10.693785 | Drowsiness %: 75.42%
+Drowsiness detected at 2025-03-19 18:38:10.700789 | Drowsiness %: 75.53%
+Drowsiness detected at 2025-03-19 18:38:10.776125 | Drowsiness %: 75.56%
+Drowsiness detected at 2025-03-19 18:38:10.781864 | Drowsiness %: 75.66%
+Drowsiness detected at 2025-03-19 18:38:10.852466 | Drowsiness %: 75.69%
+Drowsiness detected at 2025-03-19 18:38:10.861250 | Drowsiness %: 75.79%
+Drowsiness detected at 2025-03-19 18:38:10.933878 | Drowsiness %: 75.82%
+Drowsiness detected at 2025-03-19 18:38:10.942613 | Drowsiness %: 75.92%
+Drowsiness detected at 2025-03-19 18:38:11.009725 | Drowsiness %: 75.95%
+Drowsiness detected at 2025-03-19 18:38:11.016886 | Drowsiness %: 76.05%
+Drowsiness detected at 2025-03-19 18:38:11.085950 | Drowsiness %: 76.08%
+Drowsiness detected at 2025-03-19 18:38:11.094237 | Drowsiness %: 76.19%
+Drowsiness detected at 2025-03-19 18:38:11.161806 | Drowsiness %: 76.21%
+Drowsiness detected at 2025-03-19 18:38:11.167974 | Drowsiness %: 76.32%
+Drowsiness detected at 2025-03-19 18:38:11.237583 | Drowsiness %: 76.34%
+Drowsiness detected at 2025-03-19 18:38:11.244286 | Drowsiness %: 76.45%
+Drowsiness detected at 2025-03-19 18:38:11.311389 | Drowsiness %: 76.47%
+Drowsiness detected at 2025-03-19 18:38:11.317856 | Drowsiness %: 76.58%
+Drowsiness detected at 2025-03-19 18:38:11.391308 | Drowsiness %: 76.60%
+Drowsiness detected at 2025-03-19 18:38:11.396568 | Drowsiness %: 76.71%
+Drowsiness detected at 2025-03-19 18:38:11.466378 | Drowsiness %: 76.73%
+Drowsiness detected at 2025-03-19 18:38:11.476090 | Drowsiness %: 76.83%
+Drowsiness detected at 2025-03-19 18:38:11.546010 | Drowsiness %: 76.86%
+Drowsiness detected at 2025-03-19 18:38:11.553670 | Drowsiness %: 76.96%
+Drowsiness detected at 2025-03-19 18:38:11.620878 | Drowsiness %: 76.99%
+Drowsiness detected at 2025-03-19 18:38:11.628276 | Drowsiness %: 77.09%
+Drowsiness detected at 2025-03-19 18:38:11.696342 | Drowsiness %: 77.12%
+Drowsiness detected at 2025-03-19 18:38:11.705956 | Drowsiness %: 77.22%
+Drowsiness detected at 2025-03-19 18:38:11.775570 | Drowsiness %: 77.24%
+Drowsiness detected at 2025-03-19 18:38:11.782099 | Drowsiness %: 77.35%
+Drowsiness detected at 2025-03-19 18:38:13.415322 | Drowsiness %: 79.29%
+Drowsiness detected at 2025-03-19 18:38:13.485283 | Drowsiness %: 79.31%
+Drowsiness detected at 2025-03-19 18:38:13.490786 | Drowsiness %: 79.41%
+Drowsiness detected at 2025-03-19 18:38:13.562365 | Drowsiness %: 79.43%
+Drowsiness detected at 2025-03-19 18:38:13.572089 | Drowsiness %: 79.53%
+Drowsiness detected at 2025-03-19 18:38:13.638729 | Drowsiness %: 79.55%
+Drowsiness detected at 2025-03-19 18:38:13.645818 | Drowsiness %: 79.66%
+Drowsiness detected at 2025-03-19 18:38:13.710340 | Drowsiness %: 79.68%
+Drowsiness detected at 2025-03-19 18:38:13.718117 | Drowsiness %: 79.78%
+Drowsiness detected at 2025-03-19 18:38:13.789299 | Drowsiness %: 79.80%
+Drowsiness detected at 2025-03-19 18:38:13.797437 | Drowsiness %: 79.90%
+Drowsiness detected at 2025-03-19 18:38:17.255170 | Drowsiness %: 84.37%
+Drowsiness detected at 2025-03-19 18:38:17.260710 | Drowsiness %: 84.46%
+Drowsiness detected at 2025-03-19 18:38:17.324867 | Drowsiness %: 84.48%
+Drowsiness detected at 2025-03-19 18:38:17.330175 | Drowsiness %: 84.57%
+Drowsiness detected at 2025-03-19 18:38:17.397040 | Drowsiness %: 84.59%
+Drowsiness detected at 2025-03-19 18:38:17.403969 | Drowsiness %: 84.68%
+Drowsiness detected at 2025-03-19 18:38:17.475737 | Drowsiness %: 84.70%
+Drowsiness detected at 2025-03-19 18:38:17.482615 | Drowsiness %: 84.79%
+Drowsiness detected at 2025-03-19 18:38:17.549248 | Drowsiness %: 84.81%
+Drowsiness detected at 2025-03-19 18:38:17.558323 | Drowsiness %: 84.90%
+Drowsiness detected at 2025-03-19 18:38:17.618252 | Drowsiness %: 84.91%
+Drowsiness detected at 2025-03-19 18:38:17.627768 | Drowsiness %: 85.01%
+Drowsiness detected at 2025-03-19 18:38:17.696609 | Drowsiness %: 85.02%
+Drowsiness detected at 2025-03-19 18:38:17.703881 | Drowsiness %: 85.12%
+Drowsiness detected at 2025-03-19 18:38:17.766317 | Drowsiness %: 85.13%
+Drowsiness detected at 2025-03-19 18:38:17.774637 | Drowsiness %: 85.23%
+Drowsiness detected at 2025-03-19 18:38:17.835814 | Drowsiness %: 85.24%
+Drowsiness detected at 2025-03-19 18:38:17.847449 | Drowsiness %: 85.34%
+Drowsiness detected at 2025-03-19 18:38:17.913691 | Drowsiness %: 85.35%
+Drowsiness detected at 2025-03-19 18:38:17.920386 | Drowsiness %: 85.44%
+Drowsiness detected at 2025-03-19 18:38:17.982746 | Drowsiness %: 85.46%
+Drowsiness detected at 2025-03-19 18:38:17.991102 | Drowsiness %: 85.55%
+Drowsiness detected at 2025-03-19 18:38:18.052589 | Drowsiness %: 85.57%
+Drowsiness detected at 2025-03-19 18:38:18.059988 | Drowsiness %: 85.66%
+Drowsiness detected at 2025-03-19 18:38:19.905311 | Drowsiness %: 87.55%
+Drowsiness detected at 2025-03-19 18:38:19.910674 | Drowsiness %: 87.64%
+Drowsiness detected at 2025-03-19 18:38:19.976136 | Drowsiness %: 87.65%
+Drowsiness detected at 2025-03-19 18:38:19.982827 | Drowsiness %: 87.74%
+Drowsiness detected at 2025-03-19 18:38:20.043987 | Drowsiness %: 87.75%
+Drowsiness detected at 2025-03-19 18:38:20.051203 | Drowsiness %: 87.84%
+Drowsiness detected at 2025-03-19 18:38:20.116025 | Drowsiness %: 87.85%
+Drowsiness detected at 2025-03-19 18:38:20.124675 | Drowsiness %: 87.95%
+Drowsiness detected at 2025-03-19 18:38:20.190254 | Drowsiness %: 87.96%
+Drowsiness detected at 2025-03-19 18:38:20.198260 | Drowsiness %: 88.05%
+Drowsiness detected at 2025-03-19 18:38:20.257314 | Drowsiness %: 88.06%
+Drowsiness detected at 2025-03-19 18:38:20.266451 | Drowsiness %: 88.15%
+Drowsiness detected at 2025-03-19 18:38:20.330462 | Drowsiness %: 88.16%
+Drowsiness detected at 2025-03-19 18:38:20.336930 | Drowsiness %: 88.25%
+Drowsiness detected at 2025-03-19 18:38:20.404693 | Drowsiness %: 88.26%
+Drowsiness detected at 2025-03-19 18:38:20.413471 | Drowsiness %: 88.35%
+Drowsiness detected at 2025-03-19 18:38:20.482427 | Drowsiness %: 88.36%
+Drowsiness detected at 2025-03-19 18:38:20.489849 | Drowsiness %: 88.45%
+Drowsiness detected at 2025-03-19 18:38:20.559155 | Drowsiness %: 88.47%
+Drowsiness detected at 2025-03-19 18:38:20.565084 | Drowsiness %: 88.56%
+Drowsiness detected at 2025-03-19 18:38:20.633327 | Drowsiness %: 88.57%
+Drowsiness detected at 2025-03-19 18:38:20.642067 | Drowsiness %: 88.66%
+Drowsiness detected at 2025-03-19 18:38:20.710042 | Drowsiness %: 88.67%
+Drowsiness detected at 2025-03-19 18:38:20.716628 | Drowsiness %: 88.76%
+Drowsiness detected at 2025-03-19 18:38:20.778765 | Drowsiness %: 88.77%
+Drowsiness detected at 2025-03-19 18:38:20.785433 | Drowsiness %: 88.86%
+Drowsiness detected at 2025-03-19 18:38:20.846947 | Drowsiness %: 88.87%
+Drowsiness detected at 2025-03-19 18:38:20.852988 | Drowsiness %: 88.96%
+Drowsiness detected at 2025-03-19 18:38:20.916123 | Drowsiness %: 88.97%
+Drowsiness detected at 2025-03-19 18:38:20.925765 | Drowsiness %: 89.06%
+Drowsiness detected at 2025-03-19 18:38:20.983792 | Drowsiness %: 89.07%
+Drowsiness detected at 2025-03-19 18:38:20.992851 | Drowsiness %: 89.16%
+Drowsiness detected at 2025-03-19 18:38:21.054345 | Drowsiness %: 89.17%
+Drowsiness detected at 2025-03-19 18:38:21.063794 | Drowsiness %: 89.26%
+Drowsiness detected at 2025-03-19 18:38:21.129740 | Drowsiness %: 89.27%
+Drowsiness detected at 2025-03-19 18:38:21.136978 | Drowsiness %: 89.36%
+Drowsiness detected at 2025-03-19 18:38:21.204420 | Drowsiness %: 89.37%
+Drowsiness detected at 2025-03-19 18:38:26.547910 | Drowsiness %: 93.18%
+Drowsiness detected at 2025-03-19 18:38:26.616020 | Drowsiness %: 93.18%
+Drowsiness detected at 2025-03-19 18:38:26.623399 | Drowsiness %: 93.27%
+Drowsiness detected at 2025-03-19 18:38:26.695075 | Drowsiness %: 93.27%
+Drowsiness detected at 2025-03-19 18:38:26.700595 | Drowsiness %: 93.36%
+Drowsiness detected at 2025-03-19 18:38:26.768649 | Drowsiness %: 93.36%
+Drowsiness detected at 2025-03-19 18:38:26.778454 | Drowsiness %: 93.44%
+Drowsiness detected at 2025-03-19 18:38:26.843910 | Drowsiness %: 93.45%
+Drowsiness detected at 2025-03-19 18:38:26.851091 | Drowsiness %: 93.53%
+Drowsiness detected at 2025-03-19 18:38:26.916972 | Drowsiness %: 93.54%
+Drowsiness detected at 2025-03-19 18:38:26.924983 | Drowsiness %: 93.62%
+Drowsiness detected at 2025-03-19 18:38:26.985687 | Drowsiness %: 93.63%
+Drowsiness detected at 2025-03-19 18:38:26.992420 | Drowsiness %: 93.71%
+Drowsiness detected at 2025-03-19 18:38:27.053802 | Drowsiness %: 93.71%
+Drowsiness detected at 2025-03-19 18:38:27.063096 | Drowsiness %: 93.80%
+Drowsiness detected at 2025-03-19 18:38:27.123886 | Drowsiness %: 93.80%
+Drowsiness detected at 2025-03-19 18:38:27.129450 | Drowsiness %: 93.88%
+Drowsiness detected at 2025-03-19 18:38:27.187276 | Drowsiness %: 93.89%
+Drowsiness detected at 2025-03-19 18:38:27.194842 | Drowsiness %: 93.97%
+Drowsiness detected at 2025-03-19 18:38:27.254955 | Drowsiness %: 93.98%
+Drowsiness detected at 2025-03-19 18:38:27.262171 | Drowsiness %: 94.06%
+Drowsiness detected at 2025-03-19 18:38:27.327460 | Drowsiness %: 94.06%
+Drowsiness detected at 2025-03-19 18:38:27.333946 | Drowsiness %: 94.15%
+Drowsiness detected at 2025-03-19 18:38:27.399748 | Drowsiness %: 94.15%
+Drowsiness detected at 2025-03-19 18:38:27.405530 | Drowsiness %: 94.23%
+Drowsiness detected at 2025-03-19 18:38:27.474381 | Drowsiness %: 94.24%
+Drowsiness detected at 2025-03-19 18:38:27.483527 | Drowsiness %: 94.32%
+Drowsiness detected at 2025-03-19 18:38:27.552152 | Drowsiness %: 94.33%
+Drowsiness detected at 2025-03-19 18:38:27.559898 | Drowsiness %: 94.41%
+Drowsiness detected at 2025-03-19 18:38:27.625541 | Drowsiness %: 94.41%
+Drowsiness detected at 2025-03-19 18:38:27.633724 | Drowsiness %: 94.49%
+Drowsiness detected at 2025-03-19 18:38:27.702945 | Drowsiness %: 94.50%
+Drowsiness detected at 2025-03-19 18:38:27.711100 | Drowsiness %: 94.58%
+Drowsiness detected at 2025-03-19 18:38:27.778315 | Drowsiness %: 94.59%
+Drowsiness detected at 2025-03-19 18:38:27.783870 | Drowsiness %: 94.67%
+Drowsiness detected at 2025-03-19 18:38:27.855409 | Drowsiness %: 94.67%
+Drowsiness detected at 2025-03-19 18:38:27.864326 | Drowsiness %: 94.75%
+Drowsiness detected at 2025-03-19 18:38:27.921757 | Drowsiness %: 94.76%
+Drowsiness detected at 2025-03-19 18:38:27.929919 | Drowsiness %: 94.84%
+Drowsiness detected at 2025-03-19 18:38:27.999267 | Drowsiness %: 94.84%
+Drowsiness detected at 2025-03-19 18:38:28.007318 | Drowsiness %: 94.93%
+Drowsiness detected at 2025-03-19 18:38:28.078237 | Drowsiness %: 94.93%
+Drowsiness detected at 2025-03-19 18:38:28.084552 | Drowsiness %: 95.01%
+Drowsiness detected at 2025-03-19 18:38:28.153895 | Drowsiness %: 95.02%
+Drowsiness detected at 2025-03-19 18:38:28.163638 | Drowsiness %: 95.10%
+Drowsiness detected at 2025-03-19 18:38:28.228193 | Drowsiness %: 95.10%
+Drowsiness detected at 2025-03-19 18:38:28.235150 | Drowsiness %: 95.18%
+Drowsiness detected at 2025-03-19 18:38:28.305059 | Drowsiness %: 95.19%
+Drowsiness detected at 2025-03-19 18:38:28.315790 | Drowsiness %: 95.27%
+Drowsiness detected at 2025-03-19 18:38:28.372036 | Drowsiness %: 95.27%
+Drowsiness detected at 2025-03-19 18:38:28.380053 | Drowsiness %: 95.35%
+Drowsiness detected at 2025-03-19 18:38:28.439061 | Drowsiness %: 95.36%
+Drowsiness detected at 2025-03-19 18:38:28.447650 | Drowsiness %: 95.44%
+Drowsiness detected at 2025-03-19 18:38:29.776610 | Drowsiness %: 96.40%
+Drowsiness detected at 2025-03-19 18:38:29.840343 | Drowsiness %: 96.41%
+Drowsiness detected at 2025-03-19 18:38:29.904092 | Drowsiness %: 96.41%
+Drowsiness detected at 2025-03-19 18:38:29.968753 | Drowsiness %: 96.41%
+Drowsiness detected at 2025-03-19 18:38:30.035829 | Drowsiness %: 96.41%
+Drowsiness detected at 2025-03-19 18:38:30.093279 | Drowsiness %: 96.42%
+Drowsiness detected at 2025-03-19 18:38:30.156757 | Drowsiness %: 96.42%
+Drowsiness detected at 2025-03-19 18:38:30.218694 | Drowsiness %: 96.42%
+Drowsiness detected at 2025-03-19 18:38:30.277854 | Drowsiness %: 96.43%
+Drowsiness detected at 2025-03-19 18:38:30.347052 | Drowsiness %: 96.43%
+Drowsiness detected at 2025-03-19 18:38:30.411619 | Drowsiness %: 96.43%
+Drowsiness detected at 2025-03-19 18:38:31.793613 | Drowsiness %: 96.27%
+Drowsiness detected at 2025-03-19 18:38:31.856956 | Drowsiness %: 96.27%
+Drowsiness detected at 2025-03-19 18:38:31.922429 | Drowsiness %: 96.28%
+Drowsiness detected at 2025-03-19 18:38:31.981533 | Drowsiness %: 96.28%
+Drowsiness detected at 2025-03-19 18:38:33.026770 | Drowsiness %: 97.09%
+Drowsiness detected at 2025-03-19 18:38:33.087154 | Drowsiness %: 97.10%
+Drowsiness detected at 2025-03-19 18:38:33.093110 | Drowsiness %: 97.17%
+Drowsiness detected at 2025-03-19 18:38:33.163100 | Drowsiness %: 97.18%
+Drowsiness detected at 2025-03-19 18:38:33.169048 | Drowsiness %: 97.25%
+Drowsiness detected at 2025-03-19 18:38:43.958887 | Drowsiness %: 93.58%
+Drowsiness detected at 2025-03-19 18:38:44.016281 | Drowsiness %: 93.59%
+Drowsiness detected at 2025-03-19 18:38:44.128707 | Drowsiness %: 93.59%
+Drowsiness detected at 2025-03-19 18:38:44.182929 | Drowsiness %: 93.60%
+Drowsiness detected at 2025-03-19 18:38:44.238013 | Drowsiness %: 93.60%
+Drowsiness detected at 2025-03-19 18:38:44.310143 | Drowsiness %: 93.61%
+Drowsiness detected at 2025-03-19 18:38:44.363099 | Drowsiness %: 93.61%
+Drowsiness detected at 2025-03-19 18:38:44.420357 | Drowsiness %: 93.61%
+Drowsiness detected at 2025-03-19 18:38:44.472129 | Drowsiness %: 93.62%
+Drowsiness detected at 2025-03-19 18:38:44.528388 | Drowsiness %: 93.62%
+Drowsiness detected at 2025-03-19 18:38:44.584263 | Drowsiness %: 93.63%
+Drowsiness detected at 2025-03-19 18:38:44.644231 | Drowsiness %: 93.63%
+Drowsiness detected at 2025-03-19 18:38:44.706751 | Drowsiness %: 93.64%
+Drowsiness detected at 2025-03-19 18:38:44.717168 | Drowsiness %: 93.70%
+Drowsiness detected at 2025-03-19 18:38:44.785084 | Drowsiness %: 93.70%
+Drowsiness detected at 2025-03-19 18:38:44.794586 | Drowsiness %: 93.77%
+Drowsiness detected at 2025-03-19 18:38:44.860019 | Drowsiness %: 93.77%
+Drowsiness detected at 2025-03-19 18:38:44.867054 | Drowsiness %: 93.84%
+Drowsiness detected at 2025-03-19 18:38:44.932215 | Drowsiness %: 93.84%
+Drowsiness detected at 2025-03-19 18:38:44.942113 | Drowsiness %: 93.91%
+Drowsiness detected at 2025-03-19 18:38:46.754991 | Drowsiness %: 95.44%
+Drowsiness detected at 2025-03-19 18:38:46.817057 | Drowsiness %: 95.45%
+Drowsiness detected at 2025-03-19 18:38:46.824993 | Drowsiness %: 95.51%
+Drowsiness detected at 2025-03-19 18:38:46.882760 | Drowsiness %: 95.51%
+Drowsiness detected at 2025-03-19 18:38:46.890700 | Drowsiness %: 95.58%
+Drowsiness detected at 2025-03-19 18:38:46.962211 | Drowsiness %: 95.58%
+Drowsiness detected at 2025-03-19 18:38:47.028234 | Drowsiness %: 95.58%
+Drowsiness detected at 2025-03-19 18:38:47.093288 | Drowsiness %: 95.59%
+Drowsiness detected at 2025-03-19 18:38:47.150511 | Drowsiness %: 95.59%
+Drowsiness detected at 2025-03-19 18:38:47.210842 | Drowsiness %: 95.59%
+Drowsiness detected at 2025-03-19 18:38:47.275507 | Drowsiness %: 95.59%
+Drowsiness detected at 2025-03-19 18:38:47.337901 | Drowsiness %: 95.60%
+Drowsiness detected at 2025-03-19 18:38:47.403397 | Drowsiness %: 95.60%
+Drowsiness detected at 2025-03-19 18:38:47.468290 | Drowsiness %: 95.60%
+Drowsiness detected at 2025-03-19 18:38:47.530950 | Drowsiness %: 95.61%
+Drowsiness detected at 2025-03-19 18:38:47.587840 | Drowsiness %: 95.61%
+Drowsiness detected at 2025-03-19 18:38:47.650914 | Drowsiness %: 95.61%
+Drowsiness detected at 2025-03-19 18:38:47.712134 | Drowsiness %: 95.61%
+Drowsiness detected at 2025-03-19 18:38:47.776666 | Drowsiness %: 95.62%
+Drowsiness detected at 2025-03-19 18:38:47.841770 | Drowsiness %: 95.62%
+Drowsiness detected at 2025-03-19 18:38:47.848454 | Drowsiness %: 95.68%
+Drowsiness detected at 2025-03-19 18:38:47.907596 | Drowsiness %: 95.69%
+Drowsiness detected at 2025-03-19 18:38:47.974927 | Drowsiness %: 95.69%
+Drowsiness detected at 2025-03-19 18:38:47.981915 | Drowsiness %: 95.75%
+Drowsiness detected at 2025-03-19 18:38:48.051851 | Drowsiness %: 95.75%
+Drowsiness detected at 2025-03-19 18:38:48.061809 | Drowsiness %: 95.82%
+Drowsiness detected at 2025-03-19 18:38:48.125139 | Drowsiness %: 95.82%
+Drowsiness detected at 2025-03-19 18:38:48.131316 | Drowsiness %: 95.88%
+Drowsiness detected at 2025-03-19 18:38:48.196924 | Drowsiness %: 95.89%
+Drowsiness detected at 2025-03-19 18:38:48.207658 | Drowsiness %: 95.95%
+Drowsiness detected at 2025-03-19 18:38:48.298195 | Drowsiness %: 95.95%
+Drowsiness detected at 2025-03-19 18:38:48.305989 | Drowsiness %: 96.02%
+Drowsiness detected at 2025-03-19 18:38:48.376353 | Drowsiness %: 96.02%
+Drowsiness detected at 2025-03-19 18:38:48.384627 | Drowsiness %: 96.08%
+Drowsiness detected at 2025-03-19 18:38:48.448424 | Drowsiness %: 96.08%
+Drowsiness detected at 2025-03-19 18:38:48.458535 | Drowsiness %: 96.15%
+Drowsiness detected at 2025-03-19 18:38:48.520283 | Drowsiness %: 96.15%
+Drowsiness detected at 2025-03-19 18:38:48.588404 | Drowsiness %: 96.15%
+Drowsiness detected at 2025-03-19 18:38:48.596444 | Drowsiness %: 96.21%
+Drowsiness detected at 2025-03-19 18:38:48.661442 | Drowsiness %: 96.22%
+Drowsiness detected at 2025-03-19 18:38:48.670953 | Drowsiness %: 96.28%
+Drowsiness detected at 2025-03-19 18:38:48.742419 | Drowsiness %: 96.28%
+Drowsiness detected at 2025-03-19 18:38:48.801542 | Drowsiness %: 96.28%
+Drowsiness detected at 2025-03-19 18:38:48.872104 | Drowsiness %: 96.29%
+Drowsiness detected at 2025-03-19 18:38:48.932139 | Drowsiness %: 96.29%
+Drowsiness detected at 2025-03-19 18:38:48.994730 | Drowsiness %: 96.29%
+Drowsiness detected at 2025-03-19 18:38:49.057360 | Drowsiness %: 96.29%
+Drowsiness detected at 2025-03-19 18:38:49.125509 | Drowsiness %: 96.30%
+Drowsiness detected at 2025-03-19 18:38:49.188722 | Drowsiness %: 96.30%
+Drowsiness detected at 2025-03-19 18:38:49.249080 | Drowsiness %: 96.30%
+Drowsiness detected at 2025-03-19 18:38:49.311468 | Drowsiness %: 96.30%
+Drowsiness detected at 2025-03-19 18:38:49.319458 | Drowsiness %: 96.37%
+Drowsiness detected at 2025-03-19 18:38:49.387295 | Drowsiness %: 96.37%
+Drowsiness detected at 2025-03-19 18:38:49.395187 | Drowsiness %: 96.43%
+Drowsiness detected at 2025-03-19 18:38:49.460333 | Drowsiness %: 96.43%
+Drowsiness detected at 2025-03-19 18:38:49.468859 | Drowsiness %: 96.50%
+Drowsiness detected at 2025-03-19 18:38:49.536762 | Drowsiness %: 96.50%
+Drowsiness detected at 2025-03-19 18:38:49.544028 | Drowsiness %: 96.56%
+Drowsiness detected at 2025-03-19 18:38:49.611006 | Drowsiness %: 96.56%
+Drowsiness detected at 2025-03-19 18:38:49.618869 | Drowsiness %: 96.62%
+Drowsiness detected at 2025-03-19 18:38:49.683585 | Drowsiness %: 96.63%
+Drowsiness detected at 2025-03-19 18:38:49.692465 | Drowsiness %: 96.69%
+Drowsiness detected at 2025-03-19 18:38:49.761057 | Drowsiness %: 96.69%
+Drowsiness detected at 2025-03-19 18:38:49.768259 | Drowsiness %: 96.75%
+Drowsiness detected at 2025-03-19 18:38:49.832275 | Drowsiness %: 96.76%
+Drowsiness detected at 2025-03-19 18:38:49.840276 | Drowsiness %: 96.82%
+Drowsiness detected at 2025-03-19 18:38:49.911193 | Drowsiness %: 96.82%
+Drowsiness detected at 2025-03-19 18:38:49.919319 | Drowsiness %: 96.88%
+Drowsiness detected at 2025-03-19 18:38:49.987728 | Drowsiness %: 96.88%
+Drowsiness detected at 2025-03-19 18:38:49.995789 | Drowsiness %: 96.95%
+Drowsiness detected at 2025-03-19 18:38:50.066186 | Drowsiness %: 96.95%
+Drowsiness detected at 2025-03-19 18:38:50.077062 | Drowsiness %: 97.01%
+Drowsiness detected at 2025-03-19 18:38:50.144524 | Drowsiness %: 97.01%
+Drowsiness detected at 2025-03-19 18:38:50.150239 | Drowsiness %: 97.08%
+Drowsiness detected at 2025-03-19 18:38:50.217215 | Drowsiness %: 97.08%
+Drowsiness detected at 2025-03-19 18:38:50.226880 | Drowsiness %: 97.14%
+Drowsiness detected at 2025-03-19 18:38:50.293432 | Drowsiness %: 97.14%
+Drowsiness detected at 2025-03-19 18:38:50.299811 | Drowsiness %: 97.20%
+Drowsiness detected at 2025-03-19 18:38:50.367289 | Drowsiness %: 97.20%
+Drowsiness detected at 2025-03-19 18:38:50.376682 | Drowsiness %: 97.27%
+Drowsiness detected at 2025-03-19 18:38:50.444136 | Drowsiness %: 97.27%
+Drowsiness detected at 2025-03-19 18:38:50.450815 | Drowsiness %: 97.33%
+Drowsiness detected at 2025-03-19 18:38:52.685714 | Drowsiness %: 98.97%
+Drowsiness detected at 2025-03-19 18:38:52.691230 | Drowsiness %: 99.03%
+Drowsiness detected at 2025-03-19 18:38:52.757971 | Drowsiness %: 99.03%
+Drowsiness detected at 2025-03-19 18:38:52.766907 | Drowsiness %: 99.09%
+Drowsiness detected at 2025-03-19 18:38:52.834619 | Drowsiness %: 99.09%
+Drowsiness detected at 2025-03-19 18:38:52.841314 | Drowsiness %: 99.15%
+Drowsiness detected at 2025-03-19 18:38:52.900789 | Drowsiness %: 99.15%
+Drowsiness detected at 2025-03-19 18:38:58.076114 | Drowsiness %: 101.73%
+Drowsiness detected at 2025-03-19 18:38:58.140803 | Drowsiness %: 101.73%
+Drowsiness detected at 2025-03-19 18:39:01.116618 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.177986 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.237447 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.301730 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.361147 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.420119 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.486888 | Drowsiness %: 102.79%
+Drowsiness detected at 2025-03-19 18:39:01.492061 | Drowsiness %: 102.84%
+Drowsiness detected at 2025-03-19 18:39:01.555027 | Drowsiness %: 102.84%
+Drowsiness detected at 2025-03-19 18:39:01.561799 | Drowsiness %: 102.90%
+Drowsiness detected at 2025-03-19 18:39:01.629824 | Drowsiness %: 102.89%
+Drowsiness detected at 2025-03-19 18:39:01.637891 | Drowsiness %: 102.95%
+Drowsiness detected at 2025-03-19 18:39:01.703819 | Drowsiness %: 102.95%
+Drowsiness detected at 2025-03-19 18:39:01.712838 | Drowsiness %: 103.00%
+Drowsiness detected at 2025-03-19 18:39:01.778905 | Drowsiness %: 103.00%
+Drowsiness detected at 2025-03-19 18:39:01.787219 | Drowsiness %: 103.06%
+Drowsiness detected at 2025-03-19 18:39:01.845672 | Drowsiness %: 103.06%
+Drowsiness detected at 2025-03-19 18:39:01.854836 | Drowsiness %: 103.11%
+Drowsiness detected at 2025-03-19 18:39:01.922866 | Drowsiness %: 103.11%
+Drowsiness detected at 2025-03-19 18:39:01.929325 | Drowsiness %: 103.16%
+Drowsiness detected at 2025-03-19 18:39:01.994940 | Drowsiness %: 103.16%
+Drowsiness detected at 2025-03-19 18:39:04.228062 | Drowsiness %: 103.42%
+Drowsiness detected at 2025-03-19 18:39:04.233508 | Drowsiness %: 103.48%
+Drowsiness detected at 2025-03-19 18:39:04.296659 | Drowsiness %: 103.47%
+Drowsiness detected at 2025-03-19 18:39:04.304416 | Drowsiness %: 103.53%
+Drowsiness detected at 2025-03-19 18:39:04.368380 | Drowsiness %: 103.53%
+Drowsiness detected at 2025-03-19 18:39:04.373658 | Drowsiness %: 103.58%
+Drowsiness detected at 2025-03-19 18:39:04.437903 | Drowsiness %: 103.58%
+Drowsiness detected at 2025-03-19 18:39:04.447858 | Drowsiness %: 103.63%
+Drowsiness detected at 2025-03-19 18:39:04.511055 | Drowsiness %: 103.63%
+Drowsiness detected at 2025-03-19 18:39:04.518159 | Drowsiness %: 103.69%
+Drowsiness detected at 2025-03-19 18:39:04.585665 | Drowsiness %: 103.68%
+Drowsiness detected at 2025-03-19 18:39:04.594032 | Drowsiness %: 103.74%
+Drowsiness detected at 2025-03-19 18:39:04.656297 | Drowsiness %: 103.74%
+Drowsiness detected at 2025-03-19 18:39:04.664941 | Drowsiness %: 103.79%
+Drowsiness detected at 2025-03-19 18:39:04.730144 | Drowsiness %: 103.79%
+Drowsiness detected at 2025-03-19 18:39:04.739641 | Drowsiness %: 103.84%
+Drowsiness detected at 2025-03-19 18:39:04.808331 | Drowsiness %: 103.84%
+Drowsiness detected at 2025-03-19 18:39:04.817419 | Drowsiness %: 103.89%
+Drowsiness detected at 2025-03-19 18:39:04.874804 | Drowsiness %: 103.89%
+Drowsiness detected at 2025-03-19 18:39:04.883733 | Drowsiness %: 103.95%
+Drowsiness detected at 2025-03-19 18:39:04.953057 | Drowsiness %: 103.94%
+Drowsiness detected at 2025-03-19 18:39:04.962126 | Drowsiness %: 104.00%
+Drowsiness detected at 2025-03-19 18:39:05.029812 | Drowsiness %: 104.00%
+Drowsiness detected at 2025-03-19 18:39:05.038999 | Drowsiness %: 104.05%
+Drowsiness detected at 2025-03-19 18:39:05.107064 | Drowsiness %: 104.05%
+Drowsiness detected at 2025-03-19 18:39:05.116575 | Drowsiness %: 104.10%
+Drowsiness detected at 2025-03-19 18:39:05.185081 | Drowsiness %: 104.10%
+Drowsiness detected at 2025-03-19 18:39:05.193675 | Drowsiness %: 104.15%
+Drowsiness detected at 2025-03-19 18:39:05.264660 | Drowsiness %: 104.15%
+Drowsiness detected at 2025-03-19 18:39:05.269840 | Drowsiness %: 104.20%
+Drowsiness detected at 2025-03-19 18:39:05.329820 | Drowsiness %: 104.20%
+Drowsiness detected at 2025-03-19 18:39:05.337604 | Drowsiness %: 104.26%
+Drowsiness detected at 2025-03-19 18:39:05.403237 | Drowsiness %: 104.25%
+Drowsiness detected at 2025-03-19 18:39:05.412266 | Drowsiness %: 104.31%
+Drowsiness detected at 2025-03-19 18:39:05.480070 | Drowsiness %: 104.31%
+Drowsiness detected at 2025-03-19 18:39:05.485354 | Drowsiness %: 104.36%
+Drowsiness detected at 2025-03-19 18:39:05.548768 | Drowsiness %: 104.36%
+Drowsiness detected at 2025-03-19 18:39:05.555811 | Drowsiness %: 104.41%
+Drowsiness detected at 2025-03-19 18:39:05.617492 | Drowsiness %: 104.41%
+Drowsiness detected at 2025-03-19 18:39:05.623562 | Drowsiness %: 104.46%
+Drowsiness detected at 2025-03-19 18:39:05.686865 | Drowsiness %: 104.46%
+Drowsiness detected at 2025-03-19 18:39:05.696037 | Drowsiness %: 104.51%
+Drowsiness detected at 2025-03-19 18:39:05.751374 | Drowsiness %: 104.51%
+Drowsiness detected at 2025-03-19 18:39:05.759826 | Drowsiness %: 104.56%
+Drowsiness detected at 2025-03-19 18:39:05.824324 | Drowsiness %: 104.56%
+Drowsiness detected at 2025-03-19 18:39:05.831953 | Drowsiness %: 104.62%
+Drowsiness detected at 2025-03-19 18:39:05.898369 | Drowsiness %: 104.61%
+Drowsiness detected at 2025-03-19 18:39:05.903848 | Drowsiness %: 104.67%
+Drowsiness detected at 2025-03-19 18:39:05.971092 | Drowsiness %: 104.66%
+Drowsiness detected at 2025-03-19 18:39:05.982939 | Drowsiness %: 104.72%
+Drowsiness detected at 2025-03-19 18:39:06.046630 | Drowsiness %: 104.72%
+Drowsiness detected at 2025-03-19 18:39:06.053686 | Drowsiness %: 104.77%
+Drowsiness detected at 2025-03-19 18:39:06.127406 | Drowsiness %: 104.77%
+Drowsiness detected at 2025-03-19 18:39:06.132840 | Drowsiness %: 104.82%
+Drowsiness detected at 2025-03-19 18:39:06.197351 | Drowsiness %: 104.82%
+Drowsiness detected at 2025-03-19 18:39:06.203689 | Drowsiness %: 104.87%
+Drowsiness detected at 2025-03-19 18:39:06.270895 | Drowsiness %: 104.87%
+Drowsiness detected at 2025-03-19 18:39:06.279534 | Drowsiness %: 104.92%
+Drowsiness detected at 2025-03-19 18:39:06.345123 | Drowsiness %: 104.92%
+Drowsiness detected at 2025-03-19 18:39:06.351369 | Drowsiness %: 104.97%
+Drowsiness detected at 2025-03-19 18:39:06.416997 | Drowsiness %: 104.97%
+Drowsiness detected at 2025-03-19 18:39:06.427005 | Drowsiness %: 105.02%
+Drowsiness detected at 2025-03-19 18:39:07.454913 | Drowsiness %: 105.72%
+Drowsiness detected at 2025-03-19 18:39:07.460193 | Drowsiness %: 105.77%
+Drowsiness detected at 2025-03-19 18:39:07.523547 | Drowsiness %: 105.77%
+Drowsiness detected at 2025-03-19 18:39:07.531007 | Drowsiness %: 105.82%
+Drowsiness detected at 2025-03-19 18:39:07.598192 | Drowsiness %: 105.82%
+Drowsiness detected at 2025-03-19 18:39:07.605939 | Drowsiness %: 105.87%
+Drowsiness detected at 2025-03-19 18:39:07.666377 | Drowsiness %: 105.87%
+Drowsiness detected at 2025-03-19 18:39:07.675527 | Drowsiness %: 105.92%
+Drowsiness detected at 2025-03-19 18:39:07.741308 | Drowsiness %: 105.92%
+Drowsiness detected at 2025-03-19 18:39:07.751059 | Drowsiness %: 105.97%
+Drowsiness detected at 2025-03-19 18:39:07.811874 | Drowsiness %: 105.97%
+Drowsiness detected at 2025-03-19 18:39:07.818023 | Drowsiness %: 106.02%
+Drowsiness detected at 2025-03-19 18:39:07.886119 | Drowsiness %: 106.02%
+Drowsiness detected at 2025-03-19 18:39:07.894787 | Drowsiness %: 106.07%
+Drowsiness detected at 2025-03-19 18:39:07.960686 | Drowsiness %: 106.07%
+Drowsiness detected at 2025-03-19 18:39:07.967623 | Drowsiness %: 106.12%
+Drowsiness detected at 2025-03-19 18:39:08.037358 | Drowsiness %: 106.11%
+Drowsiness detected at 2025-03-19 18:39:08.045162 | Drowsiness %: 106.17%
+Drowsiness detected at 2025-03-19 18:39:08.111450 | Drowsiness %: 106.16%
+Drowsiness detected at 2025-03-19 18:39:08.117574 | Drowsiness %: 106.22%
+Drowsiness detected at 2025-03-19 18:39:08.185242 | Drowsiness %: 106.21%
+Drowsiness detected at 2025-03-19 18:39:08.194768 | Drowsiness %: 106.27%
+Drowsiness detected at 2025-03-19 18:39:08.256154 | Drowsiness %: 106.26%
+Drowsiness detected at 2025-03-19 18:39:08.264370 | Drowsiness %: 106.32%
+Drowsiness detected at 2025-03-19 18:39:08.332840 | Drowsiness %: 106.31%
+Drowsiness detected at 2025-03-19 18:39:08.341289 | Drowsiness %: 106.37%
+Drowsiness detected at 2025-03-19 18:39:08.403976 | Drowsiness %: 106.36%
+Drowsiness detected at 2025-03-19 18:39:08.409874 | Drowsiness %: 106.41%
+Drowsiness detected at 2025-03-19 18:39:08.478315 | Drowsiness %: 106.41%
+Drowsiness detected at 2025-03-19 18:39:08.485977 | Drowsiness %: 106.46%
+Drowsiness detected at 2025-03-19 18:39:08.549076 | Drowsiness %: 106.46%
+Drowsiness detected at 2025-03-19 18:39:08.557887 | Drowsiness %: 106.51%
+Drowsiness detected at 2025-03-19 18:39:08.615106 | Drowsiness %: 106.51%
+Drowsiness detected at 2025-03-19 18:39:08.623694 | Drowsiness %: 106.56%
+Drowsiness detected at 2025-03-19 18:39:08.689270 | Drowsiness %: 106.56%
+Drowsiness detected at 2025-03-19 18:39:08.694357 | Drowsiness %: 106.61%
+Drowsiness detected at 2025-03-19 18:39:08.759711 | Drowsiness %: 106.61%
+Drowsiness detected at 2025-03-19 18:39:08.766036 | Drowsiness %: 106.66%
+Drowsiness detected at 2025-03-19 18:39:08.837241 | Drowsiness %: 106.66%
+Drowsiness detected at 2025-03-19 18:39:08.843924 | Drowsiness %: 106.71%
+Drowsiness detected at 2025-03-19 18:39:08.905234 | Drowsiness %: 106.71%
+Drowsiness detected at 2025-03-19 18:39:08.914651 | Drowsiness %: 106.76%
+Drowsiness detected at 2025-03-19 18:39:08.980325 | Drowsiness %: 106.75%
+Drowsiness detected at 2025-03-19 18:39:08.989073 | Drowsiness %: 106.81%
+Drowsiness detected at 2025-03-19 18:39:09.049554 | Drowsiness %: 106.80%
+Drowsiness detected at 2025-03-19 18:39:09.057650 | Drowsiness %: 106.86%
+Drowsiness detected at 2025-03-19 18:39:09.116166 | Drowsiness %: 106.85%
+Drowsiness detected at 2025-03-19 18:39:09.126433 | Drowsiness %: 106.90%
+Drowsiness detected at 2025-03-19 18:39:09.196786 | Drowsiness %: 106.90%
+Drowsiness detected at 2025-03-19 18:39:09.205014 | Drowsiness %: 106.95%
+Drowsiness detected at 2025-03-19 18:39:09.266304 | Drowsiness %: 106.95%
+Drowsiness detected at 2025-03-19 18:39:09.275690 | Drowsiness %: 107.00%
+Drowsiness detected at 2025-03-19 18:39:09.345140 | Drowsiness %: 107.00%
+Drowsiness detected at 2025-03-19 18:39:09.353155 | Drowsiness %: 107.05%
+Drowsiness detected at 2025-03-19 18:39:09.412346 | Drowsiness %: 107.05%
+Drowsiness detected at 2025-03-19 18:39:09.420334 | Drowsiness %: 107.10%
+Drowsiness detected at 2025-03-19 18:39:09.489874 | Drowsiness %: 107.09%
+Drowsiness detected at 2025-03-19 18:39:09.496706 | Drowsiness %: 107.15%
+Drowsiness detected at 2025-03-19 18:39:09.555667 | Drowsiness %: 107.14%
+Drowsiness detected at 2025-03-19 18:39:09.562592 | Drowsiness %: 107.19%
+Drowsiness detected at 2025-03-19 18:39:09.625210 | Drowsiness %: 107.19%
+Drowsiness detected at 2025-03-19 18:39:09.633340 | Drowsiness %: 107.24%
+Drowsiness detected at 2025-03-19 18:39:09.696119 | Drowsiness %: 107.24%
+Drowsiness detected at 2025-03-19 18:39:09.703602 | Drowsiness %: 107.29%
+Drowsiness detected at 2025-03-19 18:39:09.768994 | Drowsiness %: 107.29%
+Drowsiness detected at 2025-03-19 18:39:09.778136 | Drowsiness %: 107.34%
+Drowsiness detected at 2025-03-19 18:39:09.841017 | Drowsiness %: 107.34%
+Drowsiness detected at 2025-03-19 18:39:09.847774 | Drowsiness %: 107.39%
+Drowsiness detected at 2025-03-19 18:39:09.913247 | Drowsiness %: 107.38%
+Drowsiness detected at 2025-03-19 18:39:09.922793 | Drowsiness %: 107.44%
+Drowsiness detected at 2025-03-19 18:39:09.990801 | Drowsiness %: 107.43%
+Drowsiness detected at 2025-03-19 18:39:09.998098 | Drowsiness %: 107.48%
+Drowsiness detected at 2025-03-19 18:39:10.064878 | Drowsiness %: 107.48%
+Drowsiness detected at 2025-03-19 18:39:10.074528 | Drowsiness %: 107.53%
+Drowsiness detected at 2025-03-19 18:39:10.134843 | Drowsiness %: 107.53%
+Drowsiness detected at 2025-03-19 18:39:10.142729 | Drowsiness %: 107.58%
+Drowsiness detected at 2025-03-19 18:39:10.208848 | Drowsiness %: 107.58%
+Drowsiness detected at 2025-03-19 18:39:10.215314 | Drowsiness %: 107.63%
+Drowsiness detected at 2025-03-19 18:39:10.278351 | Drowsiness %: 107.62%
+Drowsiness detected at 2025-03-19 18:39:10.286021 | Drowsiness %: 107.68%
+Drowsiness detected at 2025-03-19 18:39:10.355751 | Drowsiness %: 107.67%
+Drowsiness detected at 2025-03-19 18:39:10.362448 | Drowsiness %: 107.72%
+Drowsiness detected at 2025-03-19 18:39:10.422834 | Drowsiness %: 107.72%
+Drowsiness detected at 2025-03-19 18:39:10.428983 | Drowsiness %: 107.77%
+Drowsiness detected at 2025-03-19 18:39:10.489050 | Drowsiness %: 107.77%
+Drowsiness detected at 2025-03-19 18:39:10.496374 | Drowsiness %: 107.82%
+Drowsiness detected at 2025-03-19 18:39:10.560612 | Drowsiness %: 107.82%
+Drowsiness detected at 2025-03-19 18:39:10.566930 | Drowsiness %: 107.87%
+Drowsiness detected at 2025-03-19 18:39:10.641397 | Drowsiness %: 107.86%
+Drowsiness detected at 2025-03-19 18:39:10.647734 | Drowsiness %: 107.92%
+Drowsiness detected at 2025-03-19 18:39:10.714546 | Drowsiness %: 107.91%
+Drowsiness detected at 2025-03-19 18:39:10.723014 | Drowsiness %: 107.96%
+Drowsiness detected at 2025-03-19 18:39:10.792130 | Drowsiness %: 107.96%
+Drowsiness detected at 2025-03-19 18:39:10.799707 | Drowsiness %: 108.01%
+Drowsiness detected at 2025-03-19 18:39:10.865280 | Drowsiness %: 108.01%
+Drowsiness detected at 2025-03-19 18:39:10.875253 | Drowsiness %: 108.06%
+Drowsiness detected at 2025-03-19 18:39:13.408360 | Drowsiness %: 109.50%
+Drowsiness detected at 2025-03-19 18:39:13.414750 | Drowsiness %: 109.55%
+Drowsiness detected at 2025-03-19 18:39:13.483463 | Drowsiness %: 109.55%
+Drowsiness detected at 2025-03-19 18:39:13.491167 | Drowsiness %: 109.60%
+Drowsiness detected at 2025-03-19 18:39:13.558742 | Drowsiness %: 109.59%
+Drowsiness detected at 2025-03-19 18:39:13.568047 | Drowsiness %: 109.64%
+Drowsiness detected at 2025-03-19 18:39:13.628314 | Drowsiness %: 109.64%
+Drowsiness detected at 2025-03-19 18:39:13.636835 | Drowsiness %: 109.69%
+Drowsiness detected at 2025-03-19 18:39:13.703218 | Drowsiness %: 109.68%
+Drowsiness detected at 2025-03-30 18:29:51.729400 | Drowsiness %: 15.30%
+Drowsiness detected at 2025-03-30 18:29:51.787513 | Drowsiness %: 15.53%
+Drowsiness detected at 2025-03-30 18:29:51.844995 | Drowsiness %: 15.76%
+Drowsiness detected at 2025-03-30 18:29:51.899442 | Drowsiness %: 15.99%
+Drowsiness detected at 2025-03-30 18:29:51.956018 | Drowsiness %: 16.22%
+Drowsiness detected at 2025-03-30 18:29:52.017274 | Drowsiness %: 16.44%
+Drowsiness detected at 2025-03-30 18:29:52.070292 | Drowsiness %: 16.67%
+Drowsiness detected at 2025-03-30 18:29:52.134219 | Drowsiness %: 16.89%
+Drowsiness detected at 2025-03-30 18:29:52.186321 | Drowsiness %: 17.11%
+Drowsiness detected at 2025-03-30 18:29:52.243697 | Drowsiness %: 17.33%
+Drowsiness detected at 2025-03-30 18:29:56.848431 | Drowsiness %: 28.33%
+Drowsiness detected at 2025-03-30 18:39:10.703663 | Drowsiness %: 7.58%
+Drowsiness detected at 2025-03-30 18:39:10.774232 | Drowsiness %: 7.92%
+Drowsiness detected at 2025-03-30 18:39:10.841263 | Drowsiness %: 8.27%
+Drowsiness detected at 2025-03-30 18:39:10.906909 | Drowsiness %: 8.61%
+Drowsiness detected at 2025-03-30 18:39:10.962359 | Drowsiness %: 8.96%
+Drowsiness detected at 2025-03-30 18:39:11.023059 | Drowsiness %: 9.29%
+Drowsiness detected at 2025-03-30 18:39:11.089313 | Drowsiness %: 9.63%
+Drowsiness detected at 2025-03-30 18:39:11.190748 | Drowsiness %: 9.93%
+Drowsiness detected at 2025-03-30 18:39:11.247222 | Drowsiness %: 10.26%
+Drowsiness detected at 2025-03-30 18:39:11.307519 | Drowsiness %: 10.58%
+Drowsiness detected at 2025-03-30 18:39:11.365145 | Drowsiness %: 10.91%
+Drowsiness detected at 2025-03-30 18:39:11.428595 | Drowsiness %: 11.23%
+Drowsiness detected at 2025-03-30 18:39:11.490003 | Drowsiness %: 11.55%
+Drowsiness detected at 2025-03-30 18:39:11.555540 | Drowsiness %: 11.87%
+Drowsiness detected at 2025-03-30 18:39:11.610917 | Drowsiness %: 12.19%
+Drowsiness detected at 2025-03-30 18:39:11.671522 | Drowsiness %: 12.50%
+Drowsiness detected at 2025-03-30 18:39:11.738653 | Drowsiness %: 12.81%
+Drowsiness detected at 2025-03-30 18:39:11.803512 | Drowsiness %: 13.12%
+Drowsiness detected at 2025-03-30 18:39:11.858303 | Drowsiness %: 13.43%
+Drowsiness detected at 2025-03-30 18:39:11.921332 | Drowsiness %: 13.73%
+Drowsiness detected at 2025-03-30 18:39:11.985749 | Drowsiness %: 14.04%
+Drowsiness detected at 2025-03-30 18:39:12.043142 | Drowsiness %: 14.34%
+Drowsiness detected at 2025-03-30 18:39:12.099866 | Drowsiness %: 14.63%
+Drowsiness detected at 2025-03-30 18:39:12.155340 | Drowsiness %: 14.93%
+Drowsiness detected at 2025-03-30 18:39:12.212160 | Drowsiness %: 15.22%
+Drowsiness detected at 2025-03-30 18:39:12.273185 | Drowsiness %: 15.52%
+Drowsiness detected at 2025-03-30 18:39:12.334382 | Drowsiness %: 15.81%
+Drowsiness detected at 2025-03-30 18:39:12.393412 | Drowsiness %: 16.10%
+Drowsiness detected at 2025-03-30 18:39:12.450957 | Drowsiness %: 16.38%
+Drowsiness detected at 2025-03-30 18:39:12.513910 | Drowsiness %: 16.67%
+Drowsiness detected at 2025-03-30 18:39:12.574198 | Drowsiness %: 16.95%
+Drowsiness detected at 2025-03-30 18:39:12.633367 | Drowsiness %: 17.23%
+Drowsiness detected at 2025-03-30 18:39:12.690121 | Drowsiness %: 17.51%
+Drowsiness detected at 2025-03-30 18:39:12.743365 | Drowsiness %: 17.79%
+Drowsiness detected at 2025-03-30 18:39:12.799035 | Drowsiness %: 18.06%
+Drowsiness detected at 2025-03-30 18:39:12.861992 | Drowsiness %: 18.33%
+Drowsiness detected at 2025-03-30 18:39:12.921837 | Drowsiness %: 18.60%
+Drowsiness detected at 2025-03-30 18:39:12.975964 | Drowsiness %: 18.87%
+Drowsiness detected at 2025-03-30 18:39:13.041299 | Drowsiness %: 19.14%
+Drowsiness detected at 2025-03-30 18:39:13.105846 | Drowsiness %: 19.41%
+Drowsiness detected at 2025-03-30 18:39:13.181762 | Drowsiness %: 19.67%
+Drowsiness detected at 2025-03-30 18:39:13.259612 | Drowsiness %: 19.93%
+Drowsiness detected at 2025-03-30 18:39:13.310165 | Drowsiness %: 20.20%
+Drowsiness detected at 2025-03-30 18:39:13.369099 | Drowsiness %: 20.45%
+Drowsiness detected at 2025-03-30 18:39:13.434347 | Drowsiness %: 20.71%
+Drowsiness detected at 2025-03-30 18:39:13.492803 | Drowsiness %: 20.97%
+Drowsiness detected at 2025-03-30 18:39:13.548119 | Drowsiness %: 21.22%
+Drowsiness detected at 2025-03-30 18:39:13.608165 | Drowsiness %: 21.47%
+Drowsiness detected at 2025-03-30 18:39:13.662018 | Drowsiness %: 21.73%
+Drowsiness detected at 2025-03-30 18:39:13.715314 | Drowsiness %: 21.97%
+Drowsiness detected at 2025-03-30 18:39:13.776112 | Drowsiness %: 22.22%
+Drowsiness detected at 2025-03-30 18:39:13.831343 | Drowsiness %: 22.47%
+Drowsiness detected at 2025-03-30 18:39:13.890384 | Drowsiness %: 22.71%
+Drowsiness detected at 2025-03-30 18:39:13.947727 | Drowsiness %: 22.96%
+Drowsiness detected at 2025-03-30 18:39:14.005852 | Drowsiness %: 23.20%
+Drowsiness detected at 2025-03-30 18:39:14.061212 | Drowsiness %: 23.44%
+Drowsiness detected at 2025-03-30 18:39:14.119688 | Drowsiness %: 23.68%
+Drowsiness detected at 2025-03-30 18:39:14.181482 | Drowsiness %: 23.91%
